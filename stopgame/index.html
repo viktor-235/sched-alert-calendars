@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en" data-langs="en ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>document.documentElement.classList.add('i18n-pending');</script>
+  <title>StopGame streams — calendar</title>
+  <meta name="description" content="Schedule of StopGame live streams: subscribe to the calendar, follow the Telegram announcements or browse the schedule.">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#141417">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='5' width='26' height='24' rx='5' fill='%23d32f2f'/%3E%3Crect x='9' y='2' width='3' height='7' rx='1.5' fill='%23e8e8ec'/%3E%3Crect x='20' y='2' width='3' height='7' rx='1.5' fill='%23e8e8ec'/%3E%3Ccircle cx='16' cy='18.5' r='5' fill='%23fff'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="../assets/site.css">
+  <script src="../assets/i18n.js"></script>
+  <script src="../assets/vendor/ical.js/ical.min.js" defer></script>
+  <script src="../assets/vendor/fullcalendar/index.global.min.js" defer></script>
+  <script src="../assets/vendor/fullcalendar/locales/ru.global.min.js" defer></script>
+  <script src="../assets/calendar-page.js" defer></script>
+</head>
+<body data-calendar="streams.ics">
+  <header class="site-header">
+    <div class="container">
+      <a class="back-link" href="../" data-i18n="nav.back">← All calendars</a>
+      <div class="lang-switch" data-lang-switch data-i18n-attr="aria-label:lang.switch" role="group" aria-label="Language" hidden></div>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <section class="intro">
+        <h1 class="page-title" data-i18n="title">StopGame streams</h1>
+        <p class="lead">
+          <span data-i18n="intro.before">Schedule of StopGame live streams, updated automatically from the </span><a href="https://stopgame.ru/live_schedule" target="_blank" rel="noopener" data-i18n="intro.link">official schedule</a><span data-i18n="intro.after">. Subscribe to the calendar to see streams in your calendar app, or follow the Telegram channel to get notified when a stream is announced, rescheduled, goes live or is canceled.</span>
+        </p>
+        <p class="disclaimer" data-i18n="intro.disclaimer">Unofficial fan project, not affiliated with StopGame.</p>
+      </section>
+
+      <div class="cards">
+        <section class="card" aria-labelledby="subscribe-title">
+          <h2 id="subscribe-title" data-i18n="subscribe.title">Subscribe to the calendar</h2>
+          <div class="url-field">
+            <input id="calendar-url" type="text" readonly spellcheck="false" aria-label="Calendar URL" data-i18n-attr="aria-label:subscribe.url">
+            <button class="button" type="button" id="copy-button" aria-label="Copy calendar link" data-i18n-attr="aria-label:subscribe.copyLabel">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+              <span data-i18n="subscribe.copy">Copy</span>
+            </button>
+          </div>
+          <div class="actions">
+            <a class="button button-primary" id="webcal-link" href="#" data-i18n="subscribe.webcal">Subscribe</a>
+            <a class="button" id="google-link" href="#" target="_blank" rel="noopener" data-i18n="subscribe.google">Add to Google Calendar</a>
+          </div>
+          <p class="hint" data-i18n="subscribe.hint">Updates automatically in your calendar app.</p>
+        </section>
+
+        <section class="card" aria-labelledby="telegram-title">
+          <h2 id="telegram-title" data-i18n="telegram.title">Telegram channel</h2>
+          <p data-i18n="telegram.text">Stream announcements: new, rescheduled, live and canceled streams.</p>
+          <div class="actions">
+            <a class="button button-primary" href="https://t.me/sg_alerts" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.7 19.4c-.2 1.1-.9 1.3-1.8.8l-4.9-3.6-2.4 2.3c-.3.3-.5.5-1 .5l.4-5 9.1-8.2c.4-.4-.1-.6-.6-.2L6.2 13.1 1.4 11.6c-1-.3-1.1-1 .2-1.5L20.5 2.8c.9-.3 1.6.2 1.4 1.5Z"/></svg>
+              <span data-i18n="telegram.open">Open @sg_alerts</span>
+            </a>
+          </div>
+        </section>
+      </div>
+
+      <section class="schedule" aria-labelledby="schedule-title">
+        <div class="schedule-head">
+          <h2 id="schedule-title" data-i18n="schedule.title">Schedule</h2>
+          <span class="tz-caption" id="tz-caption"></span>
+        </div>
+        <div class="calendar-box">
+          <div id="calendar"></div>
+          <div class="calendar-error" id="calendar-error" role="alert" hidden>
+            <span data-i18n="schedule.error">Couldn't load the schedule.</span>
+            <button class="button button-primary" type="button" id="retry-button" data-i18n="schedule.retry">Retry</button>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <a href="https://github.com/viktor-235/sched-alert-bot">sched-alert-bot</a>
+    </div>
+  </footer>
+
+  <dialog class="dialog" id="event-dialog" aria-labelledby="dialog-title">
+    <img class="dialog-image" id="dialog-image" alt="" referrerpolicy="no-referrer" hidden>
+    <div class="dialog-body">
+      <div class="dialog-head">
+        <h3 class="dialog-title" id="dialog-title"></h3>
+        <button class="dialog-close" type="button" id="dialog-close" aria-label="Close" data-i18n-attr="aria-label:dialog.close">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+        </button>
+      </div>
+      <p class="dialog-time" id="dialog-time"></p>
+      <p class="dialog-description" id="dialog-description" hidden></p>
+      <div class="actions" id="dialog-links" hidden></div>
+    </div>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

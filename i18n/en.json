@@ -1,0 +1,10 @@
+{
+  "page.title": "Sched Alert — event calendars",
+  "page.description": "Calendars of event schedules from websites: subscribe in your calendar app or follow the Telegram announcements.",
+  "home.title": "Event calendars",
+  "home.lead": "Schedules collected from websites. Subscribe in your calendar app, follow the Telegram announcements or browse them here.",
+  "tile.stopgame.subtitle": "Stream schedule",
+  "tile.stopgame.meta": "Calendar · Telegram",
+  "footer.text": "Powered by",
+  "footer.link": "sched-alert-bot"
+}
