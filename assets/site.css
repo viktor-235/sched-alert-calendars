@@ -247,6 +247,7 @@ main {
 .cards {
   display: grid;
   grid-template-columns: 1fr;
+  align-items: start;
   gap: 16px;
   margin-top: 28px;
 }
@@ -279,6 +280,39 @@ main {
 
 .card .hint {
   font-size: 0.875rem;
+}
+
+.help {
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.help summary {
+  width: fit-content;
+  color: var(--accent-text);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.help summary:hover {
+  color: var(--text);
+}
+
+.help p {
+  margin: 10px 0 0;
+}
+
+.help ul {
+  margin: 8px 0 0;
+  padding-left: 20px;
+}
+
+.help li + li {
+  margin-top: 6px;
+}
+
+.help strong {
+  color: var(--text);
 }
 
 .card .actions {

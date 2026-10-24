@@ -29,5 +29,12 @@
   "calendar.list": "List",
   "calendar.noEvents": "No streams",
   "calendar.live": "LIVE",
-  "dialog.close": "Close"
+  "dialog.close": "Close",
+  "help.summary": "Not working?",
+  "help.intro": "Copy the link with the Copy button and add it in your calendar app by hand:",
+  "help.google.before": "open ",
+  "help.google.link": "Add calendar from URL",
+  "help.google.after": " in a browser (on a phone, switch to the desktop site) and paste the link. The calendar then appears in the app on your phone too; if it doesn't, turn on Sync for it in the app's settings. Google refreshes such calendars rarely, up to once a day.",
+  "help.apple": "on a Mac: File → New Calendar Subscription; on an iPhone: Settings → Apps → Calendar → Calendar Accounts → Add Account → Other → Add Subscribed Calendar.",
+  "help.outlook": "Add calendar → Subscribe from web."
 }
