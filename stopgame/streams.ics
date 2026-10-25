@@ -1666,19 +1666,19 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2502@stopgame.sched-alert-bot
-DTSTAMP:20261023T190900Z
-LAST-MODIFIED:20261023T190900Z
-SEQUENCE:1
+DTSTAMP:20261025T102700Z
+LAST-MODIFIED:20261025T102700Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261025T150000
 DTEND;TZID=Europe/Moscow:20261025T170000
 SUMMARY:ЛЮБОЙ ЦЕНОЙ\, ВОССТАВШИЙ\, ХИТРЫЙ КОЙОТ | Кровью и потом: Анаболи
- ки\, Крупная рыба
+ ки\, Крупная рыба [Кинологи]
 DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Катерина Краснопольская\n\n
  Twitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.c
  om/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 23/c583x325/WwqFKsvMBxl2TQ9oi3nXNQ/v9z7OWOYG.jpg?1792782534
+ 23/c583x325/WwqFKsvMBxl2TQ9oi3nXNQ/v9z7OWOYG.jpg?1792923911
 END:VEVENT
 BEGIN:VEVENT
 UID:2488@stopgame.sched-alert-bot
