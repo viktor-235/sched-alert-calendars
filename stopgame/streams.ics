@@ -161,28 +161,1514 @@ DTSTART:20110327T020000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2470@stopgame.sched-alert-bot
-DTSTAMP:20261024T134700Z
-LAST-MODIFIED:20261024T134700Z
+UID:1453@stopgame.sched-alert-bot
+DTSTAMP:20250303T174102Z
+LAST-MODIFIED:20250303T174102Z
 SEQUENCE:0
-DTSTART;TZID=Europe/Moscow:20261024T170000
-DTEND;TZID=Europe/Moscow:20261024T190000
-SUMMARY:Guild Wars: Адский рейд [ММОрафон]
-DESCRIPTION:Отправляемся в самый сложный (по мнению Доттериана) рейд! Ста
- рый бог смерти Дуум разбушевался\, и как водится\, мы единственные\, кто
-  может его усмирить.\n\nАлексей Ермолаев\, Илья Шарифов\n\nTwitch: https
- ://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameR
- uOnline/live\nStopGame: https://stopgame.ru/live_schedule
+DTSTART;TZID=Europe/Moscow:20250304T190000
+DTEND;TZID=Europe/Moscow:20250304T210000
+SUMMARY:Пригорание. Зов лести
+DESCRIPTION:Семён Окороков\, Василий Гальперов\n\nTwitch: https://www.twi
+ tch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/li
+ ve\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
+UID:1554@stopgame.sched-alert-bot
+DTSTAMP:20250527T120200Z
+LAST-MODIFIED:20250527T120200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20250530T230000
+DTEND;TZID=Europe/Moscow:20250531T010000
+SUMMARY:Black Mirror. Скучаем по майским
+DESCRIPTION:Сэм Гордон как никогда близок к разгадке тайн замка «Чёрное з
+ еркало»!\n\nДмитрий Карнов\n\nTwitch: https://www.twitch.tv/stopgameru\n
+ YouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https
+ ://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2025/05/
+ 27/c583x325/JlMfmnUD1TVyT2b7MljzRw/rYxKVlib.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:1561@stopgame.sched-alert-bot
+DTSTAMP:20250603T083700Z
+LAST-MODIFIED:20250603T083700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20250603T180000
+DTEND;TZID=Europe/Moscow:20250603T200000
+SUMMARY:Пригорание. Старое испытание
+DESCRIPTION:Василий Гальперов\, Семён Окороков\n\nTwitch: https://www.twi
+ tch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/li
+ ve\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
+UID:1566@stopgame.sched-alert-bot
+DTSTAMP:20250605T095700Z
+LAST-MODIFIED:20250605T095700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20250606T180000
+DTEND;TZID=Europe/Moscow:20250606T200000
+SUMMARY:Ретрореквест. Commander Keen 4: Secret of the Oracle
+DESCRIPTION:Традиционное пятничное погружение в уютную ностальгию. Предаё
+ мся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в бло
+ гах: правила\, прошлые эфиры\, текущее состояние списка реквестов и мног
+ ое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.tv/s
+ topgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nStop
+ Game: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2025/06/
+ 05/c583x325/wn5-gu3I5ePNMI_eSWMSUw/DTdMXzwU7.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:1605@stopgame.sched-alert-bot
+DTSTAMP:20250701T131701Z
+LAST-MODIFIED:20250701T131701Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20250702T180000
+DTEND;TZID=Europe/Moscow:20250702T200000
+SUMMARY:Rematch. Игрожурский камбэк
+DESCRIPTION:Первый блин был комом\, но мы не отчаиваемся. И устраиваем ре
+ матч в Rematch\, чтобы попытаться получить хотя бы одну победу!\n\nАлекс
+ андр Вилисов\, Иван Лоев\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2025/07/
+ 01/c583x325/of4w16Mdp6XC3jjz6s2K0A/3np8dx8.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:1658@stopgame.sched-alert-bot
+DTSTAMP:20250814T002700Z
+LAST-MODIFIED:20250814T002700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20250816T150000
+DTEND;TZID=Europe/Moscow:20250816T170000
+SUMMARY:Drag x Drive. Баскетбол на колясках
+DESCRIPTION:Самый странный эксклюзив Switch 2…\n\nМихаил Галкин\n\nTwitch
+ : https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@St
+ opgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2025/08/
+ 16/c583x325/iH5fXpfTIQA2AYpJRAl88A/drag_x_drive_basketbol_na_kolyaskah_m
+ ain.jpg?1755131029
+END:VEVENT
+BEGIN:VEVENT
+UID:1676@stopgame.sched-alert-bot
+DTSTAMP:20250827T145700Z
+LAST-MODIFIED:20250827T145700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20250829T180000
+DTEND;TZID=Europe/Moscow:20250829T200000
+SUMMARY:Ле-Ман Историй серий!
+DESCRIPTION:Новый «Ле-Ман» стремительно надвигается! Уже в эти выходные!\
+ n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtub
+ e.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedul
+ e
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2025/08/
+ 29/c583x325/a5-GBBBqB-p4ww6NLDJkPQ/le_man_istoriy_serii_main.jpg?1756306
+ 407
+END:VEVENT
+BEGIN:VEVENT
+UID:1748@stopgame.sched-alert-bot
+DTSTAMP:20251002T142700Z
+LAST-MODIFIED:20251002T142700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20251008T180000
+DTEND;TZID=Europe/Moscow:20251008T200000
+SUMMARY:Generation Zero. Скрежет металла
+DESCRIPTION:Продолжаем выживать среди оживших икеевских тракторов.\n\nЯн 
+ Грибович\, Александр Вилисов\, Семён Окороков\, Илья Шарифов\n\nTwitch: 
+ https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stop
+ gameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2025/10/
+ 08/c583x325/UoFbcoCLrzZlszLFa8Hrqw/generation_zero_skrezhet_metalla_main
+ .jpg?1759415092
+END:VEVENT
+BEGIN:VEVENT
+UID:1804@stopgame.sched-alert-bot
+DTSTAMP:20251104T102701Z
+LAST-MODIFIED:20251104T102701Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T160000
+SUMMARY:Dispatch 3/4. Все вредные привычки
+DESCRIPTION:Он не продержится здесь дольше недели…\n\nЯн Грибович\, Алекс
+ ей Ермолаев\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https:
+ //www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/
+ live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2025/11/
+ 06/c583x325/OUEMpnaiO4FywdWZZsLRaA/dispatch_3_4_gruppovaya_terapiya_main
+ .jpg?1762251964
+END:VEVENT
+BEGIN:VEVENT
+UID:1858@stopgame.sched-alert-bot
+DTSTAMP:20251207T192201Z
+LAST-MODIFIED:20251207T192201Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20251207T230000
+DTEND;TZID=Europe/Moscow:20251208T010000
+SUMMARY:Lies of P: Overture. Маркиона\, стрим второй
+DESCRIPTION:Когда-нибудь победим…\n\nАндрей Маковеев\n\nTwitch: https://w
+ ww.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnl
+ ine/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2025/12/
+ 07/c583x325/jthI3oHu-HPJAemspZ_-dw/lies_of_p_overture_markiona_strim_vto
+ roy_main.jpg?1765135062
+END:VEVENT
+BEGIN:VEVENT
+UID:1891@stopgame.sched-alert-bot
+DTSTAMP:20251225T183701Z
+LAST-MODIFIED:20251225T183701Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20251225T220000
+DTEND;TZID=Europe/Moscow:20251226T000000
+SUMMARY:Kingdom Come: Deliverance. Поход 2
+DESCRIPTION:Михаил Галкин\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2025/12/
+ 25/c583x325/1DYZcZ_yaGo0pnwlCbEfdA/kingdom_come_deliverance_pohod_2_main
+ .jpg?1766687680
+END:VEVENT
+BEGIN:VEVENT
+UID:1906@stopgame.sched-alert-bot
+DTSTAMP:20260104T155201Z
+LAST-MODIFIED:20260104T155201Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260104T220000
+DTEND;TZID=Europe/Moscow:20260105T000000
+SUMMARY:Sekiro: Shadows Die Twice. Обезьяны умирают дважды
+DESCRIPTION:Путешествие по токсичным волнам ностальгии.\n\nАндрей Маковее
+ в\, Анастасия Коноплёва\n\nTwitch: https://www.twitch.tv/stopgameru\nYou
+ Tube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://
+ stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/01/
+ 04/c583x325/33hJ-o5Zu_aXthxbTYLc6g/sekiro_shadows_die_twice_obezyany_umi
+ rayut_dvazhdy_main.jpg?1767541917
+END:VEVENT
+BEGIN:VEVENT
+UID:1912@stopgame.sched-alert-bot
+DTSTAMP:20260112T085701Z
+LAST-MODIFIED:20260112T085701Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260114T180000
+DTEND;TZID=Europe/Moscow:20260114T200000
+SUMMARY:DuneСrawl. Крабовое БароЩасте [Замесочная]
+DESCRIPTION:Милашная Barotrauma\, но верхом на исторически-корректном гиг
+ антском крабе!\n\nЯн Грибович\, Иван Лоев\, Алексей Ермолаев\, Илья Шари
+ фов\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.yo
+ utube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_sch
+ edule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/01/
+ 14/c583x325/lpGMYUh17cwoMlWcNnk_9A/dunesrawl_krabovoe_baroschaste_zameso
+ chnaya_main.jpg?1768208199
+END:VEVENT
+BEGIN:VEVENT
+UID:1899@stopgame.sched-alert-bot
+DTSTAMP:20260108T195201Z
+LAST-MODIFIED:20260108T195201Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260115T180000
+DTEND;TZID=Europe/Moscow:20260115T200000
+SUMMARY:100 смертей [Заход #3]
+DESCRIPTION:Александр Вилисов\, Анастасия Коноплёва\n\nTwitch: https://ww
+ w.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnli
+ ne/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2025/12/
+ 29/c583x325/b65PYLPGrA3SckDRoUTcwA/ousxSNLf.jpg?1767901635
+END:VEVENT
+BEGIN:VEVENT
+UID:1914@stopgame.sched-alert-bot
+DTSTAMP:20260111T091701Z
+LAST-MODIFIED:20260111T091701Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260116T180000
+DTEND;TZID=Europe/Moscow:20260116T200000
+SUMMARY:Devil May Cry 3 [Ретрореквест] (стрим второй)
+DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
+ даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
+ блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
+ ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/01/
+ 16/c583x325/hVsPSYRJ4jxa00NzzBnRYA/devil_may_cry_3_retrorekvest_strim_vt
+ oroy_main.jpg?1768122840
+END:VEVENT
+BEGIN:VEVENT
+UID:1922@stopgame.sched-alert-bot
+DTSTAMP:20260112T234701Z
+LAST-MODIFIED:20260112T234701Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260116T230000
+DTEND;TZID=Europe/Moscow:20260117T010000
+SUMMARY:Карновал квестов. Heart of China (эфир третий)
+DESCRIPTION:Из солнечного Катманду отправляемся в Париж через Стамбул (ка
+ залось бы\, причём тут Китай).\n\nДмитрий Карнов\n\nTwitch: https://www.
+ twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline
+ /live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/01/
+ 13/c583x325/Wo3RHc4GfYCVmQ4gzgWy7Q/OIc0TW7.jpg?1768261370
+END:VEVENT
+BEGIN:VEVENT
+UID:1920@stopgame.sched-alert-bot
+DTSTAMP:20260112T221201Z
+LAST-MODIFIED:20260112T221201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260118T150000
+DTEND;TZID=Europe/Moscow:20260118T170000
+SUMMARY:Jurassic Special: Мир Юрского Периода 1-3 [Кинологи]
+DESCRIPTION:Илья Шарифов\, Михаил Галкин\, Максим Солодилов\n\nTwitch: ht
+ tps://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stopga
+ meRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/01/
+ 13/c583x325/AF9AGGMGdkXwuI5pc0CjhQ/Tou2oNqS.jpg?1768255860
+END:VEVENT
+BEGIN:VEVENT
+UID:1921@stopgame.sched-alert-bot
+DTSTAMP:20260112T182201Z
+LAST-MODIFIED:20260112T182201Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260119T180000
+DTEND;TZID=Europe/Moscow:20260119T200000
+SUMMARY:Guild Wars 2: Эпический финал? [ММОрафон]
+DESCRIPTION:Пора уже прикончить этого дракона-некроманта раз и навсегда. 
+ Но перед этим нам предстоит пережить ещё много часов бессмысленного и бе
+ спощадного сюжета.\n\nИлья Шарифов\, Алексей Ермолаев\, Зулин\n\nTwitch:
+  https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Sto
+ pgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/01/
+ 19/c583x325/mv6jpJiDn-sR3Vuj83Pp6w/guild_wars_2_epicheskiy_final_mmorafo
+ n_main.jpg?1768242025
+END:VEVENT
+BEGIN:VEVENT
+UID:1915@stopgame.sched-alert-bot
+DTSTAMP:20260110T000701Z
+LAST-MODIFIED:20260110T000701Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260120T160000
+DTEND;TZID=Europe/Moscow:20260120T180000
+SUMMARY:Марафон. Elden Ring #2
+DESCRIPTION:Самое некрутое прохождение самых крутых серий под ваши заводн
+ ые треки и наши заводские кулстори!\n\nДаур Авидзба\, Катерина Краснопол
+ ьская\, Максим Кулаков\n\nTwitch: https://www.twitch.tv/stopgameru\nYouT
+ ube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://s
+ topgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/01/
+ 10/c583x325/YipV-d8VwxBkDyXslmCoOw/-PJlbklCg.jpg?1768003591
+END:VEVENT
+BEGIN:VEVENT
+UID:2049@stopgame.sched-alert-bot
+DTSTAMP:20260331T163203Z
+LAST-MODIFIED:20260331T163203Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260401T180000
+DTEND;TZID=Europe/Moscow:20260401T200000
+SUMMARY:[Взвешенный Ответ]
+DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов\n\nTwitch: https://www
+ .twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnlin
+ e/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
+UID:2087@stopgame.sched-alert-bot
+DTSTAMP:20260413T154201Z
+LAST-MODIFIED:20260413T154201Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260416T150000
+DTEND;TZID=Europe/Moscow:20260416T170000
+SUMMARY:Atomic Heart. Кровь на хрустале
+DESCRIPTION:Щупаем финальное DLC\, завершающее сюжет Atomic Heart.\n\nИль
+ я Шарифов\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://
+ www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/li
+ ve_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/04/
+ 13/c583x325/VeF6NZUm_J3PDX0UJY9ybw/TQ4x5G26K.jpg?1776094744
+END:VEVENT
+BEGIN:VEVENT
+UID:2099@stopgame.sched-alert-bot
+DTSTAMP:20260419T093700Z
+LAST-MODIFIED:20260419T093700Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260419T130000
+DTEND;TZID=Europe/Moscow:20260419T150000
+SUMMARY:MOUSE: P.I. For Hire. СЫРНЫЕ РАЗБОРКИ
+DESCRIPTION:Погружаемся в сырный детектив MOUSE: P.I. For Hire\n\nНикита 
+ Босс\, Флоппи\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: http
+ s://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.r
+ u/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/04/
+ 19/c583x325/R11eI-d4_KW9HoNEX-6xoQ/mouse_pi_for_hire_syrnye_razborki_mai
+ n.jpg?1776591242
+END:VEVENT
+BEGIN:VEVENT
+UID:2095@stopgame.sched-alert-bot
+DTSTAMP:20260421T182701Z
+LAST-MODIFIED:20260421T182701Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260423T160000
+DTEND;TZID=Europe/Moscow:20260423T180000
+SUMMARY:100 смертей. Ninja Gaiden 4 [Заход #3]
+DESCRIPTION:Играем в игру пока счетчик смертей не дойдет до 100. Если сче
+ тчик дошел до 100\, а игра не пройдена - офаем с позором. За донаты вы м
+ ожете установить нам временные челленджи и повлиять на количество смерте
+ й. Все правила и игры на https://stopgame.ru/100lives\n\nАнастасия Коноп
+ лёва\, Александр Вилисов\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/04/
+ 19/c583x325/tr3m3H8oFir8vfikqca3mQ/Jhq5zOtoh.jpg?1776795725
+END:VEVENT
+BEGIN:VEVENT
+UID:2107@stopgame.sched-alert-bot
+DTSTAMP:20260423T151200Z
+LAST-MODIFIED:20260423T151200Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260425T180000
+DTEND;TZID=Europe/Moscow:20260425T200000
+SUMMARY:СЕКРЕТНЫЙ ЭФИР
+DESCRIPTION:Это секретный эфир\, описание которого ещё невозможно написат
+ ь\, потому что игра\, которую мы будем показывать\, ещё не анонсирована!
+  Приходите смотреть!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.t
+ witch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/
+ live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/04/
+ 25/c583x325/HpL5yGi3XBfAUqRzh6q8lw/sekretnyy_efir_main.jpg?1776957028
+END:VEVENT
+BEGIN:VEVENT
+UID:2108@stopgame.sched-alert-bot
+DTSTAMP:20260426T140700Z
+LAST-MODIFIED:20260426T140700Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260503T180000
+DTEND;TZID=Europe/Moscow:20260503T200000
+SUMMARY:СВОЯК. Толстый и тонкий
+DESCRIPTION:Собрать СГЧГК в этот раз не получилось\, поэтому будем интелл
+ ектуально рубиться в СВОЯК\, где нас ждут два очень разных пака!\n\nИван
+  Лоев\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.
+ youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_s
+ chedule
+URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
+UID:2125@stopgame.sched-alert-bot
+DTSTAMP:20260505T101204Z
+LAST-MODIFIED:20260505T101204Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260507T180000
+DTEND;TZID=Europe/Moscow:20260507T200000
+SUMMARY:100 смертей. Ninja Gaiden 4 [Гранд Финал]
+DESCRIPTION:Играем в игру пока счетчик смертей не дойдет до 100. Если сче
+ тчик дошел до 100\, а игра не пройдена - офаем с позором. За донаты вы м
+ ожете установить нам временные челленджи и повлиять на количество смерте
+ й. Все правила и игры на https://stopgame.ru/100lives\n\nАнастасия Коноп
+ лёва\, Александр Вилисов\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 05/c583x325/1HQV5SeQnrX7ddFtZGuquQ/UzCXybYDb.jpg?1777975902
+END:VEVENT
+BEGIN:VEVENT
+UID:2134@stopgame.sched-alert-bot
+DTSTAMP:20260507T093200Z
+LAST-MODIFIED:20260507T093200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260507T180000
+DTEND;TZID=Europe/Moscow:20260507T200000
+SUMMARY:Gamble With Your Friends. Азартный френдслоп [Замесочная]
+DESCRIPTION:Михаил Галкин\, Александра Кост\, Флоппи\, Иван Лоев\, Зулин\
+ , Cheezzy fioletovaya boroda\n\nTwitch: https://www.twitch.tv/stopgameru
+ \nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: htt
+ ps://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 07/c583x325/BjPRxYduifX5YDRSZPCQ-w/gamble_with_your_friends_azartnyy_fre
+ ndslop_zamesochnaya_main.jpg?1778146122
+END:VEVENT
+BEGIN:VEVENT
+UID:2127@stopgame.sched-alert-bot
+DTSTAMP:20260508T112700Z
+LAST-MODIFIED:20260508T112700Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260509T140000
+DTEND;TZID=Europe/Moscow:20260509T160000
+SUMMARY:Chaser. Смешная стрелялка из Словакии [Шутерок под Кофеёк]
+DESCRIPTION:Пожилой геймдизайн\, смешная озвучка\, заряженные ведущие и п
+ ревосходный чат. Не забудьте кофе или чай.\n\nДенис Старков\, Михаил Гал
+ кин\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.yo
+ utube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_sch
+ edule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 08/c583x325/2rKfdrIstO_ZyBeLe0fqMA/51tNo5d.jpg?1778239326
+END:VEVENT
+BEGIN:VEVENT
+UID:2148@stopgame.sched-alert-bot
+DTSTAMP:20260513T035701Z
+LAST-MODIFIED:20260513T035701Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260513T150000
+DTEND;TZID=Europe/Moscow:20260513T170000
+SUMMARY:Directive 8020. Никто не услышит твой тыгыдык!
+DESCRIPTION:Встречаем второй сезон The Dark Pictures! Какие космические у
+ жастики подготовили для нас Супермассивные?\n\nИлья Шарифов\n\nTwitch: h
+ ttps://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stopg
+ ameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 13/c583x325/arSO0OJ8cmzTohHFCiLNVA/0gJKylLo.jpg?1778644515
+END:VEVENT
+BEGIN:VEVENT
+UID:2135@stopgame.sched-alert-bot
+DTSTAMP:20260512T085224Z
+LAST-MODIFIED:20260512T085224Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260514T180000
+DTEND;TZID=Europe/Moscow:20260514T200000
+SUMMARY:100 смертей. Ninja Gaiden 4 [Гранд Финал]
+DESCRIPTION:Играем в игру пока счетчик смертей не дойдет до 100. Если сче
+ тчик дошел до 100\, а игра не пройдена - офаем с позором. За донаты вы м
+ ожете установить нам временные челленджи и повлиять на количество смерте
+ й. Все правила и игры на https://stopgame.ru/100lives\n\nАнастасия Коноп
+ лёва\, Александр Вилисов\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 12/c583x325/Bj2PTzCqa1ltTLrZ9wHBxQ/KvLzBwbH-.jpg?1778575750
+END:VEVENT
+BEGIN:VEVENT
+UID:2145@stopgame.sched-alert-bot
+DTSTAMP:20260516T060200Z
+LAST-MODIFIED:20260516T060200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260516T130000
+DTEND;TZID=Europe/Moscow:20260516T150000
+SUMMARY:ПодКост
+DESCRIPTION:Будем говорить про детерминизм. Ваня. Ваня будет говорить про
+  детерминизм.\n\nАлександра Кост\, Иван Лоев\n\nTwitch: https://www.twit
+ ch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/liv
+ e\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 14/c583x325/lHA7rAtc_vs6aF0GQzGB2A/dWtg-ej_.jpg?1778770312
+END:VEVENT
+BEGIN:VEVENT
+UID:2091@stopgame.sched-alert-bot
+DTSTAMP:20260511T165201Z
+LAST-MODIFIED:20260511T165201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260522T180000
+DTEND;TZID=Europe/Moscow:20260522T200000
+SUMMARY:Ле-Ман\, май\, аниме!
+DESCRIPTION:Иван Лоев\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTub
+ e: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://sto
+ pgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 11/c583x325/B05wNC5LhJn2TTvT9e25kw/urRlGTT.jpg?1778518291
+END:VEVENT
+BEGIN:VEVENT
+UID:2166@stopgame.sched-alert-bot
+DTSTAMP:20260522T120200Z
+LAST-MODIFIED:20260522T120200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260522T180000
+DTEND;TZID=Europe/Moscow:20260522T200000
+SUMMARY:Аниме сходка
+DESCRIPTION:Дмитрий Карнов\, Катерина Краснопольская\, Иван Лоев\, Алекса
+ ндр Вилисов\, Максим Солодилов\, VOKSHO4KA\, Илья Шарифов\, Зулин\, Миха
+ ил Галкин\, Cheezzy fioletovaya boroda\, Ян Грибович\, Никита Босс\, Фло
+ ппи\, Анастасия Коноплёва\, Геннадий Воробьев\, Алексей Ермолаев\n\nTwit
+ ch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@
+ StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 22/c583x325/zMtPn_4dd-7gi7Fy1_aPaA/nRgU738N.jpg?1779451309
+END:VEVENT
+BEGIN:VEVENT
+UID:2167@stopgame.sched-alert-bot
+DTSTAMP:20260522T120201Z
+LAST-MODIFIED:20260522T120201Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260522T200000
+DTEND;TZID=Europe/Moscow:20260522T220000
+SUMMARY:Японская викторина
+DESCRIPTION:Дмитрий Карнов\, Иван Лоев\, Максим Солодилов\, Михаил Галкин
+ \, Никита Босс\, Анастасия Коноплёва\n\nTwitch: https://www.twitch.tv/st
+ opgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopG
+ ame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 22/c583x325/FPFFVFU7-iB0xgB6-CysAw/lk3ao3z.jpg?1779451312
+END:VEVENT
+BEGIN:VEVENT
+UID:2168@stopgame.sched-alert-bot
+DTSTAMP:20260522T120201Z
+LAST-MODIFIED:20260522T120201Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260522T220000
+DTEND;TZID=Europe/Moscow:20260523T000000
+SUMMARY:Тофу-версус
+DESCRIPTION:Катерина Краснопольская\, Максим Солодилов\, Илья Шарифов\, М
+ ихаил Галкин\, Ян Грибович\, Денис Старков\n\nTwitch: https://www.twitch
+ .tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\
+ nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 22/c583x325/wetOHcgc2vB06XumIEcb2Q/r8u8WOOyq.jpg?1779451316
+END:VEVENT
+BEGIN:VEVENT
+UID:2169@stopgame.sched-alert-bot
+DTSTAMP:20260522T120201Z
+LAST-MODIFIED:20260522T120201Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260522T230000
+DTEND;TZID=Europe/Moscow:20260523T010000
+SUMMARY:Японский дрифт
+DESCRIPTION:Дмитрий Карнов\, Александр Вилисов\, Максим Солодилов\, Илья 
+ Шарифов\, Михаил Галкин\, Cheezzy fioletovaya boroda\, Никита Босс\, Фло
+ ппи\, Анастасия Коноплёва\, Геннадий Воробьев\, Алексей Ермолаев\n\nTwit
+ ch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@
+ StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 22/c583x325/5OWV-FDDcnl1x1-D0rRu2A/xho_y_5KG.jpg?1779451319
+END:VEVENT
+BEGIN:VEVENT
+UID:2165@stopgame.sched-alert-bot
+DTSTAMP:20260526T082200Z
+LAST-MODIFIED:20260526T082200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260528T180000
+DTEND;TZID=Europe/Moscow:20260528T200000
+SUMMARY:100 смертей. Расплата!
+DESCRIPTION:Играем в игру пока счетчик смертей не дойдет до 100. Если сче
+ тчик дошел до 100\, а игра не пройдена - офаем с позором. За донаты вы м
+ ожете установить нам временные челленджи и повлиять на количество смерте
+ й. Все правила и игры на https://stopgame.ru/100lives\n\nАнастасия Коноп
+ лёва\, Александр Вилисов\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 26/c583x325/BvlPnkGJF2dj6XZB4tnORg/wdUWl_-aC.jpg?1779783525
+END:VEVENT
+BEGIN:VEVENT
+UID:2185@stopgame.sched-alert-bot
+DTSTAMP:20260529T172700Z
+LAST-MODIFIED:20260529T172700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260530T140000
+DTEND;TZID=Europe/Moscow:20260530T160000
+SUMMARY:Chaser. Легендарный шутер из Словакии [Шутерок под Кофеёк]
+DESCRIPTION:Возвращение парниши.\n\nДенис Старков\, Михаил Галкин\n\nTwit
+ ch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@
+ StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/05/
+ 29/c583x325/TDPLXHykBpXoQfLQEPudYA/-4rOO4BZ.jpg?1780075451
+END:VEVENT
+BEGIN:VEVENT
+UID:2208@stopgame.sched-alert-bot
+DTSTAMP:20260605T105200Z
+LAST-MODIFIED:20260605T105200Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Moscow:20260605T231500
+DTEND;TZID=Europe/Moscow:20260606T011500
+SUMMARY:Summer Game Fest 2026
+DESCRIPTION:Новое большое шоу от Джеффа! Ждём Кодзиму и каких-нибудь вкус
+ ных анонсов.\n\nРедакция\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/06/
+ 02/c583x325/PzC578MUiA6S7C-fRKgfCw/JLbV4ofhO.jpg?1780656638
+END:VEVENT
+BEGIN:VEVENT
+UID:2210@stopgame.sched-alert-bot
+DTSTAMP:20260602T144701Z
+LAST-MODIFIED:20260602T144701Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260607T195500
+DTEND;TZID=Europe/Moscow:20260607T215500
+SUMMARY:Xbox Games Showcase 2026 + Gears of War: E-Day Direct
+DESCRIPTION:Поговаривают\, что Xbox могут показать PC 2! Отдельное местеч
+ ко выделят Gears of War: E-Day\, а вот некстгена под кодовым названием P
+ roject Helix точно не будет.\n\nРедакция\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/06/
+ 02/c583x325/8mWLuDAjW1gBtpTJ5aKhEg/1yzmgB3.jpg?1780411528
+END:VEVENT
+BEGIN:VEVENT
+UID:2219@stopgame.sched-alert-bot
+DTSTAMP:20260608T090701Z
+LAST-MODIFIED:20260608T090701Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260612T180000
+DTEND;TZID=Europe/Moscow:20260612T200000
+SUMMARY:The Longest Journey [Ретрореквест]
+DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
+ даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
+ блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
+ ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/06/
+ 12/c583x325/ToA8AGtj1BCimMsfqLCW0w/the_longest_journey_retrorekvest_main
+ .jpg?1780909371
+END:VEVENT
+BEGIN:VEVENT
+UID:2217@stopgame.sched-alert-bot
+DTSTAMP:20260614T024701Z
+LAST-MODIFIED:20260614T024701Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20260614T180000
+DTEND;TZID=Europe/Moscow:20260614T200000
+SUMMARY:Crashout Crew. Складской дрифт [Замес]
+DESCRIPTION:Грузчик\, грузчик - парень работящий\, Грузчик\, грузчик – пр
+ ёт\, кладёт и тащит. Если бы не грузчик\, люди планеты всей Жили бы гора
+ здо менее веселей.\n\nФлоппи\, Иван Лоев\, Ян Грибович\, Cheezzy fioleto
+ vaya boroda\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https:
+ //www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/
+ live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/06/
+ 14/c583x325/92nh3wRjV9zrHGtpwWrT2Q/crashout_crew_skladskoy_drift_zames_m
+ ain.jpg?1781405114
+END:VEVENT
+BEGIN:VEVENT
+UID:2253@stopgame.sched-alert-bot
+DTSTAMP:20260623T070200Z
+LAST-MODIFIED:20260623T070200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260626T230000
+DTEND;TZID=Europe/Moscow:20260627T010000
+SUMMARY:Карновал квестов. Beneath a Steel Sky (эфир третий)
+DESCRIPTION:🏙️☁️⛓️🏭\n\nДмитрий Карнов\n\nTwitch: https://www.twitch.tv/
+ stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nSto
+ pGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/06/
+ 23/c583x325/uyjpdCJuVhPXSm7DQyU4-g/AQdA5ASW.jpg?1782198085
+END:VEVENT
+BEGIN:VEVENT
+UID:2245@stopgame.sched-alert-bot
+DTSTAMP:20260626T020201Z
+LAST-MODIFIED:20260626T020201Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260710T180000
+DTEND;TZID=Europe/Moscow:20260710T200000
+SUMMARY:Фэйтологи #15. Fate/stay Night [Ретрореквест]
+DESCRIPTION:Традиционное пятничное погружение в историю Святого грааля и 
+ Битвы семи магов. Предаёмся любви к Fate и желаем Фуджинэ-э-э «Доброго у
+ тра». Тема «Ретрореквеста» у нас в блогах: правила\, прошлые эфиры\, тек
+ ущее состояние списка реквестов и многое другое!\n\nИван Лоев\, Ян Грибо
+ вич\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.yo
+ utube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_sch
+ edule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 10/c583x325/XnuYp4ySur4bPzefKzsztw/feytologi_15_fate_stay_night_retrorek
+ vest_main.jpg?1782439219
+END:VEVENT
+BEGIN:VEVENT
+UID:2286@stopgame.sched-alert-bot
+DTSTAMP:20260711T185700Z
+LAST-MODIFIED:20260711T185700Z
+SEQUENCE:3
+DTSTART;TZID=Europe/Moscow:20260711T220000
+DTEND;TZID=Europe/Moscow:20260712T000000
+SUMMARY:Lies of P: Overture. Оно живое!
+DESCRIPTION:Как написал бы Кирилл Волошин\, иногда они возвращаются…\n\nА
+ ндрей Маковеев\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: htt
+ ps://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.
+ ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 11/c583x325/U2FV8jjyll11y4O-etTlNA/lies_of_p_overture_ono_zhivoe_main.jp
+ g?1783796089
+END:VEVENT
+BEGIN:VEVENT
+UID:2281@stopgame.sched-alert-bot
+DTSTAMP:20260713T085200Z
+LAST-MODIFIED:20260713T085200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260716T180000
+DTEND;TZID=Europe/Moscow:20260716T200000
+SUMMARY:100 смертей. Furi [ Заход#1 ]
+DESCRIPTION:Играем в игру пока счетчик смертей не дойдет до 100. Если сче
+ тчик дошел до 100\, а игра не пройдена - офаем с позором. За донаты вы м
+ ожете установить нам временные челленджи и повлиять на количество смерте
+ й. Все правила и игры на https://stopgame.ru/100lives\n\nАнастасия Коноп
+ лёва\, Александр Вилисов\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 13/c583x325/RjfM8S_F4hWAq_MBTRK2DQ/PdJgNr2y.jpg?1783932567
+END:VEVENT
+BEGIN:VEVENT
+UID:2284@stopgame.sched-alert-bot
+DTSTAMP:20260710T190700Z
+LAST-MODIFIED:20260710T190700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260717T180000
+DTEND;TZID=Europe/Moscow:20260717T200000
+SUMMARY:Ys: The Oath in Felghana [Ретрореквест]
+DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
+ даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
+ блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
+ ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 17/c583x325/wKQrP6iKG4CzZD-W-i-RoA/ys_the_oath_in_felghana_retrorekvest_
+ main.jpg?1783710413
+END:VEVENT
+BEGIN:VEVENT
+UID:2308@stopgame.sched-alert-bot
+DTSTAMP:20260723T173200Z
+LAST-MODIFIED:20260723T173200Z
+SEQUENCE:3
+DTSTART;TZID=Europe/Moscow:20260723T210000
+DTEND;TZID=Europe/Moscow:20260723T230000
+SUMMARY:Silver Palace: Смотрим ЗБТ
+DESCRIPTION:Стартует второй закрытый бета-тест Silver Palace! Смотрим\, о
+ цениваем\, коллекционируем вайфу\n\nИлья Есаулов\n\nTwitch: https://www.
+ twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline
+ /live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 23/c583x325/QHFLlUDdryqvl4ASJEUq9Q/silver_palace_main_1784799926.jpg?178
+ 4827840
+END:VEVENT
+BEGIN:VEVENT
+UID:2298@stopgame.sched-alert-bot
+DTSTAMP:20260719T090200Z
+LAST-MODIFIED:20260719T090200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260724T180000
+DTEND;TZID=Europe/Moscow:20260724T200000
+SUMMARY:Sid Meier's Pirates! [Ретрореквест]
+DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
+ даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
+ блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
+ ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 24/c583x325/5jrcHfNanB216aOcf1oKxw/nazvanie_igry_retrorekvest_main_17844
+ 51373.jpg?1784451423
+END:VEVENT
+BEGIN:VEVENT
+UID:2299@stopgame.sched-alert-bot
+DTSTAMP:20260723T224700Z
+LAST-MODIFIED:20260723T224700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260724T230000
+DTEND;TZID=Europe/Moscow:20260725T010000
+SUMMARY:Карновал квестов + | Redjack: Revenge of the Brethren (эфир четвё
+ ртый)
+DESCRIPTION:Это пятница пирррратская!\n\nVOKSHO4KA\, Дмитрий Карнов\n\nTw
+ itch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com
+ /@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 24/c583x325/2Rd8IO6MvNX9XHjqzz66lQ/TWeGPfk.jpg?1784846745
+END:VEVENT
+BEGIN:VEVENT
+UID:2300@stopgame.sched-alert-bot
+DTSTAMP:20260723T123700Z
+LAST-MODIFIED:20260723T123700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260725T130000
+DTEND;TZID=Europe/Moscow:20260725T150000
+SUMMARY:Neon White. Динамичный шутер-платформер [Шутерок под Кофеёк]
+DESCRIPTION:Стреляем\, прыгаем\, думаем и капучинируем.\n\nМихаил Галкин\
+ , Денис Старков\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: ht
+ tps://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame
+ .ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 23/c583x325/vHLF7S7i_i90pAmUVfoOvQ/Dr0jQQDeA.jpg?1784810046
+END:VEVENT
+BEGIN:VEVENT
+UID:2291@stopgame.sched-alert-bot
+DTSTAMP:20260720T141700Z
+LAST-MODIFIED:20260720T141700Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260725T170000
+DTEND;TZID=Europe/Moscow:20260725T190000
+SUMMARY:Guild Wars 2: Рейд со зрителями [ММОрафон]
+DESCRIPTION:Алексей Ермолаев\, Илья Шарифов\, Зулин\n\nTwitch: https://ww
+ w.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnli
+ ne/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 25/c583x325/4GkQnPvQcW5RbthiclgWLw/guild_wars_2_main.jpg?1784556882
+END:VEVENT
+BEGIN:VEVENT
+UID:2305@stopgame.sched-alert-bot
+DTSTAMP:20260723T221700Z
+LAST-MODIFIED:20260723T221700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260726T150000
+DTEND;TZID=Europe/Moscow:20260726T170000
+SUMMARY:ЖИВАЯ ЯРОСТЬ | Ван Хельсинг\, Евротур [Кинологи]
+DESCRIPTION:Отправляемся в тур по Европам нулевых и альтернативно готичес
+ ких\, дабы познать ярость повелителя кровосись!\n\nИлья Шарифов\, Максим
+  Солодилов\, Катерина Краснопольская\n\nTwitch: https://www.twitch.tv/st
+ opgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopG
+ ame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 24/c583x325/hYdtYEactLTwb8CfRKkjiw/DSbaSFXu.jpg?1784844818
+END:VEVENT
+BEGIN:VEVENT
+UID:2312@stopgame.sched-alert-bot
+DTSTAMP:20260727T080700Z
+LAST-MODIFIED:20260727T080700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260730T230000
+DTEND;TZID=Europe/Moscow:20260731T010000
+SUMMARY:ЗОЛОТОЙ ДРУИД: LIMBO OF THE LOST (часть 2)
+DESCRIPTION:VOKSHO4KA\, Зулин\n\nTwitch: https://www.twitch.tv/stopgameru
+ \nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: htt
+ ps://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
+UID:2304@stopgame.sched-alert-bot
+DTSTAMP:20260801T103201Z
+LAST-MODIFIED:20260801T103201Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Moscow:20260801T140000
+DTEND;TZID=Europe/Moscow:20260801T160000
+SUMMARY:НОН-СТОП-ШТО? НОН-СТОП-ШОУ!
+DESCRIPTION:Редакция\, VOKSHO4KA\, Зулин\, Иван Лоев\, Анастасия Коноплёв
+ а\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.yout
+ ube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_sched
+ ule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/07/
+ 31/c583x325/LHdbAMMiUouHU89eEMBCeA/4pkioA2w.jpg?1785580311
+END:VEVENT
+BEGIN:VEVENT
+UID:2339@stopgame.sched-alert-bot
+DTSTAMP:20260805T073700Z
+LAST-MODIFIED:20260805T073700Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260805T110000
+DTEND;TZID=Europe/Moscow:20260805T130000
+SUMMARY:Beast of Reincarnation: пробуем свежий Souls-like
+DESCRIPTION:Цитата из описания игры в Steam: «Это инновационный формат эк
+ шен-RPG для одного человека и пса». Что там инновационного\, при чём зде
+ сь пёс — разбираемся в эфире\n\nИлья Есаулов\n\nTwitch: https://www.twit
+ ch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/liv
+ e\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/08/
+ 05/c583x325/f9U9lz4zZtvw42OG5qbVxA/beast_of_reincarnation_probuem_svezhi
+ y_souls_like_main.jpg?1785915121
+END:VEVENT
+BEGIN:VEVENT
+UID:2350@stopgame.sched-alert-bot
+DTSTAMP:20260815T093200Z
+LAST-MODIFIED:20260815T093200Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260815T130000
+DTEND;TZID=Europe/Moscow:20260815T150000
+SUMMARY:Ultrakill. Шутер со стильным геймплеем [Шутерок под Кофеёк]
+DESCRIPTION:Тройной эспрессо необходим для успешного взаимодействия с эти
+ м ураганным и жестоким\, в первую очередь к игроку\, шутером.\n\nМихаил 
+ Галкин\, Денис Старков\n\nTwitch: https://www.twitch.tv/stopgameru\nYouT
+ ube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://s
+ topgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/08/
+ 14/c583x325/3rujP8EaYHwh_AJKI25XlA/5q4FGkohU.jpg?1786786237
+END:VEVENT
+BEGIN:VEVENT
+UID:2359@stopgame.sched-alert-bot
+DTSTAMP:20260820T180200Z
+LAST-MODIFIED:20260820T180200Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Moscow:20260822T120000
+DTEND;TZID=Europe/Moscow:20260822T140000
+SUMMARY:Презентация STAR CITIZEN прошла не по плану // Сливы GTA VI // Гл
+ ава Saber ЖЕСТКО наехал на сценаристку [Взвешенный Ответ]
+DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов\n\nTwitch: https://www
+ .twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnlin
+ e/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/08/
+ 20/c583x325/-ad2f1p3JA6dak_TzjYtmg/m1koqze.jpg?1787248558
+END:VEVENT
+BEGIN:VEVENT
+UID:2395@stopgame.sched-alert-bot
+DTSTAMP:20260831T145700Z
+LAST-MODIFIED:20260831T145700Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20260831T180000
+DTEND;TZID=Europe/Moscow:20260831T200000
+SUMMARY:Big Walk. Последний день лета [Замес]
+DESCRIPTION:Вот и настал последний день лета... Сколько незабываемых моме
+ нтов оно нам принесло. Наши приключения даже послужили вдохновением для 
+ художников! Спасибо MAXI за работу\, а мы продолжаем наш грандиозный пох
+ од.\n\nФлоппи\, VOKSHO4KA\, Иван Лоев\, Cheezzy fioletovaya boroda\, Ген
+ надий Воробьев\, Алексей Ермолаев\, Александра Кост\, Анастасия Коноплёв
+ а\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.yout
+ ube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_sched
+ ule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/08/
+ 31/c583x325/_cFa0ad7-Yt2qcdjC9RvyQ/big_walk_main_1788173291.jpg?17881881
+ 33
+END:VEVENT
+BEGIN:VEVENT
+UID:2397@stopgame.sched-alert-bot
+DTSTAMP:20260905T093200Z
+LAST-MODIFIED:20260905T093200Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260905T130000
+DTEND;TZID=Europe/Moscow:20260905T150000
+SUMMARY:Armored Core: For Answer. Быстрые боевые роботы [Шутерок под Кофе
+ ёк]
+DESCRIPTION:Мехи в деле\, враги на прицеле. На столе кофе чашка\, а в чат
+ е крутая компашка. Погнали.\n\nДенис Старков\, Михаил Галкин\n\nTwitch: 
+ https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stop
+ gameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/09/
+ 05/c583x325/9ofNaouq7pkEIs3vaYZP0g/BaMu4QuvC.jpg?1788600711
+END:VEVENT
+BEGIN:VEVENT
+UID:2401@stopgame.sched-alert-bot
+DTSTAMP:20260909T093202Z
+LAST-MODIFIED:20260909T093202Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Moscow:20260909T130000
+DTEND;TZID=Europe/Moscow:20260909T150000
+SUMMARY:Party for Two. Baldur's Gate 3 [Стрим#9]
+DESCRIPTION:Разобравшись с квестами в Подземье\, команда отправляется в К
+ узню\, чтобы узнать больше про Абсолют и сковать новую броню из адаманти
+ на. В ожидании следующего стрима почитать текстовое изложение наших прик
+ лючений можно в полевых дневниках\, а если вам кажется\, что нам всё даё
+ тся слишком быстро и легко\, то повлиять на прохождение и докинуть модиф
+ икторов сложности можно вот тут.\n\nДжуби\, Анастасия Коноплёва\n\nTwitc
+ h: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@S
+ topgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/09/
+ 09/c583x325/1WSN_WaIhoV6xMebfJ7KUg/party_for_two_baldurs_gate_3_strim_9_
+ main.jpg?1788946314
+END:VEVENT
+BEGIN:VEVENT
+UID:2422@stopgame.sched-alert-bot
+DTSTAMP:20260914T153201Z
+LAST-MODIFIED:20260914T153201Z
+SEQUENCE:3
+DTSTART;TZID=Europe/Moscow:20260914T190000
+DTEND;TZID=Europe/Moscow:20260914T210000
+SUMMARY:Big Walk. Большой конец [Замес]
+DESCRIPTION:— Быть может\, настоящее сокровище — это друзья\, которых мы 
+ обрели на пути? — Заткнись и ищи эти грёбаные бубылды!\n\nФлоппи\, Иван 
+ Лоев\, VOKSHO4KA\, Никита Босс\, Cheezzy fioletovaya boroda\, Геннадий В
+ оробьев\, Алексей Ермолаев\n\nTwitch: https://www.twitch.tv/stopgameru\n
+ YouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https
+ ://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/09/
+ 14/c583x325/fUJeWv6kZuOheIdfwscU5Q/big_walk_bolshoy_konec_zames_main.jpg
+ ?1789399855
+END:VEVENT
+BEGIN:VEVENT
+UID:2421@stopgame.sched-alert-bot
+DTSTAMP:20260918T143201Z
+LAST-MODIFIED:20260918T143201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260918T180000
+DTEND;TZID=Europe/Moscow:20260918T200000
+SUMMARY:Area 51 [Ретрореквест]
+DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
+ даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
+ блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
+ ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/09/
+ 18/c583x325/xaCm9HbGQR1jj6e5Apjf9w/area_51_retrorekvest_main_1789726830.
+ jpg?1789741858
+END:VEVENT
+BEGIN:VEVENT
+UID:2428@stopgame.sched-alert-bot
+DTSTAMP:20260922T093200Z
+LAST-MODIFIED:20260922T093200Z
+SEQUENCE:3
+DTSTART;TZID=Europe/Moscow:20260922T130000
+DTEND;TZID=Europe/Moscow:20260922T150000
+SUMMARY:Нешуточная дуэль
+DESCRIPTION:Несколько испытаний\, два игрока и лишь один победитель.\n\nИ
+ ван Лоев\, Cheezzy fioletovaya boroda\, Никита Босс\, Никита Шилин\n\nTw
+ itch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com
+ /@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/09/
+ 21/c583x325/ZPIN1MhTFR6WX2jIdDOsxA/yYEOkTxN.jpg?1790069506
+END:VEVENT
+BEGIN:VEVENT
+UID:2434@stopgame.sched-alert-bot
+DTSTAMP:20260922T133200Z
+LAST-MODIFIED:20260922T133200Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20260922T170000
+DTEND;TZID=Europe/Moscow:20260922T190000
+SUMMARY:Control Resonant. Как в ██████
+DESCRIPTION:Муа́ровый узор (муа́р\, от фр. moire\, название ткани) — узор
+ \, возникающий при наложении двух периодических сетчатых рисунков. Явлен
+ ие обусловлено тем\, что повторяющиеся элементы двух рисунков следуют с 
+ немного разной частотой и то накладываются друг на друга\, то образуют п
+ ромежутки. Википедия Казалось бы\, при чём тут ██████?\n\nЯн Грибович\, 
+ Анастасия Коноплёва\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube
+ : https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stop
+ game.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/09/
+ 22/c583x325/0fueIw4dXbmJcAXhmboewQ/control_resonant_main_1790045012.jpg?
+ 1790083900
+END:VEVENT
+BEGIN:VEVENT
+UID:2432@stopgame.sched-alert-bot
+DTSTAMP:20260922T111700Z
+LAST-MODIFIED:20260922T111700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20260924T180000
+DTEND;TZID=Europe/Moscow:20260924T200000
+SUMMARY:100 смертей. Sekiro [ Заход#7 ]
+DESCRIPTION:Играем в игру пока счетчик смертей не дойдет до 100. Если сче
+ тчик дошел до 100\, а игра не пройдена - офаем с позором. За донаты вы м
+ ожете установить нам временные челленджи и повлиять на количество смерте
+ й. Все правила и игры на https://stopgame.ru/100lives\n\nАнастасия Коноп
+ лёва\, Александр Вилисов\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/09/
+ 22/c583x325/B2AvEL3qyKUrj_pjqsoiLQ/yqkO8yeGf.jpg?1790075622
+END:VEVENT
+BEGIN:VEVENT
+UID:2433@stopgame.sched-alert-bot
+DTSTAMP:20260925T143200Z
+LAST-MODIFIED:20260925T143200Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20260925T180000
+DTEND;TZID=Europe/Moscow:20260925T200000
+SUMMARY:Heroes of Might and Magic II [Ретрореквест]
+DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
+ даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
+ блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
+ ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/09/
+ 25/c583x325/Z0ExigFhb-PWc_cC0Sa6lw/heroes_of_might_and_magic_ii_retrorek
+ vest_main.jpg?1790346668
+END:VEVENT
+BEGIN:VEVENT
+UID:2457@stopgame.sched-alert-bot
+DTSTAMP:20260929T102201Z
+LAST-MODIFIED:20260929T102201Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261004T110000
+DTEND;TZID=Europe/Moscow:20261004T130000
+SUMMARY:Нешуточная дуэль
+DESCRIPTION:Несколько испытаний в прямом эфире\, два игрока и лишь один п
+ обедитель.\n\nИван Лоев\, Cheezzy fioletovaya boroda\, Никита Шилин\, Ни
+ кита Босс\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://
+ www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/li
+ ve_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/09/
+ 28/c583x325/z8MNuxgQhlb2jGkp8DFmWA/Ak643Pr-K.jpg?1790677063
+END:VEVENT
+BEGIN:VEVENT
+UID:2436@stopgame.sched-alert-bot
+DTSTAMP:20261006T113200Z
+LAST-MODIFIED:20261006T113200Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20261006T150000
+DTEND;TZID=Europe/Moscow:20261006T170000
+SUMMARY:Abyssus. В поисках утраченного рассола
+DESCRIPTION:У нас было 2 пакетика морской капусты\, 75 таблеток спирулины
+ \, 5 литров огуречного рассола\, полсолонки йодированной соли и целое мн
+ ожество пушек всех сортов и расцветок\, а также гранаты\, турели и даже 
+ древняя рыба-пила\, которая иногда зажёвывала.\n\nИван Лоев\, Ян Грибови
+ ч\, Илья Шарифов\, Cheezzy fioletovaya boroda\n\nTwitch: https://www.twi
+ tch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/li
+ ve\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 24/c583x325/cD4ALypr8-Ar46gj9MU1sQ/guild_wars_adskiy_reyd_mmorafon_main.
- jpg?1792848608
+ 06/c583x325/iW2PMC4lVsDM7oZeh2Fyrw/abyssus_main.jpg?1791286268
+END:VEVENT
+BEGIN:VEVENT
+UID:2475@stopgame.sched-alert-bot
+DTSTAMP:20261006T143200Z
+LAST-MODIFIED:20261006T143200Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Moscow:20261006T180000
+DTEND;TZID=Europe/Moscow:20261006T200000
+SUMMARY:STAR WARS: Galactic Racer. Камбэк авторов Burnout
+DESCRIPTION:Михаил Галкин\, Денис Старков\, Зулин\n\nTwitch: https://www.
+ twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline
+ /live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 06/c583x325/GAP6sDS-MmNZeidARlpGgQ/star_wars_galactic_racer_kambek_avtor
+ ov_burnout_main_1791212382.jpg?1791297068
+END:VEVENT
+BEGIN:VEVENT
+UID:2452@stopgame.sched-alert-bot
+DTSTAMP:20261009T143200Z
+LAST-MODIFIED:20261009T143200Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Moscow:20261009T180000
+DTEND;TZID=Europe/Moscow:20261009T200000
+SUMMARY:Harry Potter and the Prisoner of Azkaban [Ретрореквест]
+DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
+ даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
+ блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
+ ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 09/c583x325/FTlqdsF6aqFR_dX7JJea0A/harry_potter_and_the_prisoner_of_azka
+ ban_retrorekvest_main.jpg?1791556207
+END:VEVENT
+BEGIN:VEVENT
+UID:2482@stopgame.sched-alert-bot
+DTSTAMP:20261013T173700Z
+LAST-MODIFIED:20261013T173700Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Moscow:20261013T220000
+DTEND;TZID=Europe/Moscow:20261014T000000
+SUMMARY:Valor Mortis. Наполеоновский соулслайк
+DESCRIPTION:Наполеоновские войны. Разработчики Ghostrunner. И соулслайк о
+ т первого лица. Эта смесь уже выглядит как вызов. Будем пробовать\, что 
+ получилось\n\nАнастасия Коноплёва\, Илья Шарифов\n\nTwitch: https://www.
+ twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline
+ /live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 13/c583x325/1bmUda8dj9OPIA99IpAv2w/valor_mortis_napoleonovskiy_soulslayk
+ _main.jpg?1791912784
+END:VEVENT
+BEGIN:VEVENT
+UID:2476@stopgame.sched-alert-bot
+DTSTAMP:20261014T140400Z
+LAST-MODIFIED:20261014T140400Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261014T145700
+DTEND;TZID=Europe/Moscow:20261014T170400
+SUMMARY:Party for Two. Baldur's Gate 3 [Стрим #14]
+DESCRIPTION:Исследование проклятых земель только начинается: путаясь в те
+ нях\, герои отправятся наводить порядки в Рейтвине\, бороть шаритскую ер
+ есь и сунутся в глубины семейной усыпальницы в поисках загадочной Песни 
+ Ночи…\n\nДжуби\, Анастасия Коноплёва\n\nTwitch: https://www.twitch.tv/st
+ opgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopG
+ ame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 14/c583x325/-RDsXQJDdiVFlAAqM9jyfA/party_for_two_baldurs_gate_3_strim_14
+ _main.jpg?1791970209
+END:VEVENT
+BEGIN:VEVENT
+UID:2477@stopgame.sched-alert-bot
+DTSTAMP:20261014T200800Z
+LAST-MODIFIED:20261014T200800Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261014T180100
+DTEND;TZID=Europe/Moscow:20261014T230800
+SUMMARY:Куча инфы про GTA VI от Шрайера // Epic Games переходит на ИИ-код
+  // Аниме-хейтер в XBOX [Взвешенный Ответ]
+DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов\n\nTwitch: https://www
+ .twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnlin
+ e/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 14/c583x325/aZJXVRV7hi0O_p_wNWkWyA/CG17oAV.jpg?1791988208
+END:VEVENT
+BEGIN:VEVENT
+UID:2483@stopgame.sched-alert-bot
+DTSTAMP:20261016T191500Z
+LAST-MODIFIED:20261016T191500Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261016T180700
+DTEND;TZID=Europe/Moscow:20261016T221500
+SUMMARY:Фэйтологи #16. Fate/stay Night (2-й рут) [Ретрореквест]
+DESCRIPTION:Традиционное пятничное погружение в историю Святого грааля и 
+ Битвы семи магов. Предаёмся любви к Fate и желаем Фуджинэ-э-э «Доброго у
+ тра». Тема «Ретрореквеста» у нас в блогах: правила\, прошлые эфиры\, тек
+ ущее состояние списка реквестов и многое другое!\n\nИван Лоев\, Ян Грибо
+ вич\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.yo
+ utube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_sch
+ edule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 16/c583x325/XnuYp4ySur4bPzefKzsztw/feytologi_15_fate_stay_night_retrorek
+ vest_main.jpg?1792175259
+END:VEVENT
+BEGIN:VEVENT
+UID:2484@stopgame.sched-alert-bot
+DTSTAMP:20261016T200000Z
+LAST-MODIFIED:20261016T200000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Moscow:20261016T230000
+DTEND;TZID=Europe/Moscow:20261017T010000
+SUMMARY:Карновал квестов. Snatcher\, эфир второй
+DESCRIPTION:Кодзима ворвался и сломал эфирную сетку карновала.\n\nДмитрий
+  Карнов\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://ww
+ w.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live
+ _schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 13/c583x325/qYlBUjghEaNFI7W13igxBw/LgqCxL2_.jpg?1792179008
+END:VEVENT
+BEGIN:VEVENT
+UID:2493@stopgame.sched-alert-bot
+DTSTAMP:20261017T165000Z
+LAST-MODIFIED:20261017T165000Z
+SEQUENCE:6
+DTSTART;TZID=Europe/Moscow:20261017T141300
+DTEND;TZID=Europe/Moscow:20261017T195000
+SUMMARY:Call of Duty: Modern Warfare 4. Проходим сюжетку!
+DESCRIPTION:Михаил Галкин\, Дмитрий Карнов\, Зулин\, Денис Старков\n\nTwi
+ tch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/
+ @StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 17/c583x325/rXi9LKTgyoJAzC7EaVTvXg/call_of_duty_modern_warfare_4_prohodi
+ m_syuzhetku_main_1792009490.jpg?1792225808
+END:VEVENT
+BEGIN:VEVENT
+UID:2486@stopgame.sched-alert-bot
+DTSTAMP:20261018T004100Z
+LAST-MODIFIED:20261018T004100Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261017T200200
+DTEND;TZID=Europe/Moscow:20261018T034100
+SUMMARY:Индижатва среднеосенняя
+DESCRIPTION:Пора.\n\nДмитрий Карнов\, Андрей Маковеев\n\nTwitch: https://
+ www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOn
+ line/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 13/c583x325/Gy_-xUziAblSaOgon8ZpkQ/PVVeCwTu.jpg?1792254608
+END:VEVENT
+BEGIN:VEVENT
+UID:2485@stopgame.sched-alert-bot
+DTSTAMP:20261018T080000Z
+LAST-MODIFIED:20261018T080000Z
+SEQUENCE:3
+DTSTART;TZID=Europe/Moscow:20261018T110000
+DTEND;TZID=Europe/Moscow:20261018T130000
+SUMMARY:Luna Abyss. Bullet hell\, паркур\, стрельба [Шутерок под Кофеёк]
+DESCRIPTION:Продолжаем проходить инди шутер в научном постапокалиптическо
+ м мире.\n\nДенис Старков\, Михаил Галкин\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 16/c583x325/BEcTr3KqARKRsACo4HdkCg/o-nQ-7X.jpg?1792308668
+END:VEVENT
+BEGIN:VEVENT
+UID:2487@stopgame.sched-alert-bot
+DTSTAMP:20261018T160000Z
+LAST-MODIFIED:20261018T160000Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261018T150400
+DTEND;TZID=Europe/Moscow:20261018T190000
+SUMMARY:ГЛУБИНА\, К ВОСТОКУ ОТ ЭДЕМА. Преследователь\, Крик 4 [Кинологи]
+DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Катерина Краснопольская\n\n
+ Twitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.c
+ om/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 17/c583x325/Bt4rkdiyGSv24WLzRTwYSA/sZv67Q-.jpg?1792323069
+END:VEVENT
+BEGIN:VEVENT
+UID:2491@stopgame.sched-alert-bot
+DTSTAMP:20261018T192000Z
+LAST-MODIFIED:20261018T192000Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261018T190000
+DTEND;TZID=Europe/Moscow:20261018T222000
+SUMMARY:Хентаёлоги. Краткая история японских «мультиков»
+DESCRIPTION:Настал час наконец-то поговорить о самом сокровенном! Тайном!
+  Разобраться в далёких первопричинах\, распутать коренные условия и узна
+ ть\, что там снилось жёнам рыбаков и к чему это привело. Ну или просто п
+ огыгыкать\, потому что обсуждать мы будем в том числе «███████») Домашне
+ е задание для желающих быть в курсе обсуждений на эфире: — Уроцукидодзи:
+  Легенда о сверхдемоне\; — Mezzo Forte: Красотки-головорезы\; — Эйфория\
+ ; — Дом Имадзуми неожиданно стал местом тусовок гяру.\n\nИван Лоев\, Мак
+ сим Солодилов\, Флоппи\, Cheezzy fioletovaya boroda\n\nTwitch: https://w
+ ww.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnl
+ ine/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 15/c583x325/CkjzTs4rLQwrJgRkFSdUOw/vxQNEzK2O.jpg?1792337994
+END:VEVENT
+BEGIN:VEVENT
+UID:2474@stopgame.sched-alert-bot
+DTSTAMP:20261020T100000Z
+LAST-MODIFIED:20261020T100000Z
+SEQUENCE:8
+DTSTART;TZID=Europe/Moscow:20261020T125600
+DTEND;TZID=Europe/Moscow:20261020T130000
+SUMMARY:Guild Wars 2: Этот Драккар не поплывёт [ММОрафон]
+DESCRIPTION:Илья Шарифов\, Алексей Ермолаев\n\nTwitch: https://www.twitch
+ .tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\
+ nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 19/c583x325/iwJly2A1-lQNvv0t5ZyFsw/guild_wars_2_main_1792379363.jpg?1792
+ 413008
+END:VEVENT
+BEGIN:VEVENT
+UID:2489@stopgame.sched-alert-bot
+DTSTAMP:20261020T132900Z
+LAST-MODIFIED:20261020T132900Z
+SEQUENCE:3
+DTSTART;TZID=Europe/Moscow:20261020T130000
+DTEND;TZID=Europe/Moscow:20261020T162900
+SUMMARY:Кокпит - X4
+DESCRIPTION:Стримим игры\, в которых есть космос\, преимущественно — косм
+ осимы. Начинаем с прохождения X4. Выбирать условия и путь можно будет во
+  время трансляций.\n\nИлья Есаулов\n\nTwitch: https://www.twitch.tv/stop
+ gameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGam
+ e: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 20/c583x325/AYpcHafpe6mGN45P1i5S5Q/kokpit_x4_main.jpg?1792488668
+END:VEVENT
+BEGIN:VEVENT
+UID:2503@stopgame.sched-alert-bot
+DTSTAMP:20261021T030100Z
+LAST-MODIFIED:20261021T030100Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261020T180200
+DTEND;TZID=Europe/Moscow:20261021T060100
+SUMMARY:Демозор. Осенний Steam Next Fest 2026
+DESCRIPTION:Ежесезонное празднование в честь пока ещё готовящихся к релиз
+ у игр! Предлагаем: вместе понаблюдать за будущим игровой индустрии!\n\nЯ
+ н Грибович\, Алексей Ермолаев\, Геннадий Воробьев\n\nTwitch: https://www
+ .twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnlin
+ e/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 20/c583x325/NESlIte9E3TgTQX3huF6ow/demozor_main.jpg?1792506668
+END:VEVENT
+BEGIN:VEVENT
+UID:2490@stopgame.sched-alert-bot
+DTSTAMP:20261021T150000Z
+LAST-MODIFIED:20261021T150000Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261021T130100
+DTEND;TZID=Europe/Moscow:20261021T180000
+SUMMARY:Party for Two. Baldur's Gate 3 [Стрим #15]
+DESCRIPTION:Мучения во втором акте продолжаются! Победив парочку Тормов\,
+  герои отправляются грабить семейную усыпальницу\, бороться с тенями и р
+ ешать головоломки.\n\nДжуби\, Анастасия Коноплёва\n\nTwitch: https://www
+ .twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnlin
+ e/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 21/c583x325/Wg0P4GbdcNsP7lAREvzEVg/party_for_two_baldurs_gate_3_strim_15
+ _main.jpg?1792575009
+END:VEVENT
+BEGIN:VEVENT
+UID:2492@stopgame.sched-alert-bot
+DTSTAMP:20261021T202100Z
+LAST-MODIFIED:20261021T202100Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261021T180000
+DTEND;TZID=Europe/Moscow:20261021T232100
+SUMMARY:Мод enRAGE: Nemesis теперь в RDR 2 // Sweet Baby Inc. В-С-Ё // ИИ
+ -моды разбушевались [Взвешенный Ответ]
+DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов\n\nTwitch: https://www
+ .twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnlin
+ e/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 21/c583x325/6GKNlFB78DqEZBix8XEbew/rOtc6mk5O.jpg?1792593008
+END:VEVENT
+BEGIN:VEVENT
+UID:2497@stopgame.sched-alert-bot
+DTSTAMP:20261023T191300Z
+LAST-MODIFIED:20261023T191300Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261023T180100
+DTEND;TZID=Europe/Moscow:20261023T221300
+SUMMARY:Resident Evil 4 [Ретрореквест] (стрим третий)
+DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
+ даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
+ блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
+ ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 23/c583x325/8vzzH0vOMm4gVHi856z0fA/resident_evil_4_retrorekvest_strim_tr
+ etiy_main_1792353543.jpg?1792765868
+END:VEVENT
+BEGIN:VEVENT
+UID:2501@stopgame.sched-alert-bot
+DTSTAMP:20261024T142400Z
+LAST-MODIFIED:20261024T142400Z
+SEQUENCE:6
+DTSTART;TZID=Europe/Moscow:20261024T171500
+DTEND;TZID=Europe/Moscow:20261024T172400
+SUMMARY:Hunt: Showdown. Охохотничий переполох [Шутерок под Кофеёк]
+DESCRIPTION:Вышли как-то мужики на охоту. А там…\n\nМихаил Галкин\, Денис
+  Старков\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://w
+ ww.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/liv
+ e_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 24/c583x325/g5X0tQ4sOYFkNUS7SdmAYg/y86QIjz42.jpg?1792834208
 END:VEVENT
 BEGIN:VEVENT
 UID:2502@stopgame.sched-alert-bot
-DTSTAMP:20261024T134700Z
-LAST-MODIFIED:20261024T134700Z
-SEQUENCE:0
+DTSTAMP:20261023T190900Z
+LAST-MODIFIED:20261023T190900Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261025T150000
 DTEND;TZID=Europe/Moscow:20261025T170000
 SUMMARY:ЛЮБОЙ ЦЕНОЙ\, ВОССТАВШИЙ\, ХИТРЫЙ КОЙОТ | Кровью и потом: Анаболи
@@ -196,8 +1682,8 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2488@stopgame.sched-alert-bot
-DTSTAMP:20261024T134700Z
-LAST-MODIFIED:20261024T134700Z
+DTSTAMP:20261020T191200Z
+LAST-MODIFIED:20261020T191200Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20261025T180000
 DTEND;TZID=Europe/Moscow:20261025T200000
@@ -214,9 +1700,43 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  pg?1792523489
 END:VEVENT
 BEGIN:VEVENT
+UID:2514@stopgame.sched-alert-bot
+DTSTAMP:20261025T093500Z
+LAST-MODIFIED:20261025T093500Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261026T180000
+DTEND;TZID=Europe/Moscow:20261026T200000
+SUMMARY:Индиана. Frostpunk
+DESCRIPTION:Зима-холода\, одинокие дома Моря\, города — всё как будто изо
+  льда\n\nАндрей Маковеев\, Дмитрий Карнов\n\nTwitch: https://www.twitch.
+ tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\n
+ StopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 26/c583x325/JK-foHDZr9amRvXCvPMqJg/indiana_frostpunk_main_1792920811.jpg
+ ?1792920842
+END:VEVENT
+BEGIN:VEVENT
+UID:2478@stopgame.sched-alert-bot
+DTSTAMP:20261024T202500Z
+LAST-MODIFIED:20261024T202500Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20261027T160000
+DTEND;TZID=Europe/Moscow:20261027T180000
+SUMMARY:Abyssus. Три директора и спустельга
+DESCRIPTION:Директора орнитологов спускаются в рассольные глубины и обсуж
+ дают научные теории. На повестке стрима: гипотеза первичного майонеза.\n
+ \nИван Лоев\, Ян Грибович\, Илья Шарифов\, Cheezzy fioletovaya boroda\n\
+ nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.
+ com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 24/c583x325/BZVoZ_-8bunB84K31JDesQ/iamTwZ47.jpg?1792873454
+END:VEVENT
+BEGIN:VEVENT
 UID:2507@stopgame.sched-alert-bot
-DTSTAMP:20261024T134700Z
-LAST-MODIFIED:20261024T134700Z
+DTSTAMP:20261024T130400Z
+LAST-MODIFIED:20261024T130400Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20261028T130000
 DTEND;TZID=Europe/Moscow:20261028T150000
@@ -231,5 +1751,22 @@ URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  28/c583x325/a8d13buAcTWTQQ8EsMun9Q/party_for_two_baldurs_gate_3_strim_16
  _main.jpg?1792847001
+END:VEVENT
+BEGIN:VEVENT
+UID:2470@stopgame.sched-alert-bot
+DTSTAMP:20261024T141500Z
+LAST-MODIFIED:20261024T141500Z
+SEQUENCE:3
+DTSTART;TZID=Europe/Moscow:20261107T170000
+DTEND;TZID=Europe/Moscow:20261107T190000
+SUMMARY:Guild Wars: Адский рейд [ММОрафон]
+DESCRIPTION:Отправляемся в самый сложный (по мнению Доттериана) рейд! Ста
+ рый бог смерти Дуум разбушевался\, и как водится\, мы единственные\, кто
+  может его усмирить.\n\nАлексей Ермолаев\, Илья Шарифов\n\nTwitch: https
+ ://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameR
+ uOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 07/c583x325/4GkQnPvQcW5RbthiclgWLw/guild_wars_2_main.jpg?1792851258
 END:VEVENT
 END:VCALENDAR
