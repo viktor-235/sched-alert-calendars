@@ -1666,11 +1666,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2502@stopgame.sched-alert-bot
-DTSTAMP:20261025T120701Z
-LAST-MODIFIED:20261025T120701Z
-SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261025T150000
-DTEND;TZID=Europe/Moscow:20261025T170000
+DTSTAMP:20261025T145700Z
+LAST-MODIFIED:20261025T145700Z
+SEQUENCE:6
+DTSTART;TZID=Europe/Moscow:20261025T150701
+DTEND;TZID=Europe/Moscow:20261025T175700
 SUMMARY:ЛЮБОЙ ЦЕНОЙ\, ВОССТАВШИЙ\, ХИТРЫЙ КОЙОТ | Кровью и потом: Анаболи
  ки\, Крупная рыба [Кинологи]
 DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Катерина Краснопольская\n\n
