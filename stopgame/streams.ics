@@ -1682,11 +1682,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2488@stopgame.sched-alert-bot
-DTSTAMP:20261025T150700Z
-LAST-MODIFIED:20261025T150700Z
-SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261025T180000
-DTEND;TZID=Europe/Moscow:20261025T200000
+DTSTAMP:20261025T210200Z
+LAST-MODIFIED:20261025T210200Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261025T180700
+DTEND;TZID=Europe/Moscow:20261026T000200
 SUMMARY:НРИ. World of Darkness. [Выпуск #2]
 DESCRIPTION:В свете огней Лас-Вегаса молодые вампиры находят одни неприят
  ности. Чего стоит банда «анархов»\, решивших качать права из-за какого-т
