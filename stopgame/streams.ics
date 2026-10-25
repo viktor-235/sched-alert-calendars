@@ -1700,6 +1700,26 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  pg?1792938608
 END:VEVENT
 BEGIN:VEVENT
+UID:2505@stopgame.sched-alert-bot
+DTSTAMP:20261025T163200Z
+LAST-MODIFIED:20261025T163200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261026T150000
+DTEND;TZID=Europe/Moscow:20261026T170000
+SUMMARY:Guild Wars 2: Коты опять что-то не поделили [ММОрафон]
+DESCRIPTION:Бывший император чарров Бангар всерьёз вознамерился приручить
+  Йормага. А древнему дракону это только на руку — больше смертных слуг н
+ е меньше. Остальные племена котов вынуждены объединиться и дать бой отря
+ дам Бангара. И мы отправляемся на передовую!\n\nИлья Шарифов\, Алексей Е
+ рмолаев\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://ww
+ w.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live
+ _schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 26/c583x325/NKwrii2sxH9fiTz6tKcbGQ/guild_wars_2_koty_opyat_chto_to_ne_po
+ delili_mmorafon_main_1792945513.jpg?1792945647
+END:VEVENT
+BEGIN:VEVENT
 UID:2514@stopgame.sched-alert-bot
 DTSTAMP:20261025T093500Z
 LAST-MODIFIED:20261025T093500Z
