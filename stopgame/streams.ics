@@ -1753,6 +1753,19 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  _main.jpg?1792847001
 END:VEVENT
 BEGIN:VEVENT
+UID:2508@stopgame.sched-alert-bot
+DTSTAMP:20261025T155200Z
+LAST-MODIFIED:20261025T155200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261028T180000
+DTEND;TZID=Europe/Moscow:20261028T200000
+SUMMARY:[Взвешенный Ответ]
+DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов\n\nTwitch: https://www
+ .twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnlin
+ e/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
 UID:2470@stopgame.sched-alert-bot
 DTSTAMP:20261024T141500Z
 LAST-MODIFIED:20261024T141500Z
