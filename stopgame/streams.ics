@@ -1786,6 +1786,25 @@ DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов
 URL:https://www.twitch.tv/stopgameru
 END:VEVENT
 BEGIN:VEVENT
+UID:2510@stopgame.sched-alert-bot
+DTSTAMP:20261026T064200Z
+LAST-MODIFIED:20261026T064200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261030T180000
+DTEND;TZID=Europe/Moscow:20261030T200000
+SUMMARY:Madagascar [Ретрореквест]
+DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
+ даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
+ блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
+ ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
+ topGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 30/c583x325/E2RyHD9r43GvYKqhQJs4fQ/madagascar_retrorekvest_main.jpg?1792
+ 996781
+END:VEVENT
+BEGIN:VEVENT
 UID:2470@stopgame.sched-alert-bot
 DTSTAMP:20261024T141500Z
 LAST-MODIFIED:20261024T141500Z
