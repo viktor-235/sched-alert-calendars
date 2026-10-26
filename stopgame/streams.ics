@@ -1721,11 +1721,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2514@stopgame.sched-alert-bot
-DTSTAMP:20261026T150200Z
-LAST-MODIFIED:20261026T150200Z
-SEQUENCE:2
-DTSTART;TZID=Europe/Moscow:20261026T180000
-DTEND;TZID=Europe/Moscow:20261026T200000
+DTSTAMP:20261026T195200Z
+LAST-MODIFIED:20261026T195200Z
+SEQUENCE:3
+DTSTART;TZID=Europe/Moscow:20261026T180200
+DTEND;TZID=Europe/Moscow:20261026T225200
 SUMMARY:Индиана. Frostpunk
 DESCRIPTION:Зима-холода\, одинокие дома Моря\, города — всё как будто изо
   льда\n\nАндрей Маковеев\, Дмитрий Карнов\n\nTwitch: https://www.twitch.
