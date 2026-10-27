@@ -1755,9 +1755,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2478@stopgame.sched-alert-bot
-DTSTAMP:20261024T202500Z
-LAST-MODIFIED:20261024T202500Z
-SEQUENCE:1
+DTSTAMP:20261027T123200Z
+LAST-MODIFIED:20261027T123200Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261027T160000
 DTEND;TZID=Europe/Moscow:20261027T180000
 SUMMARY:Abyssus. Три директора и спустельга
@@ -1768,7 +1768,7 @@ DESCRIPTION:Директора орнитологов спускаются в р
  com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 24/c583x325/BZVoZ_-8bunB84K31JDesQ/iamTwZ47.jpg?1792873454
+ 24/c583x325/BZVoZ_-8bunB84K31JDesQ/iamTwZ47.jpg?1793104207
 END:VEVENT
 BEGIN:VEVENT
 UID:2507@stopgame.sched-alert-bot
