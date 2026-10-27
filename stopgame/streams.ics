@@ -1738,11 +1738,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2506@stopgame.sched-alert-bot
-DTSTAMP:20261027T100200Z
-LAST-MODIFIED:20261027T100200Z
-SEQUENCE:2
-DTSTART;TZID=Europe/Moscow:20261027T130000
-DTEND;TZID=Europe/Moscow:20261027T150000
+DTSTAMP:20261027T125700Z
+LAST-MODIFIED:20261027T125700Z
+SEQUENCE:3
+DTSTART;TZID=Europe/Moscow:20261027T130200
+DTEND;TZID=Europe/Moscow:20261027T155700
 SUMMARY:Кокпит - X4
 DESCRIPTION:Стримим игры\, в которых есть космос\, преимущественно — косм
  осимы. Начинаем с прохождения X4. Выбирать условия и путь можно будет во
