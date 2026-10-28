@@ -1822,6 +1822,40 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  996781
 END:VEVENT
 BEGIN:VEVENT
+UID:2494@stopgame.sched-alert-bot
+DTSTAMP:20261028T125200Z
+LAST-MODIFIED:20261028T125200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261031T120000
+DTEND;TZID=Europe/Moscow:20261031T140000
+SUMMARY:Хэллоунский марафон
+DESCRIPTION:Пужаемся\, стремаемся и боимся 13 часов подряд!\n\nРедакция\n
+ \nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube
+ .com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 28/c583x325/awZuoovevuywAwPGlGHhjw/7zu2utug.jpg?1793191894
+END:VEVENT
+BEGIN:VEVENT
+UID:2522@stopgame.sched-alert-bot
+DTSTAMP:20261028T125200Z
+LAST-MODIFIED:20261028T125200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261101T180000
+DTEND;TZID=Europe/Moscow:20261101T200000
+SUMMARY:Fortnite. ONE PIECE IS REAL!!!
+DESCRIPTION:Ничего невозможного нет. Я хочу им стать — и стану. Я решил с
+ тать Королём пиратов и стану. А если погибну\, пытаясь им стать — респав
+ н\, и ещё каточку. Иван «Луффен» Лоев\n\nЯн Грибович\, AAAndroid!\, Алек
+ сандр Вилисов\, Иван Лоев\n\nTwitch: https://www.twitch.tv/stopgameru\nY
+ ouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:
+ //stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 01/c583x325/S2GDwTpdNuRsS-iCxN8rsQ/fortnite_main_1793191786.jpg?17931919
+ 11
+END:VEVENT
+BEGIN:VEVENT
 UID:2470@stopgame.sched-alert-bot
 DTSTAMP:20261024T141500Z
 LAST-MODIFIED:20261024T141500Z
