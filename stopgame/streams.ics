@@ -1772,9 +1772,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2507@stopgame.sched-alert-bot
-DTSTAMP:20261024T130400Z
-LAST-MODIFIED:20261024T130400Z
-SEQUENCE:0
+DTSTAMP:20261028T093200Z
+LAST-MODIFIED:20261028T093200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261028T130000
 DTEND;TZID=Europe/Moscow:20261028T150000
 SUMMARY:Party for Two. Baldur's Gate 3 [Стрим #16]
@@ -1787,7 +1787,7 @@ DESCRIPTION:Второй Акт нам так понравился\, что мы
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  28/c583x325/a8d13buAcTWTQQ8EsMun9Q/party_for_two_baldurs_gate_3_strim_16
- _main.jpg?1792847001
+ _main.jpg?1793179808
 END:VEVENT
 BEGIN:VEVENT
 UID:2508@stopgame.sched-alert-bot
