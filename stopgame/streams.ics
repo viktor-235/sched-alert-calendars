@@ -1791,16 +1791,19 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2508@stopgame.sched-alert-bot
-DTSTAMP:20261028T150200Z
-LAST-MODIFIED:20261028T150200Z
-SEQUENCE:1
+DTSTAMP:20261028T153200Z
+LAST-MODIFIED:20261028T153200Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261028T180000
 DTEND;TZID=Europe/Moscow:20261028T200000
-SUMMARY:[Взвешенный Ответ]
+SUMMARY:Геймеры спасают BioWare // Switch 2 хакнули // В-С-Е говорят про 
+ ИИ [Взвешенный Ответ]
 DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов\n\nTwitch: https://www
  .twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnlin
  e/live\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 28/c583x325/TmiqH0baouZhBO-QPIi43A/ZoM6dUdl.jpg?1793200644
 END:VEVENT
 BEGIN:VEVENT
 UID:2510@stopgame.sched-alert-bot
