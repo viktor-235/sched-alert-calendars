@@ -1840,6 +1840,22 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  28/c583x325/awZuoovevuywAwPGlGHhjw/7zu2utug.jpg?1793191894
 END:VEVENT
 BEGIN:VEVENT
+UID:2512@stopgame.sched-alert-bot
+DTSTAMP:20261028T230700Z
+LAST-MODIFIED:20261028T230700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261101T110000
+DTEND;TZID=Europe/Moscow:20261101T130000
+SUMMARY:Neon White. Стильно и быстро [Шутерок под Кофеёк]
+DESCRIPTION:Приходите на скоростное шоу. Вас ждут наши постоянные ведущие
+ \, — Михаил Галкин и Неон Жёлтый.\n\nМихаил Галкин\, Денис Старков\n\nTw
+ itch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com
+ /@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 29/c583x325/S70DYtru6G4qA_5IUCgLCQ/rFkD8aYCz.jpg?1793228680
+END:VEVENT
+BEGIN:VEVENT
 UID:2522@stopgame.sched-alert-bot
 DTSTAMP:20261028T125200Z
 LAST-MODIFIED:20261028T125200Z
