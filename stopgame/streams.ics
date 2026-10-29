@@ -1806,6 +1806,24 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  28/c583x325/TmiqH0baouZhBO-QPIi43A/ZoM6dUdl.jpg?1793200644
 END:VEVENT
 BEGIN:VEVENT
+UID:2524@stopgame.sched-alert-bot
+DTSTAMP:20261029T100200Z
+LAST-MODIFIED:20261029T100200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261029T133000
+DTEND;TZID=Europe/Moscow:20261029T153000
+SUMMARY:Phantom Blade Ø. Наматываем на уся
+DESCRIPTION:Десятки на агрегаторах\, звание Игры года в день релиза\, «ре
+ волюция в жанре» — стандартная процедура! Плавали — знаем!.. Но попробов
+ ать самим всё равно же интересно!\n\nЯн Грибович\, Зулин\n\nTwitch: http
+ s://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stopgame
+ RuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 29/c583x325/1y06huHCe6Ua9RWizpAfDA/phantom_blade_0_namatyvaem_na_usya_ma
+ in.jpg?1793268119
+END:VEVENT
+BEGIN:VEVENT
 UID:2510@stopgame.sched-alert-bot
 DTSTAMP:20261026T064200Z
 LAST-MODIFIED:20261026T064200Z
