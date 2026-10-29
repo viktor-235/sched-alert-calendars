@@ -1807,11 +1807,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2524@stopgame.sched-alert-bot
-DTSTAMP:20261029T103700Z
-LAST-MODIFIED:20261029T103700Z
-SEQUENCE:4
-DTSTART;TZID=Europe/Moscow:20261029T133000
-DTEND;TZID=Europe/Moscow:20261029T153000
+DTSTAMP:20261029T152200Z
+LAST-MODIFIED:20261029T152200Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261029T133700
+DTEND;TZID=Europe/Moscow:20261029T182200
 SUMMARY:Phantom Blade Ø. Наматываем на уся́
 DESCRIPTION:Десятки на агрегаторах\, звание Игры года в день релиза\, «ре
  волюция в жанре» — стандартная процедура! Плавали — знаем!.. Но попробов
