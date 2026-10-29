@@ -1807,9 +1807,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2524@stopgame.sched-alert-bot
-DTSTAMP:20261029T100200Z
-LAST-MODIFIED:20261029T100200Z
-SEQUENCE:0
+DTSTAMP:20261029T100700Z
+LAST-MODIFIED:20261029T100700Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261029T133000
 DTEND;TZID=Europe/Moscow:20261029T153000
 SUMMARY:Phantom Blade Ø. Наматываем на уся
@@ -1821,7 +1821,7 @@ DESCRIPTION:Десятки на агрегаторах\, звание Игры �
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  29/c583x325/1y06huHCe6Ua9RWizpAfDA/phantom_blade_0_namatyvaem_na_usya_ma
- in.jpg?1793268119
+ in.jpg?1793268368
 END:VEVENT
 BEGIN:VEVENT
 UID:2510@stopgame.sched-alert-bot
