@@ -1908,6 +1908,25 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  11
 END:VEVENT
 BEGIN:VEVENT
+UID:2521@stopgame.sched-alert-bot
+DTSTAMP:20261030T022700Z
+LAST-MODIFIED:20261030T022700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261104T130000
+DTEND;TZID=Europe/Moscow:20261104T150000
+SUMMARY:Party for Two. Baldur's Gate 3 [Стрим #17]
+DESCRIPTION:Удивительное рядом: наша бравая команда наконец-то зачистила 
+ проклятые земли и готова отправляться в усыпальницу Тормов. Впереди — сю
+ жетный квест\, головоломки\, несколько боссов и прямой путь к третьему а
+ кту!\n\nДжуби\, Анастасия Коноплёва\n\nTwitch: https://www.twitch.tv/sto
+ pgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGa
+ me: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 04/c583x325/b49TMUSkKxFVy97Ynx-M5g/party_for_two_baldurs_gate_3_strim_17
+ _main.jpg?1793327009
+END:VEVENT
+BEGIN:VEVENT
 UID:2470@stopgame.sched-alert-bot
 DTSTAMP:20261024T141500Z
 LAST-MODIFIED:20261024T141500Z
