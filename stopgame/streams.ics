@@ -1825,9 +1825,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2511@stopgame.sched-alert-bot
-DTSTAMP:20261029T050200Z
-LAST-MODIFIED:20261029T050200Z
-SEQUENCE:0
+DTSTAMP:20261030T193200Z
+LAST-MODIFIED:20261030T193200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261030T230000
 DTEND;TZID=Europe/Moscow:20261031T010000
 SUMMARY:Карновал квестов. Snatcher (эфир третий)
@@ -1836,7 +1836,7 @@ DESCRIPTION:Крутая игра.\n\nДмитрий Карнов\n\nTwitch: htt
  StopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 29/c583x325/dFZMe_Q7QcOj_Qx_RqAxLQ/ruQ7G8NER.jpg?1793250089
+ 29/c583x325/dFZMe_Q7QcOj_Qx_RqAxLQ/ruQ7G8NER.jpg?1793388608
 END:VEVENT
 BEGIN:VEVENT
 UID:2494@stopgame.sched-alert-bot
