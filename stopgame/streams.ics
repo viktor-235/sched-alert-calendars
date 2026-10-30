@@ -1870,6 +1870,21 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  29/c583x325/S70DYtru6G4qA_5IUCgLCQ/rFkD8aYCz.jpg?1793228680
 END:VEVENT
 BEGIN:VEVENT
+UID:2515@stopgame.sched-alert-bot
+DTSTAMP:20261030T194700Z
+LAST-MODIFIED:20261030T194700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261101T150000
+DTEND;TZID=Europe/Moscow:20261101T170000
+SUMMARY:ЦИКЛ ЗВЕРЯ\, СОБАЧЬИ ЗВЁЗДЫ | Эддингтон\, 13 убийц [Кинологи]
+DESCRIPTION:Илья Шарифов\, Максим Солодилов\n\nTwitch: https://www.twitch
+ .tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\
+ nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 30/c583x325/VE9zPmzKjDwQh-x3sIwj5A/uVrIiiHKV.jpg?1793389497
+END:VEVENT
+BEGIN:VEVENT
 UID:2522@stopgame.sched-alert-bot
 DTSTAMP:20261028T125200Z
 LAST-MODIFIED:20261028T125200Z
