@@ -1840,9 +1840,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2494@stopgame.sched-alert-bot
-DTSTAMP:20261030T143200Z
-LAST-MODIFIED:20261030T143200Z
-SEQUENCE:1
+DTSTAMP:20261031T083200Z
+LAST-MODIFIED:20261031T083200Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261031T120000
 DTEND;TZID=Europe/Moscow:20261031T140000
 SUMMARY:Хэллоунский марафон
@@ -1851,7 +1851,7 @@ DESCRIPTION:Пужаемся\, стремаемся и боимся 13 часо�
  .com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 28/c583x325/awZuoovevuywAwPGlGHhjw/7zu2utug.jpg?1793370540
+ 28/c583x325/awZuoovevuywAwPGlGHhjw/7zu2utug.jpg?1793435408
 END:VEVENT
 BEGIN:VEVENT
 UID:2512@stopgame.sched-alert-bot
