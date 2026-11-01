@@ -1887,9 +1887,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2522@stopgame.sched-alert-bot
-DTSTAMP:20261028T125200Z
-LAST-MODIFIED:20261028T125200Z
-SEQUENCE:0
+DTSTAMP:20261101T143200Z
+LAST-MODIFIED:20261101T143200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261101T180000
 DTEND;TZID=Europe/Moscow:20261101T200000
 SUMMARY:Fortnite. ONE PIECE IS REAL!!!
@@ -1901,8 +1901,8 @@ DESCRIPTION:Ничего невозможного нет. Я хочу им ст�
  //stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 01/c583x325/S2GDwTpdNuRsS-iCxN8rsQ/fortnite_main_1793191786.jpg?17931919
- 11
+ 01/c583x325/S2GDwTpdNuRsS-iCxN8rsQ/fortnite_main_1793191786.jpg?17935434
+ 08
 END:VEVENT
 BEGIN:VEVENT
 UID:2510@stopgame.sched-alert-bot
