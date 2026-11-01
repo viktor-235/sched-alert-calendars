@@ -1905,27 +1905,6 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  11
 END:VEVENT
 BEGIN:VEVENT
-UID:2518@stopgame.sched-alert-bot
-DTSTAMP:20261031T001700Z
-LAST-MODIFIED:20261031T001700Z
-SEQUENCE:0
-DTSTART;TZID=Europe/Moscow:20261102T150000
-DTEND;TZID=Europe/Moscow:20261102T170000
-SUMMARY:Guild Wars 2: Ледяной чемпион [ММОрафон]
-DESCRIPTION:В прошлый раз мы выяснили\, что\, ради «приручения» неприруча
- емого ледяного дракона Йормага\, Бангар создал новый легино чарров — лед
- яной легион. Ну как «Бангар создал»\, скорее Йормаг себе сам его создал\
- , а Бангар просто принёс ему пушечное мясо на блюдечке. Выглядят они так
- ими же одержимыми\, как и их норнский аналог — Сыны Сванира…\n\nИлья Шар
- ифов\, Алексей Ермолаев\n\nTwitch: https://www.twitch.tv/stopgameru\nYou
- Tube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://
- stopgame.ru/live_schedule
-URL:https://www.twitch.tv/stopgameru
-IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 02/c583x325/9qpkgYqwplUpOMHQeF37Xg/guild_wars_2_ledyanoy_chempion_mmoraf
- on_main.jpg?1793405751
-END:VEVENT
-BEGIN:VEVENT
 UID:2510@stopgame.sched-alert-bot
 DTSTAMP:20261030T142700Z
 LAST-MODIFIED:20261030T142700Z
@@ -1979,5 +1958,25 @@ DESCRIPTION:Отправляемся в самый сложный (по мнен
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  07/c583x325/4GkQnPvQcW5RbthiclgWLw/guild_wars_2_main.jpg?1792851258
+END:VEVENT
+BEGIN:VEVENT
+UID:2518@stopgame.sched-alert-bot
+DTSTAMP:20261101T124200Z
+LAST-MODIFIED:20261101T124200Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Moscow:20261109T150000
+DTEND;TZID=Europe/Moscow:20261109T170000
+SUMMARY:Guild Wars 2: Ледяной чемпион [ММОрафон]
+DESCRIPTION:В прошлый раз мы выяснили\, что\, ради «приручения» неприруча
+ емого ледяного дракона Йормага\, Бангар создал новый легино чарров — лед
+ яной легион. Ну как «Бангар создал»\, скорее Йормаг себе сам его создал\
+ , а Бангар просто принёс ему пушечное мясо на блюдечке. Выглядят они так
+ ими же одержимыми\, как и их норнский аналог — Сыны Сванира…\n\nИлья Шар
+ ифов\, Алексей Ермолаев\n\nTwitch: https://www.twitch.tv/stopgameru\nYou
+ Tube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://
+ stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 09/c583x325/4GkQnPvQcW5RbthiclgWLw/guild_wars_2_main.jpg?1793536885
 END:VEVENT
 END:VCALENDAR
