@@ -1856,9 +1856,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2512@stopgame.sched-alert-bot
-DTSTAMP:20261028T230700Z
-LAST-MODIFIED:20261028T230700Z
-SEQUENCE:0
+DTSTAMP:20261101T073200Z
+LAST-MODIFIED:20261101T073200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261101T110000
 DTEND;TZID=Europe/Moscow:20261101T130000
 SUMMARY:Neon White. Стильно и быстро [Шутерок под Кофеёк]
@@ -1868,7 +1868,7 @@ DESCRIPTION:Приходите на скоростное шоу. Вас ждут
  /@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 29/c583x325/S70DYtru6G4qA_5IUCgLCQ/rFkD8aYCz.jpg?1793228680
+ 29/c583x325/S70DYtru6G4qA_5IUCgLCQ/rFkD8aYCz.jpg?1793518268
 END:VEVENT
 BEGIN:VEVENT
 UID:2515@stopgame.sched-alert-bot
