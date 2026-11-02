@@ -1924,6 +1924,25 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  370395
 END:VEVENT
 BEGIN:VEVENT
+UID:2525@stopgame.sched-alert-bot
+DTSTAMP:20261102T142200Z
+LAST-MODIFIED:20261102T142200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261103T180000
+DTEND;TZID=Europe/Moscow:20261103T200000
+SUMMARY:100 смертей
+DESCRIPTION:Играем в игру пока счетчик смертей не дойдет до 100. Если сче
+ тчик дошел до 100\, а игра не пройдена - офаем с позором. За донаты вы м
+ ожете установить нам временные челленджи и повлиять на количество смерте
+ й. Все правила и игры на https://stopgame.ru/100lives\n\nАнастасия Коноп
+ лёва\, Александр Вилисов\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 02/c583x325/f3JMg_9vMyTmVb_Mz60mvA/qKkMQPsN.jpg?1793629220
+END:VEVENT
+BEGIN:VEVENT
 UID:2521@stopgame.sched-alert-bot
 DTSTAMP:20261030T022700Z
 LAST-MODIFIED:20261030T022700Z
