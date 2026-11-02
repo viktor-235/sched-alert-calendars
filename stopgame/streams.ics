@@ -1924,6 +1924,23 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  631494
 END:VEVENT
 BEGIN:VEVENT
+UID:2520@stopgame.sched-alert-bot
+DTSTAMP:20261102T225200Z
+LAST-MODIFIED:20261102T225200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261103T130000
+DTEND;TZID=Europe/Moscow:20261103T150000
+SUMMARY:Кокпит - X4
+DESCRIPTION:Стримим игры\, в которых есть космос\, преимущественно — косм
+ осимы. Начинаем с прохождения X4. Выбирать условия и путь можно будет во
+  время трансляций.\n\nИлья Есаулов\n\nTwitch: https://www.twitch.tv/stop
+ gameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGam
+ e: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 03/c583x325/AYpcHafpe6mGN45P1i5S5Q/kokpit_x4_main.jpg?1793659878
+END:VEVENT
+BEGIN:VEVENT
 UID:2525@stopgame.sched-alert-bot
 DTSTAMP:20261102T142200Z
 LAST-MODIFIED:20261102T142200Z
