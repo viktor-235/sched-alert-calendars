@@ -1906,9 +1906,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2510@stopgame.sched-alert-bot
-DTSTAMP:20261102T150200Z
-LAST-MODIFIED:20261102T150200Z
-SEQUENCE:3
+DTSTAMP:20261102T150700Z
+LAST-MODIFIED:20261102T150700Z
+SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261102T180000
 DTEND;TZID=Europe/Moscow:20261102T200000
 SUMMARY:Madagascar [Ретрореквест]
@@ -1919,9 +1919,9 @@ DESCRIPTION:Традиционное ежепятничное погружени
  v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nS
  topGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
-IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 30/c583x325/E2RyHD9r43GvYKqhQJs4fQ/madagascar_retrorekvest_main.jpg?1793
- 629808
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 02/c583x325/E2RyHD9r43GvYKqhQJs4fQ/madagascar_retrorekvest_main.jpg?1793
+ 631494
 END:VEVENT
 BEGIN:VEVENT
 UID:2525@stopgame.sched-alert-bot
@@ -1960,6 +1960,23 @@ URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  04/c583x325/b49TMUSkKxFVy97Ynx-M5g/party_for_two_baldurs_gate_3_strim_17
  _main.jpg?1793327009
+END:VEVENT
+BEGIN:VEVENT
+UID:2531@stopgame.sched-alert-bot
+DTSTAMP:20261102T150700Z
+LAST-MODIFIED:20261102T150700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261105T180000
+DTEND;TZID=Europe/Moscow:20261105T200000
+SUMMARY:WoW навсегда!
+DESCRIPTION:Настальгии стрим! Когда и трава была зеленее\, и Warcraft был
+  лучшей mmo. Идем в WoW Forever\n\nАнастасия Коноплёва\, Ян Грибович\, Т
+ ин\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.you
+ tube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_sche
+ dule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 05/c583x325/K6q2aZfJghEfoPyoe4OfoQ/wow_navsegda_main.jpg?1793631961
 END:VEVENT
 BEGIN:VEVENT
 UID:2470@stopgame.sched-alert-bot
