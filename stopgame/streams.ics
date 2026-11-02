@@ -1906,9 +1906,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2510@stopgame.sched-alert-bot
-DTSTAMP:20261030T142700Z
-LAST-MODIFIED:20261030T142700Z
-SEQUENCE:1
+DTSTAMP:20261102T143200Z
+LAST-MODIFIED:20261102T143200Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261102T180000
 DTEND;TZID=Europe/Moscow:20261102T200000
 SUMMARY:Madagascar [Ретрореквест]
@@ -1921,7 +1921,7 @@ DESCRIPTION:Традиционное ежепятничное погружени
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  30/c583x325/E2RyHD9r43GvYKqhQJs4fQ/madagascar_retrorekvest_main.jpg?1793
- 370395
+ 629808
 END:VEVENT
 BEGIN:VEVENT
 UID:2525@stopgame.sched-alert-bot
