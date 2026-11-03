@@ -1925,9 +1925,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2520@stopgame.sched-alert-bot
-DTSTAMP:20261102T225200Z
-LAST-MODIFIED:20261102T225200Z
-SEQUENCE:0
+DTSTAMP:20261103T093200Z
+LAST-MODIFIED:20261103T093200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261103T130000
 DTEND;TZID=Europe/Moscow:20261103T150000
 SUMMARY:Кокпит - X4
@@ -1938,7 +1938,7 @@ DESCRIPTION:Стримим игры\, в которых есть космос\, 
  e: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 03/c583x325/AYpcHafpe6mGN45P1i5S5Q/kokpit_x4_main.jpg?1793659878
+ 03/c583x325/AYpcHafpe6mGN45P1i5S5Q/kokpit_x4_main.jpg?1793698208
 END:VEVENT
 BEGIN:VEVENT
 UID:2525@stopgame.sched-alert-bot
