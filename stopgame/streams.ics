@@ -2013,6 +2013,25 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  07/c583x325/4GkQnPvQcW5RbthiclgWLw/guild_wars_2_main.jpg?1792851258
 END:VEVENT
 BEGIN:VEVENT
+UID:2533@stopgame.sched-alert-bot
+DTSTAMP:20261103T103200Z
+LAST-MODIFIED:20261103T103200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261107T190000
+DTEND;TZID=Europe/Moscow:20261107T210000
+SUMMARY:Fortnite X One Piece 2. Бесплатный магазин?!
+DESCRIPTION:«Я отказываюсь! Я ни за что не стану стримить Fortnite опять.
+  Моя мечта — остаться в этом РГГ.» — «Я отказываюсь от твоего отказа!» «
+ Саня Ж» Уэс и Иван «Луффен»\n\nЯн Грибович\, Иван Лоев\, Александр Вилис
+ ов\, AAAndroid!\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: ht
+ tps://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopgame
+ .ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 07/c583x325/AtAEurKH50NtCYZfg7QyIw/fortnite_x_one_piece_main_1793701233.
+ jpg?1793701820
+END:VEVENT
+BEGIN:VEVENT
 UID:2518@stopgame.sched-alert-bot
 DTSTAMP:20261101T124200Z
 LAST-MODIFIED:20261101T124200Z
