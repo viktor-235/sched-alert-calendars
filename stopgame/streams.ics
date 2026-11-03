@@ -1980,20 +1980,20 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2531@stopgame.sched-alert-bot
-DTSTAMP:20261103T084200Z
-LAST-MODIFIED:20261103T084200Z
-SEQUENCE:1
+DTSTAMP:20261103T103700Z
+LAST-MODIFIED:20261103T103700Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261105T180000
 DTEND;TZID=Europe/Moscow:20261105T200000
-SUMMARY:WoW навсегда!
+SUMMARY:WoW Навсегда!
 DESCRIPTION:Ностальгии стрим! Когда и трава была зеленее\, и Warcraft был
-  лучшей mmo. Идем в WoW Forever\n\nАнастасия Коноплёва\, Ян Грибович\, Т
- ин\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.you
- tube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_sche
- dule
+  лучшей MMO. Идем в WoW Forever!\n\nАнастасия Коноплёва\, Ян Грибович\, 
+ Тин\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.yo
+ utube.com/@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_sch
+ edule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 05/c583x325/K6q2aZfJghEfoPyoe4OfoQ/wow_navsegda_main.jpg?1793695269
+ 05/c583x325/K6q2aZfJghEfoPyoe4OfoQ/wow_navsegda_main.jpg?1793701953
 END:VEVENT
 BEGIN:VEVENT
 UID:2470@stopgame.sched-alert-bot
