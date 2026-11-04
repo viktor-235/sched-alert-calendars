@@ -1980,9 +1980,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2536@stopgame.sched-alert-bot
-DTSTAMP:20261104T165200Z
-LAST-MODIFIED:20261104T165200Z
-SEQUENCE:0
+DTSTAMP:20261104T173200Z
+LAST-MODIFIED:20261104T173200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261104T210000
 DTEND;TZID=Europe/Moscow:20261104T230000
 SUMMARY:A Hat in Time. Галкин в шляпе
@@ -1993,7 +1993,7 @@ DESCRIPTION:Отдаём долги «Взвешенного ответа».\n\n
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  04/c583x325/zQTDYvurm14HB0Nj1lFiNw/a_hat_in_time_galkin_v_shlyape_main.j
- pg?1793810945
+ pg?1793813409
 END:VEVENT
 BEGIN:VEVENT
 UID:2531@stopgame.sched-alert-bot
