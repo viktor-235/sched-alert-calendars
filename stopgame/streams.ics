@@ -1997,9 +1997,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2531@stopgame.sched-alert-bot
-DTSTAMP:20261105T141700Z
-LAST-MODIFIED:20261105T141700Z
-SEQUENCE:3
+DTSTAMP:20261105T143200Z
+LAST-MODIFIED:20261105T143200Z
+SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261105T180000
 DTEND;TZID=Europe/Moscow:20261105T200000
 SUMMARY:WoW Навсегда!
@@ -2010,7 +2010,7 @@ DESCRIPTION:Ностальгии стрим! Когда и трава была �
  /live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 05/c583x325/K6q2aZfJghEfoPyoe4OfoQ/wow_navsegda_main.jpg?1793888082
+ 05/c583x325/K6q2aZfJghEfoPyoe4OfoQ/wow_navsegda_main.jpg?1793889068
 END:VEVENT
 BEGIN:VEVENT
 UID:2530@stopgame.sched-alert-bot
