@@ -2103,6 +2103,21 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  .jpg?1793811759
 END:VEVENT
 BEGIN:VEVENT
+UID:2529@stopgame.sched-alert-bot
+DTSTAMP:20261105T202200Z
+LAST-MODIFIED:20261105T202200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261108T150000
+DTEND;TZID=Europe/Moscow:20261108T170000
+SUMMARY:ПРАЙМ-ТАЙМ\, ЖЕЛЕЗНОЕ ЛЁГКОЕ | Блейд 2\, Крик (2022) [Кинологи]
+DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Никита Босс\n\nTwitch: http
+ s://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stopgame
+ RuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 05/c583x325/Uy6g0G-OTYaEvrR9sbXj7g/xye6l5MSp.jpg?1793910074
+END:VEVENT
+BEGIN:VEVENT
 UID:2519@stopgame.sched-alert-bot
 DTSTAMP:20261103T230200Z
 LAST-MODIFIED:20261103T230200Z
