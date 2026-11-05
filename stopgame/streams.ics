@@ -2143,4 +2143,20 @@ URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  09/c583x325/4GkQnPvQcW5RbthiclgWLw/guild_wars_2_main.jpg?1793536885
 END:VEVENT
+BEGIN:VEVENT
+UID:2469@stopgame.sched-alert-bot
+DTSTAMP:20261105T100700Z
+LAST-MODIFIED:20261105T100700Z
+SEQUENCE:3
+DTSTART;TZID=Europe/Moscow:20261109T180000
+DTEND;TZID=Europe/Moscow:20261109T200000
+SUMMARY:Нешуточная дуэль
+DESCRIPTION:Несколько испытаний\, два игрока и лишь один победитель.\n\nИ
+ ван Лоев\, Cheezzy fioletovaya boroda\, Никита Босс\, Никита Шилин\n\nTw
+ itch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com
+ /@StopgameRuOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
+ 05/c583x325/gHYsYNmnIfCeNSwWEZaiYg/P9Zt066O.jpg?1793872974
+END:VEVENT
 END:VCALENDAR
