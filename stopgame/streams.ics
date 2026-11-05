@@ -1980,11 +1980,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2536@stopgame.sched-alert-bot
-DTSTAMP:20261104T181200Z
-LAST-MODIFIED:20261104T181200Z
-SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261104T210000
-DTEND;TZID=Europe/Moscow:20261104T230000
+DTSTAMP:20261105T030700Z
+LAST-MODIFIED:20261105T030700Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261104T211200
+DTEND;TZID=Europe/Moscow:20261105T060700
 SUMMARY:A Hat in Time. Галкин в шляпе
 DESCRIPTION:Отдаём долги «Взвешенного ответа».\n\nМихаил Галкин\, Зулин\,
   Дмитрий Карнов\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: ht
