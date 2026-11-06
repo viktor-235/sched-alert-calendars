@@ -2014,9 +2014,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2530@stopgame.sched-alert-bot
-DTSTAMP:20261103T111200Z
-LAST-MODIFIED:20261103T111200Z
-SEQUENCE:0
+DTSTAMP:20261106T143200Z
+LAST-MODIFIED:20261106T143200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261106T180000
 DTEND;TZID=Europe/Moscow:20261106T200000
 SUMMARY:Shaman King: Master Of Spirits [Ретрореквест]
@@ -2029,7 +2029,7 @@ DESCRIPTION:Традиционное ежепятничное погружени
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  06/c583x325/vC0Q0NwHmnt2bErQFrlZOA/shaman_king_master_of_spirits_retrore
- kvest_main_1793704046.jpg?1793704056
+ kvest_main_1793704046.jpg?1793975408
 END:VEVENT
 BEGIN:VEVENT
 UID:2526@stopgame.sched-alert-bot
