@@ -2048,6 +2048,20 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  04/c583x325/_tB2ZM1ttsBvrVT7Jd8BpA/Q0AZPAep.jpg?1793812243
 END:VEVENT
 BEGIN:VEVENT
+UID:2538@stopgame.sched-alert-bot
+DTSTAMP:20261106T125200Z
+LAST-MODIFIED:20261106T125200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261107T120000
+DTEND;TZID=Europe/Moscow:20261107T140000
+SUMMARY:Взвешенный Ответ
+DESCRIPTION:Зулин\, Галкин и Карнов дают ответы на вопросы\, которые никт
+ о не задавал.\n\nМихаил Галкин\, Зулин\, Дмитрий Карнов\n\nTwitch: https
+ ://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameR
+ uOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
 UID:2470@stopgame.sched-alert-bot
 DTSTAMP:20261024T141500Z
 LAST-MODIFIED:20261024T141500Z
