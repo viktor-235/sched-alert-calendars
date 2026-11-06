@@ -2033,9 +2033,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2526@stopgame.sched-alert-bot
-DTSTAMP:20261106T153200Z
-LAST-MODIFIED:20261106T153200Z
-SEQUENCE:1
+DTSTAMP:20261106T193200Z
+LAST-MODIFIED:20261106T193200Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261106T230000
 DTEND;TZID=Europe/Moscow:20261107T010000
 SUMMARY:Карновал квестов. Snatcher (эфир четвёртый)
@@ -2045,7 +2045,7 @@ DESCRIPTION:Попробуем уничтожить всех снэтчеров 
  me.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 04/c583x325/_tB2ZM1ttsBvrVT7Jd8BpA/Q0AZPAep.jpg?1793978939
+ 04/c583x325/_tB2ZM1ttsBvrVT7Jd8BpA/Q0AZPAep.jpg?1793993408
 END:VEVENT
 BEGIN:VEVENT
 UID:2538@stopgame.sched-alert-bot
