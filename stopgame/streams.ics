@@ -2102,11 +2102,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2527@stopgame.sched-alert-bot
-DTSTAMP:20261107T180200Z
-LAST-MODIFIED:20261107T180200Z
-SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261107T210000
-DTEND;TZID=Europe/Moscow:20261107T230000
+DTSTAMP:20261107T222700Z
+LAST-MODIFIED:20261107T222700Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261107T210200
+DTEND;TZID=Europe/Moscow:20261108T012700
 SUMMARY:Индиана. Katana ZERO (стрим второй)
 DESCRIPTION:Katana ZERO представляет из себя ураганный неонуарный экшен-п
  латформер с мгновенной смертью. Рубите\, уворачивайтесь и управляйте вре
@@ -2133,27 +2133,6 @@ DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Ники
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  05/c583x325/Uy6g0G-OTYaEvrR9sbXj7g/xye6l5MSp.jpg?1793910074
-END:VEVENT
-BEGIN:VEVENT
-UID:2519@stopgame.sched-alert-bot
-DTSTAMP:20261103T230200Z
-LAST-MODIFIED:20261103T230200Z
-SEQUENCE:0
-DTSTART;TZID=Europe/Moscow:20261108T180000
-DTEND;TZID=Europe/Moscow:20261108T200000
-SUMMARY:НРИ. World of Darkness. [Выпуск #3\, ФИНАЛ]
-DESCRIPTION:Клинки наших героев уже занесены над головой их же Шерифа. Вы
- стрелы гремят по обшивке их верной машины\, а из реки выходит троица ужа
- сных тварей\, что не даст им уйти так просто. Песня Лилит звучит сильнее
- \, чем никогда — ответят ли герои на призыв или не сдадутся и познают вс
- е тайны города\, что был спален Инквизицией?\n\nДжуби\, Никита Шилин\, А
- настасия Коноплёва\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube:
-  https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopg
- ame.ru/live_schedule
-URL:https://www.twitch.tv/stopgameru
-IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 08/c583x325/E7iHOTtmxmfP3tDoMvwW-g/nri_world_of_darkness_vypusk_3_final_
- main.jpg?1793746637
 END:VEVENT
 BEGIN:VEVENT
 UID:2518@stopgame.sched-alert-bot
