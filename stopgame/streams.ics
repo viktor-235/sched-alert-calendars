@@ -1649,6 +1649,23 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  etiy_main_1792353543.jpg?1792765868
 END:VEVENT
 BEGIN:VEVENT
+UID:2470@stopgame.sched-alert-bot
+DTSTAMP:20261107T140200Z
+LAST-MODIFIED:20261107T140200Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261024T170000
+DTEND;TZID=Europe/Moscow:20261024T190000
+SUMMARY:Guild Wars 2: Адский рейд [ММОрафон]
+DESCRIPTION:Отправляемся в самый сложный (по мнению Доттериана) рейд! Ста
+ рый бог смерти Дуум разбушевался\, и как водится\, мы единственные\, кто
+  может его усмирить.\n\nАлексей Ермолаев\, Илья Шарифов\n\nTwitch: https
+ ://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameR
+ uOnline/live\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 07/c583x325/4GkQnPvQcW5RbthiclgWLw/guild_wars_2_main.jpg?1794057054
+END:VEVENT
+BEGIN:VEVENT
 UID:2501@stopgame.sched-alert-bot
 DTSTAMP:20261024T142400Z
 LAST-MODIFIED:20261024T142400Z
@@ -2063,23 +2080,6 @@ DESCRIPTION:Зулин\, Галкин и Карнов дают ответы на
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  06/c583x325/Od6vYgwChShTNWkzzDerug/TPAELmt.jpg?1794040268
-END:VEVENT
-BEGIN:VEVENT
-UID:2470@stopgame.sched-alert-bot
-DTSTAMP:20261107T131200Z
-LAST-MODIFIED:20261107T131200Z
-SEQUENCE:4
-DTSTART;TZID=Europe/Moscow:20261107T170000
-DTEND;TZID=Europe/Moscow:20261107T190000
-SUMMARY:Guild Wars 2: Адский рейд [ММОрафон]
-DESCRIPTION:Отправляемся в самый сложный (по мнению Доттериана) рейд! Ста
- рый бог смерти Дуум разбушевался\, и как водится\, мы единственные\, кто
-  может его усмирить.\n\nАлексей Ермолаев\, Илья Шарифов\n\nTwitch: https
- ://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameR
- uOnline/live\nStopGame: https://stopgame.ru/live_schedule
-URL:https://www.twitch.tv/stopgameru
-IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 07/c583x325/4GkQnPvQcW5RbthiclgWLw/guild_wars_2_main.jpg?1794057054
 END:VEVENT
 BEGIN:VEVENT
 UID:2533@stopgame.sched-alert-bot
