@@ -2102,9 +2102,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2527@stopgame.sched-alert-bot
-DTSTAMP:20261107T084200Z
-LAST-MODIFIED:20261107T084200Z
-SEQUENCE:1
+DTSTAMP:20261107T173200Z
+LAST-MODIFIED:20261107T173200Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261107T210000
 DTEND;TZID=Europe/Moscow:20261107T230000
 SUMMARY:Индиана. Katana ZERO (стрим второй)
@@ -2117,7 +2117,7 @@ DESCRIPTION:Katana ZERO представляет из себя ураганны�
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  07/c583x325/yFO6UjTT3Cl4SEKcj8qSrQ/indiana_katana_zero_strim_vtoroy_main
- .jpg?1794040672
+ .jpg?1794072668
 END:VEVENT
 BEGIN:VEVENT
 UID:2529@stopgame.sched-alert-bot
