@@ -2049,11 +2049,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2538@stopgame.sched-alert-bot
-DTSTAMP:20261107T091200Z
-LAST-MODIFIED:20261107T091200Z
-SEQUENCE:4
-DTSTART;TZID=Europe/Moscow:20261107T120000
-DTEND;TZID=Europe/Moscow:20261107T140000
+DTSTAMP:20261107T133700Z
+LAST-MODIFIED:20261107T133700Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261107T121200
+DTEND;TZID=Europe/Moscow:20261107T163700
 SUMMARY:Ubisoft может купить Arkane // Стример «Арахис» в центре срача по
   DBD // Шейхи хотят Unity [Взвешенный Ответ]
 DESCRIPTION:Зулин\, Галкин и Карнов дают ответы на вопросы\, которые никт
