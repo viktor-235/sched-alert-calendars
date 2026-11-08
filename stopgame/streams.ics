@@ -2135,6 +2135,42 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  05/c583x325/Uy6g0G-OTYaEvrR9sbXj7g/xye6l5MSp.jpg?1794137468
 END:VEVENT
 BEGIN:VEVENT
+UID:2545@stopgame.sched-alert-bot
+DTSTAMP:20261108T125200Z
+LAST-MODIFIED:20261108T125200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261108T180000
+DTEND;TZID=Europe/Moscow:20261108T200000
+SUMMARY:Fortnite X One Piece 3. Пираты-вокалоиды отаку-э!
+DESCRIPTION:«Саня\, куда нам идти?» — «Туда!» — «Отлично! Идём в обратную
+  сторону!» «Саня Ж» Уэс и Иван «Луффен»\n\nЯн Грибович\, Иван Лоев\, AAA
+ ndroid!\, Александр Вилисов\n\nTwitch: https://www.twitch.tv/stopgameru\
+ nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nStopGame: http
+ s://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
+UID:2519@stopgame.sched-alert-bot
+DTSTAMP:20261108T125200Z
+LAST-MODIFIED:20261108T125200Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Moscow:20261108T220000
+DTEND;TZID=Europe/Moscow:20261109T000000
+SUMMARY:НРИ. World of Darkness. [Выпуск #3\, ФИНАЛ]
+DESCRIPTION:Клинки наших героев уже занесены над головой их же Шерифа. Вы
+ стрелы гремят по обшивке их верной машины\, а из реки выходит троица ужа
+ сных тварей\, что не даст им уйти так просто. Песня Лилит звучит сильнее
+ \, чем никогда — ответят ли герои на призыв или не сдадутся и познают вс
+ е тайны города\, что был спален Инквизицией?\n\nДжуби\, Никита Шилин\, А
+ настасия Коноплёва\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube:
+  https://www.youtube.com/@StopgameRuOnline/live\nStopGame: https://stopg
+ ame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 08/c583x325/E7iHOTtmxmfP3tDoMvwW-g/nri_world_of_darkness_vypusk_3_final_
+ main.jpg?1794142286
+END:VEVENT
+BEGIN:VEVENT
 UID:2518@stopgame.sched-alert-bot
 DTSTAMP:20261101T124200Z
 LAST-MODIFIED:20261101T124200Z
