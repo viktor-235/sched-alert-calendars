@@ -1465,68 +1465,10 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  _main.jpg?1791912784
 END:VEVENT
 BEGIN:VEVENT
-UID:2476@stopgame.sched-alert-bot
-DTSTAMP:20261014T140400Z
-LAST-MODIFIED:20261014T140400Z
-SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261014T145700
-DTEND;TZID=Europe/Moscow:20261014T170400
-SUMMARY:Party for Two. Baldur's Gate 3 [Стрим #14]
-DESCRIPTION:Исследование проклятых земель только начинается: путаясь в те
- нях\, герои отправятся наводить порядки в Рейтвине\, бороть шаритскую ер
- есь и сунутся в глубины семейной усыпальницы в поисках загадочной Песни 
- Ночи…\n\nДжуби\, Анастасия Коноплёва\n\nTwitch: https://www.twitch.tv/st
- opgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nВеб-к
- алендарь: https://viktor-235.github.io/sched-alert-calendars/stopgame/\n
- StopGame: https://stopgame.ru/live_schedule
-URL:https://www.twitch.tv/stopgameru
-IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 14/c583x325/-RDsXQJDdiVFlAAqM9jyfA/party_for_two_baldurs_gate_3_strim_14
- _main.jpg?1791970209
-END:VEVENT
-BEGIN:VEVENT
-UID:2477@stopgame.sched-alert-bot
-DTSTAMP:20261014T200800Z
-LAST-MODIFIED:20261014T200800Z
-SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261014T180100
-DTEND;TZID=Europe/Moscow:20261014T230800
-SUMMARY:Куча инфы про GTA VI от Шрайера // Epic Games переходит на ИИ-код
-  // Аниме-хейтер в XBOX [Взвешенный Ответ]
-DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов\n\nTwitch: https://www
- .twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnlin
- e/live\nВеб-календарь: https://viktor-235.github.io/sched-alert-calendar
- s/stopgame/\nStopGame: https://stopgame.ru/live_schedule
-URL:https://www.twitch.tv/stopgameru
-IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 14/c583x325/aZJXVRV7hi0O_p_wNWkWyA/CG17oAV.jpg?1791988208
-END:VEVENT
-BEGIN:VEVENT
-UID:2483@stopgame.sched-alert-bot
-DTSTAMP:20261016T191500Z
-LAST-MODIFIED:20261016T191500Z
-SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261016T180700
-DTEND;TZID=Europe/Moscow:20261016T221500
-SUMMARY:Фэйтологи #16. Fate/stay Night (2-й рут) [Ретрореквест]
-DESCRIPTION:Традиционное пятничное погружение в историю Святого грааля и 
- Битвы семи магов. Предаёмся любви к Fate и желаем Фуджинэ-э-э «Доброго у
- тра». Тема «Ретрореквеста» у нас в блогах: правила\, прошлые эфиры\, тек
- ущее состояние списка реквестов и многое другое!\n\nИван Лоев\, Ян Грибо
- вич\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.yo
- utube.com/@StopgameRuOnline/live\nВеб-календарь: https://viktor-235.gith
- ub.io/sched-alert-calendars/stopgame/\nStopGame: https://stopgame.ru/liv
- e_schedule
-URL:https://www.twitch.tv/stopgameru
-IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 16/c583x325/XnuYp4ySur4bPzefKzsztw/feytologi_15_fate_stay_night_retrorek
- vest_main.jpg?1792175259
-END:VEVENT
-BEGIN:VEVENT
 UID:2484@stopgame.sched-alert-bot
-DTSTAMP:20261016T200000Z
-LAST-MODIFIED:20261016T200000Z
-SEQUENCE:2
+DTSTAMP:20261016T193200Z
+LAST-MODIFIED:20261016T193200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261016T230000
 DTEND;TZID=Europe/Moscow:20261017T010000
 SUMMARY:Карновал квестов. Snatcher\, эфир второй
@@ -1540,28 +1482,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
  13/c583x325/qYlBUjghEaNFI7W13igxBw/LgqCxL2_.jpg?1792179008
 END:VEVENT
 BEGIN:VEVENT
-UID:2493@stopgame.sched-alert-bot
-DTSTAMP:20261017T165000Z
-LAST-MODIFIED:20261017T165000Z
-SEQUENCE:6
-DTSTART;TZID=Europe/Moscow:20261017T141300
-DTEND;TZID=Europe/Moscow:20261017T195000
-SUMMARY:Call of Duty: Modern Warfare 4. Проходим сюжетку!
-DESCRIPTION:Михаил Галкин\, Дмитрий Карнов\, Зулин\, Денис Старков\n\nTwi
- tch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/
- @StopgameRuOnline/live\nВеб-календарь: https://viktor-235.github.io/sche
- d-alert-calendars/stopgame/\nStopGame: https://stopgame.ru/live_schedule
-URL:https://www.twitch.tv/stopgameru
-IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
- 17/c583x325/rXi9LKTgyoJAzC7EaVTvXg/call_of_duty_modern_warfare_4_prohodi
- m_syuzhetku_main_1792009490.jpg?1792225808
-END:VEVENT
-BEGIN:VEVENT
 UID:2486@stopgame.sched-alert-bot
 DTSTAMP:20261018T004100Z
 LAST-MODIFIED:20261018T004100Z
 SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261017T200200
+DTSTART;TZID=Europe/Moscow:20261017T200700
 DTEND;TZID=Europe/Moscow:20261018T034100
 SUMMARY:Индижатва среднеосенняя
 DESCRIPTION:Пора.\n\nДмитрий Карнов\, Андрей Маковеев\n\nTwitch: https://
@@ -1576,7 +1501,7 @@ BEGIN:VEVENT
 UID:2485@stopgame.sched-alert-bot
 DTSTAMP:20261018T080000Z
 LAST-MODIFIED:20261018T080000Z
-SEQUENCE:3
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261018T110000
 DTEND;TZID=Europe/Moscow:20261018T130000
 SUMMARY:Luna Abyss. Bullet hell\, паркур\, стрельба [Шутерок под Кофеёк]
@@ -1684,11 +1609,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2490@stopgame.sched-alert-bot
-DTSTAMP:20261021T150000Z
-LAST-MODIFIED:20261021T150000Z
+DTSTAMP:20261021T150001Z
+LAST-MODIFIED:20261021T150001Z
 SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261021T130100
-DTEND;TZID=Europe/Moscow:20261021T180000
+DTEND;TZID=Europe/Moscow:20261021T180001
 SUMMARY:Party for Two. Baldur's Gate 3 [Стрим #15]
 DESCRIPTION:Мучения во втором акте продолжаются! Победив парочку Тормов\,
   герои отправляются грабить семейную усыпальницу\, бороться с тенями и р
@@ -1740,8 +1665,8 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2470@stopgame.sched-alert-bot
-DTSTAMP:20261107T140200Z
-LAST-MODIFIED:20261107T140200Z
+DTSTAMP:20261107T140000Z
+LAST-MODIFIED:20261107T140000Z
 SEQUENCE:5
 DTSTART;TZID=Europe/Moscow:20261024T170000
 DTEND;TZID=Europe/Moscow:20261024T190000
@@ -1775,11 +1700,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2502@stopgame.sched-alert-bot
-DTSTAMP:20261025T145700Z
-LAST-MODIFIED:20261025T145700Z
+DTSTAMP:20261025T145500Z
+LAST-MODIFIED:20261025T145500Z
 SEQUENCE:6
-DTSTART;TZID=Europe/Moscow:20261025T150701
-DTEND;TZID=Europe/Moscow:20261025T175700
+DTSTART;TZID=Europe/Moscow:20261025T150600
+DTEND;TZID=Europe/Moscow:20261025T175500
 SUMMARY:ЛЮБОЙ ЦЕНОЙ\, ВОССТАВШИЙ\, ХИТРЫЙ КОЙОТ | Кровью и потом: Анаболи
  ки\, Крупная рыба [Кинологи]
 DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Катерина Краснопольская\n\n
@@ -1793,11 +1718,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2488@stopgame.sched-alert-bot
-DTSTAMP:20261025T210200Z
-LAST-MODIFIED:20261025T210200Z
+DTSTAMP:20261025T205900Z
+LAST-MODIFIED:20261025T205900Z
 SEQUENCE:4
-DTSTART;TZID=Europe/Moscow:20261025T180700
-DTEND;TZID=Europe/Moscow:20261026T000200
+DTSTART;TZID=Europe/Moscow:20261025T180500
+DTEND;TZID=Europe/Moscow:20261025T235900
 SUMMARY:НРИ. World of Darkness. [Выпуск #2]
 DESCRIPTION:В свете огней Лас-Вегаса молодые вампиры находят одни неприят
  ности. Чего стоит банда «анархов»\, решивших качать права из-за какого-т
@@ -1814,11 +1739,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2505@stopgame.sched-alert-bot
-DTSTAMP:20261026T150200Z
-LAST-MODIFIED:20261026T150200Z
+DTSTAMP:20261026T150000Z
+LAST-MODIFIED:20261026T150000Z
 SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261026T151200
-DTEND;TZID=Europe/Moscow:20261026T180200
+DTSTART;TZID=Europe/Moscow:20261026T151100
+DTEND;TZID=Europe/Moscow:20261026T180000
 SUMMARY:Guild Wars 2: Внутривидовое соперничество [ММОрафон]
 DESCRIPTION:Бывший император чарров Бангар всерьёз вознамерился приручить
   Йормага. А древнему дракону это только на руку — больше смертных слуг н
@@ -1835,11 +1760,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2514@stopgame.sched-alert-bot
-DTSTAMP:20261026T195200Z
-LAST-MODIFIED:20261026T195200Z
-SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261026T180200
-DTEND;TZID=Europe/Moscow:20261026T225200
+DTSTAMP:20261027T100000Z
+LAST-MODIFIED:20261027T100000Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261027T125800
+DTEND;TZID=Europe/Moscow:20261027T130000
 SUMMARY:Индиана. Frostpunk
 DESCRIPTION:Зима-холода\, одинокие дома Моря\, города — всё как будто изо
   льда\n\nАндрей Маковеев\, Дмитрий Карнов\n\nTwitch: https://www.twitch.
@@ -1856,7 +1781,7 @@ UID:2506@stopgame.sched-alert-bot
 DTSTAMP:20261027T125700Z
 LAST-MODIFIED:20261027T125700Z
 SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261027T130200
+DTSTART;TZID=Europe/Moscow:20261027T130000
 DTEND;TZID=Europe/Moscow:20261027T155700
 SUMMARY:Кокпит - X4
 DESCRIPTION:Стримим игры\, в которых есть космос\, преимущественно — косм
@@ -1871,8 +1796,8 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2478@stopgame.sched-alert-bot
-DTSTAMP:20261027T130200Z
-LAST-MODIFIED:20261027T130200Z
+DTSTAMP:20261027T130000Z
+LAST-MODIFIED:20261027T130000Z
 SEQUENCE:3
 DTSTART;TZID=Europe/Moscow:20261027T160000
 DTEND;TZID=Europe/Moscow:20261027T180000
@@ -1890,11 +1815,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2507@stopgame.sched-alert-bot
-DTSTAMP:20261028T141200Z
-LAST-MODIFIED:20261028T141200Z
-SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261028T130200
-DTEND;TZID=Europe/Moscow:20261028T171200
+DTSTAMP:20261028T140800Z
+LAST-MODIFIED:20261028T140800Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261028T130100
+DTEND;TZID=Europe/Moscow:20261028T170800
 SUMMARY:Party for Two. Baldur's Gate 3 [Стрим #16]
 DESCRIPTION:Второй Акт нам так понравился\, что мы решили максимально зат
  януть его прохожение\, поделать побочные квесты и заглянуть под каждый к
@@ -1913,7 +1838,7 @@ UID:2508@stopgame.sched-alert-bot
 DTSTAMP:20261028T202200Z
 LAST-MODIFIED:20261028T202200Z
 SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261028T183200
+DTSTART;TZID=Europe/Moscow:20261028T182800
 DTEND;TZID=Europe/Moscow:20261028T232200
 SUMMARY:Геймеры спасают BioWare // Switch 2 хакнули // В-С-Е говорят про 
  ИИ [Взвешенный Ответ]
@@ -1927,11 +1852,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2524@stopgame.sched-alert-bot
-DTSTAMP:20261029T152200Z
-LAST-MODIFIED:20261029T152200Z
+DTSTAMP:20261029T151800Z
+LAST-MODIFIED:20261029T151800Z
 SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261029T133700
-DTEND;TZID=Europe/Moscow:20261029T182200
+DTSTART;TZID=Europe/Moscow:20261029T133500
+DTEND;TZID=Europe/Moscow:20261029T181800
 SUMMARY:Phantom Blade Ø. Наматываем на уся́
 DESCRIPTION:Десятки на агрегаторах\, звание Игры года в день релиза\, «ре
  волюция в жанре» — стандартная процедура! Плавали — знаем!.. Но попробов
@@ -1946,8 +1871,8 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2511@stopgame.sched-alert-bot
-DTSTAMP:20261030T200200Z
-LAST-MODIFIED:20261030T200200Z
+DTSTAMP:20261030T200000Z
+LAST-MODIFIED:20261030T200000Z
 SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261030T230000
 DTEND;TZID=Europe/Moscow:20261031T010000
@@ -1964,7 +1889,7 @@ BEGIN:VEVENT
 UID:2494@stopgame.sched-alert-bot
 DTSTAMP:20261031T234700Z
 LAST-MODIFIED:20261031T234700Z
-SEQUENCE:5
+SEQUENCE:6
 DTSTART;TZID=Europe/Moscow:20261031T120200
 DTEND;TZID=Europe/Moscow:20261101T024700
 SUMMARY:Хэллоунский марафон
@@ -1979,11 +1904,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2512@stopgame.sched-alert-bot
-DTSTAMP:20261101T120200Z
-LAST-MODIFIED:20261101T120200Z
+DTSTAMP:20261101T120000Z
+LAST-MODIFIED:20261101T120000Z
 SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261101T112200
-DTEND;TZID=Europe/Moscow:20261101T150200
+DTEND;TZID=Europe/Moscow:20261101T150000
 SUMMARY:Neon White. Стильно и быстро [Шутерок под Кофеёк]
 DESCRIPTION:Приходите на скоростное шоу. Вас ждут наши постоянные ведущие
  \, — Михаил Галкин и Неон Жёлтый.\n\nМихаил Галкин\, Денис Старков\n\nTw
@@ -2000,7 +1925,7 @@ UID:2515@stopgame.sched-alert-bot
 DTSTAMP:20261101T144700Z
 LAST-MODIFIED:20261101T144700Z
 SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261101T150200
+DTSTART;TZID=Europe/Moscow:20261101T150000
 DTEND;TZID=Europe/Moscow:20261101T174700
 SUMMARY:ЦИКЛ ЗВЕРЯ\, СОБАЧЬИ ЗВЁЗДЫ | Эддингтон\, 13 убийц [Кинологи]
 DESCRIPTION:Илья Шарифов\, Максим Солодилов\n\nTwitch: https://www.twitch
@@ -2013,11 +1938,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2522@stopgame.sched-alert-bot
-DTSTAMP:20261101T171700Z
-LAST-MODIFIED:20261101T171700Z
-SEQUENCE:3
+DTSTAMP:20261101T171300Z
+LAST-MODIFIED:20261101T171300Z
+SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261101T180200
-DTEND;TZID=Europe/Moscow:20261101T201700
+DTEND;TZID=Europe/Moscow:20261101T201300
 SUMMARY:Fortnite. ONE PIECE IS REAL!!!
 DESCRIPTION:Ничего невозможного нет. Я хочу им стать — и стану. Я решил с
  тать Королём пиратов и стану. А если погибну\, пытаясь им стать — респав
@@ -2033,11 +1958,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2510@stopgame.sched-alert-bot
-DTSTAMP:20261102T191700Z
-LAST-MODIFIED:20261102T191700Z
-SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261102T180700
-DTEND;TZID=Europe/Moscow:20261102T221700
+DTSTAMP:20261102T191400Z
+LAST-MODIFIED:20261102T191400Z
+SEQUENCE:6
+DTSTART;TZID=Europe/Moscow:20261102T180300
+DTEND;TZID=Europe/Moscow:20261102T221400
 SUMMARY:Madagascar [Ретрореквест]
 DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
  даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
@@ -2053,11 +1978,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2520@stopgame.sched-alert-bot
-DTSTAMP:20261103T131200Z
-LAST-MODIFIED:20261103T131200Z
-SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261103T130200
-DTEND;TZID=Europe/Moscow:20261103T161200
+DTSTAMP:20261103T130800Z
+LAST-MODIFIED:20261103T130800Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261103T130100
+DTEND;TZID=Europe/Moscow:20261103T160800
 SUMMARY:Кокпит - X4
 DESCRIPTION:Стримим игры\, в которых есть космос\, преимущественно — косм
  осимы. Начинаем с прохождения X4. Выбирать условия и путь можно будет во
@@ -2071,8 +1996,8 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2525@stopgame.sched-alert-bot
-DTSTAMP:20261103T150200Z
-LAST-MODIFIED:20261103T150200Z
+DTSTAMP:20261103T150000Z
+LAST-MODIFIED:20261103T150000Z
 SEQUENCE:3
 DTSTART;TZID=Europe/Moscow:20261103T180000
 DTEND;TZID=Europe/Moscow:20261103T200000
@@ -2091,11 +2016,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2521@stopgame.sched-alert-bot
-DTSTAMP:20261104T160200Z
-LAST-MODIFIED:20261104T160200Z
+DTSTAMP:20261104T155800Z
+LAST-MODIFIED:20261104T155800Z
 SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261104T130700
-DTEND;TZID=Europe/Moscow:20261104T190200
+DTEND;TZID=Europe/Moscow:20261104T185800
 SUMMARY:Party for Two. Baldur's Gate 3 [Стрим #17]
 DESCRIPTION:Удивительное рядом: наша бравая команда наконец-то зачистила 
  проклятые земли и готова отправляться в усыпальницу Тормов. Впереди — сю
@@ -2111,11 +2036,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2536@stopgame.sched-alert-bot
-DTSTAMP:20261105T030700Z
-LAST-MODIFIED:20261105T030700Z
+DTSTAMP:20261105T030500Z
+LAST-MODIFIED:20261105T030500Z
 SEQUENCE:4
-DTSTART;TZID=Europe/Moscow:20261104T211200
-DTEND;TZID=Europe/Moscow:20261105T060700
+DTSTART;TZID=Europe/Moscow:20261104T211000
+DTEND;TZID=Europe/Moscow:20261105T060500
 SUMMARY:A Hat in Time. Галкин в шляпе
 DESCRIPTION:Отдаём долги «Взвешенного ответа».\n\nМихаил Галкин\, Зулин\,
   Дмитрий Карнов\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: ht
@@ -2129,11 +2054,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2531@stopgame.sched-alert-bot
-DTSTAMP:20261105T185200Z
-LAST-MODIFIED:20261105T185200Z
-SEQUENCE:7
-DTSTART;TZID=Europe/Moscow:20261105T180700
-DTEND;TZID=Europe/Moscow:20261105T215200
+DTSTAMP:20261105T185000Z
+LAST-MODIFIED:20261105T185000Z
+SEQUENCE:9
+DTSTART;TZID=Europe/Moscow:20261105T180300
+DTEND;TZID=Europe/Moscow:20261105T215000
 SUMMARY:WoW Навсегда!
 DESCRIPTION:Ностальгии стрим! Когда и трава была зеленее\, и Warcraft был
  а лучшей MMO. Идем в WoW Forever!\n\nАнастасия Коноплёва\, Ян Грибович\,
@@ -2147,11 +2072,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2530@stopgame.sched-alert-bot
-DTSTAMP:20261106T191200Z
-LAST-MODIFIED:20261106T191200Z
-SEQUENCE:3
+DTSTAMP:20261106T191000Z
+LAST-MODIFIED:20261106T191000Z
+SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261106T180200
-DTEND;TZID=Europe/Moscow:20261106T221200
+DTEND;TZID=Europe/Moscow:20261106T221000
 SUMMARY:Shaman King: Master Of Spirits [Ретрореквест]
 DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
  даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
@@ -2167,11 +2092,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2526@stopgame.sched-alert-bot
-DTSTAMP:20261107T012200Z
-LAST-MODIFIED:20261107T012200Z
+DTSTAMP:20261107T011800Z
+LAST-MODIFIED:20261107T011800Z
 SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261106T230700
-DTEND;TZID=Europe/Moscow:20261107T042200
+DTSTART;TZID=Europe/Moscow:20261106T230300
+DTEND;TZID=Europe/Moscow:20261107T041800
 SUMMARY:Карновал квестов. Snatcher (эфир четвёртый)
 DESCRIPTION:Попробуем уничтожить всех снэтчеров и закончить прохождение.\
  n\nДмитрий Карнов\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: 
@@ -2184,11 +2109,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2538@stopgame.sched-alert-bot
-DTSTAMP:20261107T133700Z
-LAST-MODIFIED:20261107T133700Z
+DTSTAMP:20261107T133600Z
+LAST-MODIFIED:20261107T133600Z
 SEQUENCE:5
 DTSTART;TZID=Europe/Moscow:20261107T121200
-DTEND;TZID=Europe/Moscow:20261107T163700
+DTEND;TZID=Europe/Moscow:20261107T163600
 SUMMARY:Ubisoft может купить Arkane // Стример «Арахис» в центре срача по
   DBD // Шейхи хотят Unity [Взвешенный Ответ]
 DESCRIPTION:Зулин\, Галкин и Карнов дают ответы на вопросы\, которые никт
@@ -2202,11 +2127,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2533@stopgame.sched-alert-bot
-DTSTAMP:20261107T180200Z
-LAST-MODIFIED:20261107T180200Z
-SEQUENCE:4
+DTSTAMP:20261107T180000Z
+LAST-MODIFIED:20261107T180000Z
+SEQUENCE:7
 DTSTART;TZID=Europe/Moscow:20261107T190200
-DTEND;TZID=Europe/Moscow:20261107T210200
+DTEND;TZID=Europe/Moscow:20261107T210000
 SUMMARY:Fortnite X One Piece 2. Бесплатный магазин?!
 DESCRIPTION:«Я отказываюсь! Я ни за что не стану стримить Fortnite опять.
   Моя мечта — остаться в этом РГГ.» — «Я отказываюсь от твоего отказа!» «
@@ -2222,11 +2147,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2527@stopgame.sched-alert-bot
-DTSTAMP:20261107T222700Z
-LAST-MODIFIED:20261107T222700Z
+DTSTAMP:20261107T222500Z
+LAST-MODIFIED:20261107T222500Z
 SEQUENCE:4
-DTSTART;TZID=Europe/Moscow:20261107T210200
-DTEND;TZID=Europe/Moscow:20261108T012700
+DTSTART;TZID=Europe/Moscow:20261107T210000
+DTEND;TZID=Europe/Moscow:20261108T012500
 SUMMARY:Индиана. Katana ZERO (стрим второй)
 DESCRIPTION:Katana ZERO представляет из себя ураганный неонуарный экшен-п
  латформер с мгновенной смертью. Рубите\, уворачивайтесь и управляйте вре
@@ -2242,11 +2167,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2529@stopgame.sched-alert-bot
-DTSTAMP:20261108T145700Z
-LAST-MODIFIED:20261108T145700Z
+DTSTAMP:20261108T145600Z
+LAST-MODIFIED:20261108T145600Z
 SEQUENCE:4
-DTSTART;TZID=Europe/Moscow:20261108T150700
-DTEND;TZID=Europe/Moscow:20261108T175700
+DTSTART;TZID=Europe/Moscow:20261108T150600
+DTEND;TZID=Europe/Moscow:20261108T175600
 SUMMARY:ПРАЙМ-ТАЙМ\, ЖЕЛЕЗНОЕ ЛЁГКОЕ | Блейд 2\, Крик (2022) [Кинологи]
 DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Никита Босс\n\nTwitch: http
  s://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stopgame
@@ -2258,8 +2183,8 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2545@stopgame.sched-alert-bot
-DTSTAMP:20261108T150200Z
-LAST-MODIFIED:20261108T150200Z
+DTSTAMP:20261108T150000Z
+LAST-MODIFIED:20261108T150000Z
 SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261108T180000
 DTEND;TZID=Europe/Moscow:20261108T200000
@@ -2297,8 +2222,8 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2469@stopgame.sched-alert-bot
-DTSTAMP:20261105T100700Z
-LAST-MODIFIED:20261105T100700Z
+DTSTAMP:20261105T100300Z
+LAST-MODIFIED:20261105T100300Z
 SEQUENCE:3
 DTSTART;TZID=Europe/Moscow:20261109T180000
 DTEND;TZID=Europe/Moscow:20261109T200000
@@ -2315,8 +2240,8 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:2547@stopgame.sched-alert-bot
-DTSTAMP:20261108T131200Z
-LAST-MODIFIED:20261108T131200Z
+DTSTAMP:20261108T130900Z
+LAST-MODIFIED:20261108T130900Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20261115T180000
 DTEND;TZID=Europe/Moscow:20261115T200000
@@ -2329,8 +2254,8 @@ URL:https://www.twitch.tv/stopgameru
 END:VEVENT
 BEGIN:VEVENT
 UID:2519@stopgame.sched-alert-bot
-DTSTAMP:20261108T143700Z
-LAST-MODIFIED:20261108T143700Z
+DTSTAMP:20261108T143600Z
+LAST-MODIFIED:20261108T143600Z
 SEQUENCE:3
 DTSTART;TZID=Europe/Moscow:20261122T180000
 DTEND;TZID=Europe/Moscow:20261122T200000
