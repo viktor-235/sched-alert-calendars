@@ -6,6 +6,7 @@
   const root = document.documentElement;
   const supported = (root.dataset.langs || FALLBACK).split(/\s+/).filter(Boolean);
   const listeners = [];
+  const version = new URL(document.currentScript.src).search; // this script's ?v=<N>, shared with the texts
   let strings = {};
 
   function stored() {
@@ -64,7 +65,7 @@
   }
 
   async function load(lang) {
-    const response = await fetch(`i18n/${lang}.json`);
+    const response = await fetch(`i18n/${lang}.json${version}`);
     if (!response.ok) throw new Error(`HTTP ${response.status} for i18n/${lang}.json`);
     return response.json();
   }

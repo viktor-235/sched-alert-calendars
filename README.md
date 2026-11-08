@@ -14,6 +14,8 @@ The bot commits the calendar files through the GitHub Contents API, at most once
 
 Plain HTML, CSS and JavaScript, no build step. A site page loads its calendar file named on `<body data-calendar="streams.ics">`, parses it with ical.js and shows it with FullCalendar in the viewer's time zone. It reloads the file every 10 minutes while the tab is open.
 
+Pages load local styles, scripts and texts with a `?v=<N>` query, the same `N` everywhere. Increase `N` by one in `index.html` and `<site>/index.html` with every change to the site's files; `i18n.js` passes its own query on to the texts. GitHub Pages lets browsers reuse a file for up to 10 minutes, so without this a reloaded page can get new markup with old styles.
+
 ## Layout
 
 ```
