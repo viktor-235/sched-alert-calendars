@@ -4,7 +4,7 @@ Event calendars published by [sched-alert-bot](https://github.com/viktor-235/sch
 
 The bot scrapes event schedules from websites, announces them in Telegram and writes them to iCalendar (`.ics`) files. This repository hosts those files, so calendar apps can subscribe to them by URL, and a small static site to browse them.
 
-To subscribe, open the site page and use Subscribe or Add to Google Calendar, or add the calendar URL in your calendar app by hand. The calendar updates automatically; how often the app refreshes it depends on the app (Google Calendar does it rarely, up to once a day).
+To subscribe, open the site page and use Subscribe or Add to Google Calendar, or add the calendar URL in your calendar app by hand. The calendar updates automatically; how often the app refreshes it depends on the app (Google Calendar does it with a delay, usually from a few hours to a day).
 
 ## How it updates
 
