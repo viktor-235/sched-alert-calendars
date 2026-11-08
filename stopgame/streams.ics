@@ -2136,9 +2136,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2545@stopgame.sched-alert-bot
-DTSTAMP:20261108T140700Z
-LAST-MODIFIED:20261108T140700Z
-SEQUENCE:2
+DTSTAMP:20261108T143200Z
+LAST-MODIFIED:20261108T143200Z
+SEQUENCE:3
 DTSTART;TZID=Europe/Moscow:20261108T180000
 DTEND;TZID=Europe/Moscow:20261108T200000
 SUMMARY:Fortnite X One Piece 3. Зоро против Узи
@@ -2149,7 +2149,7 @@ DESCRIPTION:«Сань\, куда нам идти?» — «Туда!» — «О�
  s://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 08/c583x325/gmmUw9nDnxxBdK6tgdsrLg/fortnite_main.jpg?1794146532
+ 08/c583x325/gmmUw9nDnxxBdK6tgdsrLg/fortnite_main.jpg?1794148208
 END:VEVENT
 BEGIN:VEVENT
 UID:2519@stopgame.sched-alert-bot
