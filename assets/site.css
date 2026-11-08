@@ -114,12 +114,42 @@ h1, h2, h3 {
   color: var(--text);
 }
 
+.github-badge {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.github-badge:hover {
+  border-color: var(--muted);
+  color: var(--text);
+}
+
+.github-badge:focus-visible {
+  border-radius: 8px;
+}
+
+.github-badge svg {
+  width: 16px;
+  height: 16px;
+  flex: none;
+}
+
+.github-badge + .lang-switch {
+  margin-left: 0;
+}
+
 .lang-switch {
   margin-left: auto;
   display: inline-flex;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  overflow: hidden;
 }
 
 .lang-switch[hidden] {
@@ -127,9 +157,10 @@ h1, h2, h3 {
 }
 
 .lang-switch button {
+  position: relative;
   background: transparent;
   color: var(--muted);
-  border: 0;
+  border: 1px solid var(--border);
   padding: 6px 12px;
   font: inherit;
   font-size: 0.8125rem;
@@ -138,8 +169,23 @@ h1, h2, h3 {
   cursor: pointer;
 }
 
+.lang-switch button:first-child {
+  border-radius: 8px 0 0 8px;
+}
+
+.lang-switch button:last-child {
+  border-radius: 0 8px 8px 0;
+}
+
+/* Neighbours share one line; the hovered or focused button draws its frame on top. */
 .lang-switch button + button {
-  border-left: 1px solid var(--border);
+  margin-left: -1px;
+}
+
+.lang-switch button:hover {
+  z-index: 1;
+  border-color: var(--muted);
+  color: var(--text);
 }
 
 .lang-switch button[aria-pressed="true"] {
@@ -148,7 +194,7 @@ h1, h2, h3 {
 }
 
 .lang-switch button:focus-visible {
-  border-radius: 0;
+  z-index: 1;
 }
 
 main {
