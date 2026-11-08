@@ -195,7 +195,13 @@
 
   const LINK_LINE = /^([^:\n]+):\s*(https?:\/\/\S+)$/;
 
+  // Compares by the end of the path: the links name the published URL, the local preview serves the page from the root.
+  function isThisPage(url) {
+    return new URL(url).pathname.endsWith(location.pathname.replace(/index\.html$/, ''));
+  }
+
   // Splits off the last block of the description when it holds only "<name>: <url>" lines.
+  // A link to this page is dropped: the viewer is already on it.
   function splitDescription(description) {
     const blocks = description.trim().split(/\n\s*\n/);
     const lines = blocks[blocks.length - 1].split('\n').map((line) => line.trim());
@@ -204,7 +210,7 @@
       const links = lines.map((line) => {
         const [, name, url] = line.match(LINK_LINE);
         return { name: name.trim(), url };
-      });
+      }).filter((link) => !isThisPage(link.url));
       return { text: blocks.join('\n\n'), links };
     }
     return { text: description.trim(), links: [] };
