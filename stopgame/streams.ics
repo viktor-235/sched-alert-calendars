@@ -2183,11 +2183,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2545@stopgame.sched-alert-bot
-DTSTAMP:20261108T150000Z
-LAST-MODIFIED:20261108T150000Z
-SEQUENCE:4
+DTSTAMP:20261108T180100Z
+LAST-MODIFIED:20261108T180100Z
+SEQUENCE:5
 DTSTART;TZID=Europe/Moscow:20261108T180000
-DTEND;TZID=Europe/Moscow:20261108T200000
+DTEND;TZID=Europe/Moscow:20261108T210100
 SUMMARY:Fortnite X One Piece 3. Зоро против Узи
 DESCRIPTION:«Сань\, куда нам идти?» — «Туда!» — «Отлично! Идём в обратную
   сторону!» «Саня Ж» Уэс и Иван «Луффен»\n\nЯн Грибович\, Иван Лоев\, AAA
