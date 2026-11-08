@@ -293,7 +293,6 @@ main {
 .cards {
   display: grid;
   grid-template-columns: 1fr;
-  align-items: start;
   gap: 16px;
   margin-top: 28px;
 }
@@ -322,10 +321,6 @@ main {
 .card p {
   margin: 0;
   color: var(--muted);
-}
-
-.card .hint {
-  font-size: 0.875rem;
 }
 
 .help {
@@ -361,34 +356,18 @@ main {
   color: var(--text);
 }
 
-.card .actions {
-  margin-top: auto;
-}
-
 .url-field {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-@media (max-width: 480px) {
-  .url-field input[type] {
-    flex-basis: 100%;
-  }
-}
-
-.url-field input {
-  flex: 1;
+  width: 100%;
   min-width: 0;
   padding: 10px 12px;
   background: var(--bg);
   color: var(--text);
   border: 1px solid var(--border);
   border-radius: 8px;
-  font: 0.875rem/1.4 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font: 0.75rem/1.4 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
 
-.url-field input:focus-visible {
+.url-field:focus-visible {
   border-radius: 8px;
 }
 
@@ -722,6 +701,7 @@ main {
   left: 50%;
   bottom: 24px;
   transform: translate(-50%, 16px);
+  z-index: 10000; /* above FullCalendar, whose popover uses 9999 */
   padding: 10px 16px;
   background: var(--surface-raised);
   color: var(--text);

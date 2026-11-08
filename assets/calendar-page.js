@@ -25,11 +25,12 @@
   }
 
   async function copyUrl() {
+    const input = $('calendar-url');
+    input.hidden = false;
     try {
       await navigator.clipboard.writeText(calendarUrl);
       showToast(t('subscribe.copied') || 'Link copied');
     } catch (e) {
-      const input = $('calendar-url');
       input.focus();
       input.select();
     }
