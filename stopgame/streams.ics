@@ -2267,6 +2267,25 @@ DESCRIPTION:VOKSHO4KA\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTub
 URL:https://www.twitch.tv/stopgameru
 END:VEVENT
 BEGIN:VEVENT
+UID:2548@stopgame.sched-alert-bot
+DTSTAMP:20261108T184300Z
+LAST-MODIFIED:20261108T184300Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261116T180000
+DTEND;TZID=Europe/Moscow:20261116T200000
+SUMMARY:Fortnite X One Piece 4. Пираты-вокалоиды отаку-э!
+DESCRIPTION:«Мне показалось\, что человек\, весь исколот ножами… Или это 
+ просто маленькие боты.» © РобинДроид\n\nЯн Грибович\, Иван Лоев\, Алекса
+ ндр Вилисов\, AAAndroid!\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nВеб-календарь: ht
+ tps://viktor-235.github.io/sched-alert-calendars/stopgame/\nStopGame: ht
+ tps://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 16/c583x325/rugtDSt-OMdb7v8dRHDthg/fortnite_x_one_piece_4_piraty_vokaloi
+ dy_otaku_e_main.jpg?1794163341
+END:VEVENT
+BEGIN:VEVENT
 UID:2519@stopgame.sched-alert-bot
 DTSTAMP:20261108T143600Z
 LAST-MODIFIED:20261108T143600Z
