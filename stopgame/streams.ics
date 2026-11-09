@@ -2273,6 +2273,24 @@ DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов
 URL:https://www.twitch.tv/stopgameru
 END:VEVENT
 BEGIN:VEVENT
+UID:2544@stopgame.sched-alert-bot
+DTSTAMP:20261109T112600Z
+LAST-MODIFIED:20261109T112600Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261114T210000
+DTEND;TZID=Europe/Moscow:20261114T230000
+SUMMARY:Индиана. Disco Elysium (стрим восьмой)
+DESCRIPTION:Иногда они возвращаются (в Ревашоль).\n\nДмитрий Карнов\, Анд
+ рей Маковеев\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https
+ ://www.youtube.com/@StopgameRuOnline/live\nВеб-календарь: https://viktor
+ -235.github.io/sched-alert-calendars/stopgame/\nStopGame: https://stopga
+ me.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 14/c583x325/yjNhbcV_qbI6mRU6Gjjldg/indiana_disco_elysium_strim_vosmoy_ma
+ in_1794223530.jpg?1794223555
+END:VEVENT
+BEGIN:VEVENT
 UID:2547@stopgame.sched-alert-bot
 DTSTAMP:20261108T130900Z
 LAST-MODIFIED:20261108T130900Z
