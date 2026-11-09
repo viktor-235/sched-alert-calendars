@@ -2293,6 +2293,26 @@ DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов
 URL:https://www.twitch.tv/stopgameru
 END:VEVENT
 BEGIN:VEVENT
+UID:2540@stopgame.sched-alert-bot
+DTSTAMP:20261109T145300Z
+LAST-MODIFIED:20261109T145300Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261113T180000
+DTEND;TZID=Europe/Moscow:20261113T200000
+SUMMARY:Treasures of the Deep [Ретрореквест]
+DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
+ даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
+ блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
+ ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nВ
+ еб-календарь: https://viktor-235.github.io/sched-alert-calendars/stopgam
+ e/\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 13/c583x325/EP_phrPie8N6tCGvmbM0pA/treasures_of_the_deep_retrorekvest_ma
+ in.jpg?1794235925
+END:VEVENT
+BEGIN:VEVENT
 UID:2544@stopgame.sched-alert-bot
 DTSTAMP:20261109T112600Z
 LAST-MODIFIED:20261109T112600Z
