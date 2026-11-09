@@ -2201,9 +2201,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2518@stopgame.sched-alert-bot
-DTSTAMP:20261101T124200Z
-LAST-MODIFIED:20261101T124200Z
-SEQUENCE:1
+DTSTAMP:20261109T113100Z
+LAST-MODIFIED:20261109T113100Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261109T150000
 DTEND;TZID=Europe/Moscow:20261109T170000
 SUMMARY:Guild Wars 2: Ледяной чемпион [ММОрафон]
@@ -2218,7 +2218,7 @@ DESCRIPTION:В прошлый раз мы выяснили\, что\, ради �
  ps://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 09/c583x325/4GkQnPvQcW5RbthiclgWLw/guild_wars_2_main.jpg?1793536885
+ 09/c583x325/4GkQnPvQcW5RbthiclgWLw/guild_wars_2_main.jpg?1794223808
 END:VEVENT
 BEGIN:VEVENT
 UID:2469@stopgame.sched-alert-bot
