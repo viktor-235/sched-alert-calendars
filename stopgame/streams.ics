@@ -2222,11 +2222,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2469@stopgame.sched-alert-bot
-DTSTAMP:20261109T150200Z
-LAST-MODIFIED:20261109T150200Z
-SEQUENCE:5
+DTSTAMP:20261109T152200Z
+LAST-MODIFIED:20261109T152200Z
+SEQUENCE:6
 DTSTART;TZID=Europe/Moscow:20261109T180000
-DTEND;TZID=Europe/Moscow:20261109T180200
+DTEND;TZID=Europe/Moscow:20261109T200000
 SUMMARY:Нешуточная дуэль
 DESCRIPTION:Несколько испытаний\, два игрока и лишь один победитель.\n\nИ
  ван Лоев\, Cheezzy fioletovaya boroda\, Никита Босс\, Никита Шилин\n\nTw
