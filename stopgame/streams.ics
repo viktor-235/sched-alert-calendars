@@ -2201,11 +2201,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2518@stopgame.sched-alert-bot
-DTSTAMP:20261109T132800Z
-LAST-MODIFIED:20261109T132800Z
-SEQUENCE:4
-DTSTART;TZID=Europe/Moscow:20261109T150000
-DTEND;TZID=Europe/Moscow:20261109T170000
+DTSTAMP:20261109T150000Z
+LAST-MODIFIED:20261109T150000Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261109T162800
+DTEND;TZID=Europe/Moscow:20261109T180000
 SUMMARY:Guild Wars 2: Ледяной чемпион [ММОрафон]
 DESCRIPTION:В прошлый раз мы выяснили\, что\, ради «приручения» неприруча
  емого ледяного дракона Йормага\, Бангар создал новый легино чарров — лед
@@ -2222,11 +2222,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2469@stopgame.sched-alert-bot
-DTSTAMP:20261105T100300Z
-LAST-MODIFIED:20261105T100300Z
-SEQUENCE:3
+DTSTAMP:20261109T150200Z
+LAST-MODIFIED:20261109T150200Z
+SEQUENCE:5
 DTSTART;TZID=Europe/Moscow:20261109T180000
-DTEND;TZID=Europe/Moscow:20261109T200000
+DTEND;TZID=Europe/Moscow:20261109T180200
 SUMMARY:Нешуточная дуэль
 DESCRIPTION:Несколько испытаний\, два игрока и лишь один победитель.\n\nИ
  ван Лоев\, Cheezzy fioletovaya boroda\, Никита Босс\, Никита Шилин\n\nTw
@@ -2291,6 +2291,26 @@ DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов
  e/live\nВеб-календарь: https://viktor-235.github.io/sched-alert-calendar
  s/stopgame/\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
+UID:2537@stopgame.sched-alert-bot
+DTSTAMP:20261109T145600Z
+LAST-MODIFIED:20261109T145600Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261112T180000
+DTEND;TZID=Europe/Moscow:20261112T200000
+SUMMARY:100 смертей. The First Berserker: Khazan [Заход#2]
+DESCRIPTION:Играем в игру пока счетчик смертей не дойдет до 100. Если сче
+ тчик дошел до 100\, а игра не пройдена - офаем с позором. За донаты вы м
+ ожете установить нам временные челленджи и повлиять на количество смерте
+ й. Все правила и игры на https://stopgame.ru/100lives\n\nАнастасия Коноп
+ лёва\, Александр Вилисов\n\nTwitch: https://www.twitch.tv/stopgameru\nYo
+ uTube: https://www.youtube.com/@StopgameRuOnline/live\nВеб-календарь: ht
+ tps://viktor-235.github.io/sched-alert-calendars/stopgame/\nStopGame: ht
+ tps://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 09/c583x325/_-1VXsKFtyQxDOx36QVVag/mjqVoxyRF.jpg?1794236130
 END:VEVENT
 BEGIN:VEVENT
 UID:2540@stopgame.sched-alert-bot
