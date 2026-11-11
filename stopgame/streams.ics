@@ -2299,9 +2299,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2535@stopgame.sched-alert-bot
-DTSTAMP:20261111T150000Z
-LAST-MODIFIED:20261111T150000Z
-SEQUENCE:3
+DTSTAMP:20261111T151000Z
+LAST-MODIFIED:20261111T151000Z
+SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261111T180000
 DTEND;TZID=Europe/Moscow:20261111T200000
 SUMMARY:Интрижка главы NVIDIA // Ревью-бомбинг Big Walk // Steam бустит б
@@ -2404,6 +2404,26 @@ DESCRIPTION:VOKSHO4KA\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTub
  //viktor-235.github.io/sched-alert-calendars/stopgame/\nStopGame: https:
  //stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
+UID:2549@stopgame.sched-alert-bot
+DTSTAMP:20261111T150200Z
+LAST-MODIFIED:20261111T150200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261116T150000
+DTEND;TZID=Europe/Moscow:20261116T170000
+SUMMARY:Guild Wars 2: Для танго нужны двое [ММОрафон]
+DESCRIPTION:Древний дракон льда и обмана Йормаг обрёл новую армию в лице 
+ Морозного Легиона чарров. Примордус\, дракон огня и разрушения\, пробужд
+ ается. Нас ждёт очень много геройской рутины…\n\nИлья Шарифов\, Алексей 
+ Ермолаев\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://w
+ ww.youtube.com/@StopgameRuOnline/live\nВеб-календарь: https://viktor-235
+ .github.io/sched-alert-calendars/stopgame/\nStopGame: https://stopgame.r
+ u/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 16/c583x325/XmFY6itex0130IrtPPPsGg/guild_wars_2_dlya_tango_nuzhny_dvoe_m
+ morafon_main.jpg?1794409264
 END:VEVENT
 BEGIN:VEVENT
 UID:2548@stopgame.sched-alert-bot
