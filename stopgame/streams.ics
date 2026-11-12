@@ -2355,6 +2355,23 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  in.jpg?1794235925
 END:VEVENT
 BEGIN:VEVENT
+UID:2541@stopgame.sched-alert-bot
+DTSTAMP:20261112T080000Z
+LAST-MODIFIED:20261112T080000Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261113T230000
+DTEND;TZID=Europe/Moscow:20261114T010000
+SUMMARY:Карновал квестов + | Пророк и убийца
+DESCRIPTION:Вместе с Вокшей отправляемся на Ближний Восток XIII века.\n\n
+ Дмитрий Карнов\, VOKSHO4KA\n\nTwitch: https://www.twitch.tv/stopgameru\n
+ YouTube: https://www.youtube.com/@StopgameRuOnline/live\nВеб-календарь: 
+ https://viktor-235.github.io/sched-alert-calendars/stopgame/\nStopGame: 
+ https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 12/c583x325/rgFl7cc8xYLR2HXkQWpDrw/my0Es8m0j.jpg?1794470392
+END:VEVENT
+BEGIN:VEVENT
 UID:2543@stopgame.sched-alert-bot
 DTSTAMP:20261111T144000Z
 LAST-MODIFIED:20261111T144000Z
