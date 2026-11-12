@@ -2316,9 +2316,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2537@stopgame.sched-alert-bot
-DTSTAMP:20261109T145600Z
-LAST-MODIFIED:20261109T145600Z
-SEQUENCE:0
+DTSTAMP:20261112T143100Z
+LAST-MODIFIED:20261112T143100Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261112T180000
 DTEND;TZID=Europe/Moscow:20261112T200000
 SUMMARY:100 смертей. The First Berserker: Khazan [Заход#2]
@@ -2332,7 +2332,7 @@ DESCRIPTION:Играем в игру пока счетчик смертей не
  tps://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 09/c583x325/_-1VXsKFtyQxDOx36QVVag/mjqVoxyRF.jpg?1794236130
+ 09/c583x325/_-1VXsKFtyQxDOx36QVVag/mjqVoxyRF.jpg?1794493809
 END:VEVENT
 BEGIN:VEVENT
 UID:2540@stopgame.sched-alert-bot
