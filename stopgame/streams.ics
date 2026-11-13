@@ -2336,11 +2336,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2551@stopgame.sched-alert-bot
-DTSTAMP:20261113T110300Z
-LAST-MODIFIED:20261113T110300Z
-SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261113T140000
-DTEND;TZID=Europe/Moscow:20261113T160000
+DTSTAMP:20261113T143900Z
+LAST-MODIFIED:20261113T143900Z
+SEQUENCE:6
+DTSTART;TZID=Europe/Moscow:20261113T140300
+DTEND;TZID=Europe/Moscow:20261113T173900
 SUMMARY:WoW навсегда-навсегда!
 DESCRIPTION:Вы просили — мы возвращаемся\, чтобы посидеть у костра\, спет
  ь дарнасский блюз и раздобыть ещё 48 волчьих шкур!\n\nТин\, Джуби\, Ян Г
