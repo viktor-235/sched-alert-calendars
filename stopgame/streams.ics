@@ -2335,6 +2335,21 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  09/c583x325/_-1VXsKFtyQxDOx36QVVag/mjqVoxyRF.jpg?1794493809
 END:VEVENT
 BEGIN:VEVENT
+UID:2551@stopgame.sched-alert-bot
+DTSTAMP:20261113T042500Z
+LAST-MODIFIED:20261113T042500Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261113T140000
+DTEND;TZID=Europe/Moscow:20261113T160000
+SUMMARY:WoW навсегда!
+DESCRIPTION:Вы просили — мы возвращаемся!\n\nАнастасия Коноплёва\, Тин\, 
+ Ян Грибович\, Джуби\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube
+ : https://www.youtube.com/@StopgameRuOnline/live\nВеб-календарь: https:/
+ /viktor-235.github.io/sched-alert-calendars/stopgame/\nStopGame: https:/
+ /stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
 UID:2540@stopgame.sched-alert-bot
 DTSTAMP:20261109T145300Z
 LAST-MODIFIED:20261109T145300Z
