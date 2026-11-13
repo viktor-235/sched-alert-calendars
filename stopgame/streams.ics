@@ -2390,6 +2390,24 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  12/c583x325/rgFl7cc8xYLR2HXkQWpDrw/my0Es8m0j.jpg?1794598268
 END:VEVENT
 BEGIN:VEVENT
+UID:2542@stopgame.sched-alert-bot
+DTSTAMP:20261113T212800Z
+LAST-MODIFIED:20261113T212800Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261114T130000
+DTEND;TZID=Europe/Moscow:20261114T150000
+SUMMARY:Serious Sam II. Серьёзная стрелялка [Шутерок под Кофеёк]
+DESCRIPTION:Серьёзные ведущие пришли серьёзно постреляться с серьёзными п
+ ротивниками. Кажется\, всё серьёзно.\n\nДенис Старков\, Михаил Галкин\n\
+ nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.
+ com/@StopgameRuOnline/live\nВеб-календарь: https://viktor-235.github.io/
+ sched-alert-calendars/stopgame/\nStopGame: https://stopgame.ru/live_sche
+ dule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 14/c583x325/cqSQbGuO6VaxheYXSGZjBA/RQw0ssZ.jpg?1794605266
+END:VEVENT
+BEGIN:VEVENT
 UID:2543@stopgame.sched-alert-bot
 DTSTAMP:20261111T144000Z
 LAST-MODIFIED:20261111T144000Z
