@@ -2336,9 +2336,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2551@stopgame.sched-alert-bot
-DTSTAMP:20261113T042900Z
-LAST-MODIFIED:20261113T042900Z
-SEQUENCE:1
+DTSTAMP:20261113T103100Z
+LAST-MODIFIED:20261113T103100Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261113T140000
 DTEND;TZID=Europe/Moscow:20261113T160000
 SUMMARY:WoW навсегда!
@@ -2350,7 +2350,7 @@ DESCRIPTION:Вы просили — мы возвращаемся\, чтобы �
  e: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 13/c583x325/K6q2aZfJghEfoPyoe4OfoQ/wow_navsegda_main.jpg?1794544124
+ 13/c583x325/K6q2aZfJghEfoPyoe4OfoQ/wow_navsegda_main.jpg?1794565808
 END:VEVENT
 BEGIN:VEVENT
 UID:2540@stopgame.sched-alert-bot
