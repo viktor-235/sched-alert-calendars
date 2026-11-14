@@ -2445,6 +2445,20 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  in_1794223530.jpg?1794650903
 END:VEVENT
 BEGIN:VEVENT
+UID:2546@stopgame.sched-alert-bot
+DTSTAMP:20261114T133200Z
+LAST-MODIFIED:20261114T133200Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261115T150000
+DTEND;TZID=Europe/Moscow:20261115T170000
+SUMMARY:Кинологи
+DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Никита Босс\n\nTwitch: http
+ s://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stopgame
+ RuOnline/live\nВеб-календарь: https://viktor-235.github.io/sched-alert-c
+ alendars/stopgame/\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+END:VEVENT
+BEGIN:VEVENT
 UID:2547@stopgame.sched-alert-bot
 DTSTAMP:20261114T103000Z
 LAST-MODIFIED:20261114T103000Z
