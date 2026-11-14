@@ -2409,11 +2409,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2543@stopgame.sched-alert-bot
-DTSTAMP:20261114T140000Z
-LAST-MODIFIED:20261114T140000Z
-SEQUENCE:2
+DTSTAMP:20261114T140200Z
+LAST-MODIFIED:20261114T140200Z
+SEQUENCE:3
 DTSTART;TZID=Europe/Moscow:20261114T170000
-DTEND;TZID=Europe/Moscow:20261114T190000
+DTEND;TZID=Europe/Moscow:20261114T170200
 SUMMARY:Guild Wars 2: Дуушный рейд [ММОрафон]
 DESCRIPTION:(Нет\, это не опечатка) Мы обязательно победим экс-бога смерт
  и Дуума! Ну за два часа-то точно!\n\nАлексей Ермолаев\, Илья Шарифов\n\n
