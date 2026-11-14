@@ -2409,9 +2409,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2543@stopgame.sched-alert-bot
-DTSTAMP:20261111T144000Z
-LAST-MODIFIED:20261111T144000Z
-SEQUENCE:0
+DTSTAMP:20261114T133100Z
+LAST-MODIFIED:20261114T133100Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261114T170000
 DTEND;TZID=Europe/Moscow:20261114T190000
 SUMMARY:Guild Wars 2: Дуушный рейд [ММОрафон]
@@ -2424,7 +2424,7 @@ DESCRIPTION:(Нет\, это не опечатка) Мы обязательно 
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  14/c583x325/mlgr9x09fPuXEGNR4WmGcA/guild_wars_2_duushnyy_reyd_mmorafon_m
- ain.jpg?1794407990
+ ain.jpg?1794663009
 END:VEVENT
 BEGIN:VEVENT
 UID:2544@stopgame.sched-alert-bot
