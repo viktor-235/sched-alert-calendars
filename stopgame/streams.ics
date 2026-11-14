@@ -2446,12 +2446,12 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2546@stopgame.sched-alert-bot
-DTSTAMP:20261114T133200Z
-LAST-MODIFIED:20261114T133200Z
-SEQUENCE:0
+DTSTAMP:20261114T151400Z
+LAST-MODIFIED:20261114T151400Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261115T150000
 DTEND;TZID=Europe/Moscow:20261115T170000
-SUMMARY:Кинологи
+SUMMARY:СЕРДЦЕ ЗВЕРЯ | Табакошка [Кинологи]
 DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Никита Босс\n\nTwitch: http
  s://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stopgame
  RuOnline/live\nВеб-календарь: https://viktor-235.github.io/sched-alert-c
