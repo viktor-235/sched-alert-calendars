@@ -2428,9 +2428,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2544@stopgame.sched-alert-bot
-DTSTAMP:20261109T112600Z
-LAST-MODIFIED:20261109T112600Z
-SEQUENCE:0
+DTSTAMP:20261114T100900Z
+LAST-MODIFIED:20261114T100900Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261114T210000
 DTEND;TZID=Europe/Moscow:20261114T230000
 SUMMARY:Индиана. Disco Elysium (стрим восьмой)
@@ -2442,7 +2442,7 @@ DESCRIPTION:Иногда они возвращаются (в Ревашоль).\
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  14/c583x325/yjNhbcV_qbI6mRU6Gjjldg/indiana_disco_elysium_strim_vosmoy_ma
- in_1794223530.jpg?1794223555
+ in_1794223530.jpg?1794650903
 END:VEVENT
 BEGIN:VEVENT
 UID:2547@stopgame.sched-alert-bot
