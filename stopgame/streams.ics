@@ -2391,9 +2391,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2542@stopgame.sched-alert-bot
-DTSTAMP:20261113T212800Z
-LAST-MODIFIED:20261113T212800Z
-SEQUENCE:0
+DTSTAMP:20261114T093200Z
+LAST-MODIFIED:20261114T093200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261114T130000
 DTEND;TZID=Europe/Moscow:20261114T150000
 SUMMARY:Serious Sam II. Серьёзная стрелялка [Шутерок под Кофеёк]
@@ -2405,7 +2405,7 @@ DESCRIPTION:Серьёзные ведущие пришли серьёзно по
  dule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 14/c583x325/cqSQbGuO6VaxheYXSGZjBA/RQw0ssZ.jpg?1794605266
+ 14/c583x325/cqSQbGuO6VaxheYXSGZjBA/RQw0ssZ.jpg?1794648668
 END:VEVENT
 BEGIN:VEVENT
 UID:2543@stopgame.sched-alert-bot
