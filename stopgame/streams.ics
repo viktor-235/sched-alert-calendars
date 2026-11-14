@@ -2446,17 +2446,19 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2547@stopgame.sched-alert-bot
-DTSTAMP:20261108T130900Z
-LAST-MODIFIED:20261108T130900Z
-SEQUENCE:0
+DTSTAMP:20261114T103000Z
+LAST-MODIFIED:20261114T103000Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261115T180000
 DTEND;TZID=Europe/Moscow:20261115T200000
 SUMMARY:ТЕАТРАЛЬНЫЙ КРУЖОК STOPGAME.RU
-DESCRIPTION:VOKSHO4KA\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTub
- e: https://www.youtube.com/@StopgameRuOnline/live\nВеб-календарь: https:
- //viktor-235.github.io/sched-alert-calendars/stopgame/\nStopGame: https:
- //stopgame.ru/live_schedule
+DESCRIPTION:Иван Лоев\, VOKSHO4KA\, Анастасия Коноплёва\n\nTwitch: https:
+ //www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRu
+ Online/live\nВеб-календарь: https://viktor-235.github.io/sched-alert-cal
+ endars/stopgame/\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 14/c583x325/UUhYo19G8G0lTxdeXWADQg/5EEGu92.jpg?1794652151
 END:VEVENT
 BEGIN:VEVENT
 UID:2549@stopgame.sched-alert-bot
