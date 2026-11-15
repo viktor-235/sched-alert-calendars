@@ -2428,11 +2428,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2544@stopgame.sched-alert-bot
-DTSTAMP:20261115T112000Z
-LAST-MODIFIED:20261115T112000Z
-SEQUENCE:4
-DTSTART;TZID=Europe/Moscow:20261114T210000
-DTEND;TZID=Europe/Moscow:20261114T230000
+DTSTAMP:20261115T112200Z
+LAST-MODIFIED:20261115T112200Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261115T142000
+DTEND;TZID=Europe/Moscow:20261115T142200
 SUMMARY:Индиана. Disco Elysium (стрим девятый)
 DESCRIPTION:Иногда они возвращаются (в Ревашоль). Ведущие Дмитрий Карнов 
  Андрей Маковеев\n\nДмитрий Карнов\, Андрей Маковеев\n\nTwitch: https://w
@@ -2446,9 +2446,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2546@stopgame.sched-alert-bot
-DTSTAMP:20261114T234600Z
-LAST-MODIFIED:20261114T234600Z
-SEQUENCE:2
+DTSTAMP:20261115T113100Z
+LAST-MODIFIED:20261115T113100Z
+SEQUENCE:3
 DTSTART;TZID=Europe/Moscow:20261115T150000
 DTEND;TZID=Europe/Moscow:20261115T170000
 SUMMARY:СЕРДЦЕ ЗВЕРЯ | Табакошка [Кинологи]
@@ -2458,7 +2458,7 @@ DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Ники
  alendars/stopgame/\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 15/c583x325/FkIIIuByCapLbAEvR1XLTg/RSGPGYX.jpg?1794699921
+ 15/c583x325/FkIIIuByCapLbAEvR1XLTg/RSGPGYX.jpg?1794742208
 END:VEVENT
 BEGIN:VEVENT
 UID:2547@stopgame.sched-alert-bot
