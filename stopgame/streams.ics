@@ -2446,11 +2446,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2546@stopgame.sched-alert-bot
-DTSTAMP:20261115T120200Z
-LAST-MODIFIED:20261115T120200Z
-SEQUENCE:5
-DTSTART;TZID=Europe/Moscow:20261115T150000
-DTEND;TZID=Europe/Moscow:20261115T170000
+DTSTAMP:20261115T144700Z
+LAST-MODIFIED:20261115T144700Z
+SEQUENCE:6
+DTSTART;TZID=Europe/Moscow:20261115T150200
+DTEND;TZID=Europe/Moscow:20261115T174700
 SUMMARY:СЕРДЦЕ ЗВЕРЯ | Табакошка [Кинологи]
 DESCRIPTION:Илья Шарифов\, Максим Солодилов\, Никита Босс\n\nTwitch: http
  s://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stopgame
