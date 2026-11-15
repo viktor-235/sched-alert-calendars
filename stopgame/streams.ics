@@ -2428,21 +2428,21 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2544@stopgame.sched-alert-bot
-DTSTAMP:20261114T180000Z
-LAST-MODIFIED:20261114T180000Z
-SEQUENCE:3
+DTSTAMP:20261115T112000Z
+LAST-MODIFIED:20261115T112000Z
+SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261114T210000
 DTEND;TZID=Europe/Moscow:20261114T230000
-SUMMARY:Индиана. Disco Elysium (стрим восьмой)
-DESCRIPTION:Иногда они возвращаются (в Ревашоль).\n\nДмитрий Карнов\, Анд
- рей Маковеев\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https
- ://www.youtube.com/@StopgameRuOnline/live\nВеб-календарь: https://viktor
- -235.github.io/sched-alert-calendars/stopgame/\nStopGame: https://stopga
- me.ru/live_schedule
+SUMMARY:Индиана. Disco Elysium (стрим девятый)
+DESCRIPTION:Иногда они возвращаются (в Ревашоль). Ведущие Дмитрий Карнов 
+ Андрей Маковеев\n\nДмитрий Карнов\, Андрей Маковеев\n\nTwitch: https://w
+ ww.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnl
+ ine/live\nВеб-календарь: https://viktor-235.github.io/sched-alert-calend
+ ars/stopgame/\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  14/c583x325/yjNhbcV_qbI6mRU6Gjjldg/indiana_disco_elysium_strim_vosmoy_ma
- in_1794223530.jpg?1794677408
+ in_1794223530.jpg?1794726612
 END:VEVENT
 BEGIN:VEVENT
 UID:2546@stopgame.sched-alert-bot
