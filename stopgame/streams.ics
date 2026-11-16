@@ -2499,11 +2499,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2548@stopgame.sched-alert-bot
-DTSTAMP:20261116T150200Z
-LAST-MODIFIED:20261116T150200Z
-SEQUENCE:4
-DTSTART;TZID=Europe/Moscow:20261116T180000
-DTEND;TZID=Europe/Moscow:20261116T200000
+DTSTAMP:20261116T165900Z
+LAST-MODIFIED:20261116T165900Z
+SEQUENCE:5
+DTSTART;TZID=Europe/Moscow:20261116T180200
+DTEND;TZID=Europe/Moscow:20261116T195900
 SUMMARY:Fortnite X One Piece 4. Пираты-вокалоиды отаку-э!
 DESCRIPTION:«Мне показалось\, что человек\, весь исколот ножами… Или это 
  просто маленькие боты.» © РобинДроид\n\nЯн Грибович\, Иван Лоев\, Алекса
