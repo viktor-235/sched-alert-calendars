@@ -2574,6 +2574,23 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  ?1794840060
 END:VEVENT
 BEGIN:VEVENT
+UID:2558@stopgame.sched-alert-bot
+DTSTAMP:20261117T175000Z
+LAST-MODIFIED:20261117T175000Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261120T230000
+DTEND;TZID=Europe/Moscow:20261121T010000
+SUMMARY:Карновал квестов + | Пророк и убийца (эфир второй)
+DESCRIPTION:Чёт там про ассасинов или типа того.\n\nДмитрий Карнов\, VOKS
+ HO4KA\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.
+ youtube.com/@StopgameRuOnline/live\nВеб-календарь: https://viktor-235.gi
+ thub.io/sched-alert-calendars/stopgame/\nStopGame: https://stopgame.ru/l
+ ive_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 17/c583x325/XFsdrImD2Icd-PlSZdbmiw/TbqD4F3lN.jpg?1794937797
+END:VEVENT
+BEGIN:VEVENT
 UID:2555@stopgame.sched-alert-bot
 DTSTAMP:20261112T131100Z
 LAST-MODIFIED:20261112T131100Z
