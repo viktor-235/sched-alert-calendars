@@ -2537,9 +2537,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2554@stopgame.sched-alert-bot
-DTSTAMP:20261118T104800Z
-LAST-MODIFIED:20261118T104800Z
-SEQUENCE:0
+DTSTAMP:20261118T143100Z
+LAST-MODIFIED:20261118T143100Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261118T180000
 DTEND;TZID=Europe/Moscow:20261118T200000
 SUMMARY:Странные номинанты TGA 2026 // Релиз GTA VI // Wolfenstein 3 жива
@@ -2550,7 +2550,7 @@ DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов
  s/stopgame/\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 18/c583x325/gqhMZFceeifUirnjqTk_sA/4MdXjtN.jpg?1794998863
+ 18/c583x325/gqhMZFceeifUirnjqTk_sA/4MdXjtN.jpg?1795012209
 END:VEVENT
 BEGIN:VEVENT
 UID:2562@stopgame.sched-alert-bot
