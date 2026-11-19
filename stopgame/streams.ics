@@ -2571,6 +2571,25 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  16/c583x325/LfBgSXT0VpPHa3iprfMO2g/i4LzNSVYS.jpg?1795077008
 END:VEVENT
 BEGIN:VEVENT
+UID:2563@stopgame.sched-alert-bot
+DTSTAMP:20261119T192600Z
+LAST-MODIFIED:20261119T192600Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261120T120000
+DTEND;TZID=Europe/Moscow:20261120T140000
+SUMMARY:GTA VI Марафон [День 2]
+DESCRIPTION:Больше десяти лет ожидания\, но мы дождались! И теперь проход
+ им GTA VI каждый день. Каждый день\, по 6 и более часов! Будем играть в 
+ GTA VI\, пока не пройдем!! Целиком!!! А тут уже и второй день\n\nАнастас
+ ия Коноплёва\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https
+ ://www.youtube.com/@StopgameRuOnline/live\nВеб-календарь: https://viktor
+ -235.github.io/sched-alert-calendars/stopgame/\nStopGame: https://stopga
+ me.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 18/c583x325/bBuJoWUJpEKe2bIGa9F5eQ/KTW7abCg.jpg?1795116308
+END:VEVENT
+BEGIN:VEVENT
 UID:2557@stopgame.sched-alert-bot
 DTSTAMP:20261116T144200Z
 LAST-MODIFIED:20261116T144200Z
