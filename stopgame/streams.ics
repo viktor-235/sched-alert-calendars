@@ -2554,9 +2554,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2562@stopgame.sched-alert-bot
-DTSTAMP:20261115T225500Z
-LAST-MODIFIED:20261115T225500Z
-SEQUENCE:0
+DTSTAMP:20261119T083100Z
+LAST-MODIFIED:20261119T083100Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261119T120000
 DTEND;TZID=Europe/Moscow:20261119T140000
 SUMMARY:GTA VI Марафон
@@ -2568,7 +2568,7 @@ DESCRIPTION:Больше десяти лет ожидания\, но мы дож
  rt-calendars/stopgame/\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 16/c583x325/LfBgSXT0VpPHa3iprfMO2g/i4LzNSVYS.jpg?1794783285
+ 16/c583x325/LfBgSXT0VpPHa3iprfMO2g/i4LzNSVYS.jpg?1795077008
 END:VEVENT
 BEGIN:VEVENT
 UID:2557@stopgame.sched-alert-bot
