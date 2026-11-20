@@ -2607,6 +2607,22 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  17/c583x325/XFsdrImD2Icd-PlSZdbmiw/TbqD4F3lN.jpg?1794937797
 END:VEVENT
 BEGIN:VEVENT
+UID:2564@stopgame.sched-alert-bot
+DTSTAMP:20261120T154000Z
+LAST-MODIFIED:20261120T154000Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261121T120000
+DTEND;TZID=Europe/Moscow:20261121T140000
+SUMMARY:GTA VI Марафон [День 3]
+DESCRIPTION:День третий похождения GTA\n\nАнастасия Коноплёва\n\nTwitch: 
+ https://www.twitch.tv/stopgameru\nYouTube: https://www.youtube.com/@Stop
+ gameRuOnline/live\nВеб-календарь: https://viktor-235.github.io/sched-ale
+ rt-calendars/stopgame/\nStopGame: https://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 18/c583x325/Tvz4DMsRhR_zrYCHPh6tHA/npEIDQxPn.jpg?1795189173
+END:VEVENT
+BEGIN:VEVENT
 UID:2555@stopgame.sched-alert-bot
 DTSTAMP:20261118T151000Z
 LAST-MODIFIED:20261118T151000Z
