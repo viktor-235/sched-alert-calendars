@@ -2591,9 +2591,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2558@stopgame.sched-alert-bot
-DTSTAMP:20261117T175000Z
-LAST-MODIFIED:20261117T175000Z
-SEQUENCE:0
+DTSTAMP:20261120T193200Z
+LAST-MODIFIED:20261120T193200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261120T230000
 DTEND;TZID=Europe/Moscow:20261121T010000
 SUMMARY:Карновал квестов + | Пророк и убийца (эфир второй)
@@ -2604,7 +2604,7 @@ DESCRIPTION:Чёт там про ассасинов или типа того.\n\
  ive_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 17/c583x325/XFsdrImD2Icd-PlSZdbmiw/TbqD4F3lN.jpg?1794937797
+ 17/c583x325/XFsdrImD2Icd-PlSZdbmiw/TbqD4F3lN.jpg?1795203068
 END:VEVENT
 BEGIN:VEVENT
 UID:2564@stopgame.sched-alert-bot
