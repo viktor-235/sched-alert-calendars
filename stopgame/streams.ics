@@ -2590,26 +2590,6 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  18/c583x325/bBuJoWUJpEKe2bIGa9F5eQ/KTW7abCg.jpg?1795116308
 END:VEVENT
 BEGIN:VEVENT
-UID:2557@stopgame.sched-alert-bot
-DTSTAMP:20261116T144200Z
-LAST-MODIFIED:20261116T144200Z
-SEQUENCE:0
-DTSTART;TZID=Europe/Moscow:20261120T180000
-DTEND;TZID=Europe/Moscow:20261120T200000
-SUMMARY:Syphon Filter 2 [Ретрореквест]
-DESCRIPTION:Традиционное ежепятничное погружение в уютную ностальгию. Пре
- даёмся любви к старине и лампово общаемся. Тема «Ретрореквеста» у нас в 
- блогах: правила\, прошлые эфиры\, текущее состояние списка реквестов и м
- ногое другое!\n\nИван Лоев\, Ян Грибович\n\nTwitch: https://www.twitch.t
- v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nВ
- еб-календарь: https://viktor-235.github.io/sched-alert-calendars/stopgam
- e/\nStopGame: https://stopgame.ru/live_schedule
-URL:https://www.twitch.tv/stopgameru
-IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 20/c583x325/kzRAhSSXmaREUZHikdsPxA/syphon_filter_2_retrorekvest_main.jpg
- ?1794840060
-END:VEVENT
-BEGIN:VEVENT
 UID:2558@stopgame.sched-alert-bot
 DTSTAMP:20261117T175000Z
 LAST-MODIFIED:20261117T175000Z
