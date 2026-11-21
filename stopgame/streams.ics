@@ -2624,9 +2624,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2555@stopgame.sched-alert-bot
-DTSTAMP:20261118T151000Z
-LAST-MODIFIED:20261118T151000Z
-SEQUENCE:1
+DTSTAMP:20261121T143200Z
+LAST-MODIFIED:20261121T143200Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261121T180000
 DTEND;TZID=Europe/Moscow:20261121T200000
 SUMMARY:Читаем анекдоты про Шерлока Холмса
@@ -2637,7 +2637,7 @@ DESCRIPTION:Заходят как-то Шерлок Холмс и доктор �
  s/stopgame/\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 18/c583x325/zjMlNlDtwZQUxq5xx9odCA/9Y5Q30R.jpg?1795014573
+ 18/c583x325/zjMlNlDtwZQUxq5xx9odCA/9Y5Q30R.jpg?1795271468
 END:VEVENT
 BEGIN:VEVENT
 UID:2560@stopgame.sched-alert-bot
