@@ -2641,9 +2641,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2560@stopgame.sched-alert-bot
-DTSTAMP:20261117T175500Z
-LAST-MODIFIED:20261117T175500Z
-SEQUENCE:0
+DTSTAMP:20261121T173100Z
+LAST-MODIFIED:20261121T173100Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261121T210000
 DTEND;TZID=Europe/Moscow:20261121T230000
 SUMMARY:Индиана. Factorio (стрим шестой)
@@ -2655,7 +2655,7 @@ DESCRIPTION:Молодой инженер\, в цех!\n\nДмитрий Кар�
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  21/c583x325/U5atI3PtkeYszwyOwi99Zg/indiana_factorio_strim_shestoy_main_1
- 794937920.jpg?1794938041
+ 794937920.jpg?1795282210
 END:VEVENT
 BEGIN:VEVENT
 UID:2565@stopgame.sched-alert-bot
