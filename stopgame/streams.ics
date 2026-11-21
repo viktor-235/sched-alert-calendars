@@ -2641,11 +2641,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2560@stopgame.sched-alert-bot
-DTSTAMP:20261121T180400Z
-LAST-MODIFIED:20261121T180400Z
-SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261121T210000
-DTEND;TZID=Europe/Moscow:20261121T230000
+DTSTAMP:20261121T215300Z
+LAST-MODIFIED:20261121T215300Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261121T210400
+DTEND;TZID=Europe/Moscow:20261122T005300
 SUMMARY:Индиана. Factorio (стрим шестой)
 DESCRIPTION:Молодой инженер\, в цех!\n\nДмитрий Карнов\, Андрей Маковеев\
  n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.youtub
