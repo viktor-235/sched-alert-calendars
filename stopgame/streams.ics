@@ -2591,11 +2591,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2558@stopgame.sched-alert-bot
-DTSTAMP:20261120T200700Z
-LAST-MODIFIED:20261120T200700Z
-SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261120T230000
-DTEND;TZID=Europe/Moscow:20261121T010000
+DTSTAMP:20261121T000100Z
+LAST-MODIFIED:20261121T000100Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261120T230700
+DTEND;TZID=Europe/Moscow:20261121T030100
 SUMMARY:Карновал квестов + | Пророк и убийца (эфир второй)
 DESCRIPTION:Чёт там про ассасинов или типа того.\n\nДмитрий Карнов\, VOKS
  HO4KA\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www.
