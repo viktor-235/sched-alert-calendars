@@ -2675,9 +2675,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2559@stopgame.sched-alert-bot
-DTSTAMP:20261119T224900Z
-LAST-MODIFIED:20261119T224900Z
-SEQUENCE:0
+DTSTAMP:20261122T143200Z
+LAST-MODIFIED:20261122T143200Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261122T180000
 DTEND;TZID=Europe/Moscow:20261122T200000
 SUMMARY:Саботаж: Кулак Империи. Российский шутер в будущем [Шутерок под К
@@ -2691,7 +2691,7 @@ DESCRIPTION:Мы понятия не имеем\, что это за игра. �
  u/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 20/c583x325/lpsXXH0J1lWOtkNIvM4aAA/eKrShpM.jpg?1795128531
+ 20/c583x325/lpsXXH0J1lWOtkNIvM4aAA/eKrShpM.jpg?1795357868
 END:VEVENT
 BEGIN:VEVENT
 UID:2557@stopgame.sched-alert-bot
