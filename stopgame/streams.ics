@@ -2659,9 +2659,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2565@stopgame.sched-alert-bot
-DTSTAMP:20261121T145300Z
-LAST-MODIFIED:20261121T145300Z
-SEQUENCE:0
+DTSTAMP:20261122T083100Z
+LAST-MODIFIED:20261122T083100Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261122T120000
 DTEND;TZID=Europe/Moscow:20261122T140000
 SUMMARY:GTA VI Марафон [День 4]
@@ -2671,7 +2671,7 @@ DESCRIPTION:Четвертый день прохождения GTA\n\nАнаст
  -alert-calendars/stopgame/\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 18/c583x325/EdSoCUAJJ8BZibdZAiydDw/zwc_e9RT.jpg?1795272762
+ 18/c583x325/EdSoCUAJJ8BZibdZAiydDw/zwc_e9RT.jpg?1795336209
 END:VEVENT
 BEGIN:VEVENT
 UID:2559@stopgame.sched-alert-bot
