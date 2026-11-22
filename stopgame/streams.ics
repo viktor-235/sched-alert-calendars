@@ -2675,23 +2675,20 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2559@stopgame.sched-alert-bot
-DTSTAMP:20261122T151200Z
-LAST-MODIFIED:20261122T151200Z
-SEQUENCE:3
+DTSTAMP:20261122T162300Z
+LAST-MODIFIED:20261122T162300Z
+SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261122T180000
 DTEND;TZID=Europe/Moscow:20261122T200000
-SUMMARY:Саботаж: Кулак Империи. Российский шутер в будущем [Шутерок под К
- офеёк]
-DESCRIPTION:Мы понятия не имеем\, что это за игра. Но есть ощущение\, ска
- жем\, некой тяжести и напряженности. Это не будет лёгкой прогулкой по го
- роду с чашечкой капучино и вишнёвым круассаном.\n\nДенис Старков\, Михаи
- л Галкин\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://w
- ww.youtube.com/@StopgameRuOnline/live\nВеб-календарь: https://viktor-235
- .github.io/sched-alert-calendars/stopgame/\nStopGame: https://stopgame.r
- u/live_schedule
+SUMMARY:Active Matter. Научно-фантастический экстракшн-шутер [Шутерок под
+  Кофеёк]
+DESCRIPTION:Денис Старков\, Михаил Галкин\n\nTwitch: https://www.twitch.t
+ v/stopgameru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nВ
+ еб-календарь: https://viktor-235.github.io/sched-alert-calendars/stopgam
+ e/\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 20/c583x325/lpsXXH0J1lWOtkNIvM4aAA/eKrShpM.jpg?1795357868
+ 22/c583x325/MJb2SmBDJ1IePXiKvXe7nQ/n_7k3y7j.jpg?1795364552
 END:VEVENT
 BEGIN:VEVENT
 UID:2566@stopgame.sched-alert-bot
