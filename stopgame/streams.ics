@@ -2692,19 +2692,19 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2566@stopgame.sched-alert-bot
-DTSTAMP:20261122T145800Z
-LAST-MODIFIED:20261122T145800Z
-SEQUENCE:0
+DTSTAMP:20261122T164300Z
+LAST-MODIFIED:20261122T164300Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Moscow:20261123T120000
 DTEND;TZID=Europe/Moscow:20261123T140000
-SUMMARY:GTA IV
+SUMMARY:GTA VI Марафон [День 5]
 DESCRIPTION:Анастасия Коноплёва\n\nTwitch: https://www.twitch.tv/stopgame
  ru\nYouTube: https://www.youtube.com/@StopgameRuOnline/live\nВеб-календа
  рь: https://viktor-235.github.io/sched-alert-calendars/stopgame/\nStopGa
  me: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 22/c583x325/nEuXhoXyzQxbgLn8RUt4AQ/WvyzDre.jpg?1795359428
+ 22/c583x325/nEuXhoXyzQxbgLn8RUt4AQ/WvyzDre.jpg?1795365746
 END:VEVENT
 BEGIN:VEVENT
 UID:2557@stopgame.sched-alert-bot
