@@ -2729,6 +2729,26 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  22/c583x325/3XBJocwavfEUzDv2ajzYNw/qz618ma.jpg?1795371358
 END:VEVENT
 BEGIN:VEVENT
+UID:2568@stopgame.sched-alert-bot
+DTSTAMP:20261123T202100Z
+LAST-MODIFIED:20261123T202100Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261124T183000
+DTEND;TZID=Europe/Moscow:20261124T203000
+SUMMARY:Кокпит - Star Citizen
+DESCRIPTION:Стримим игры\, в которых есть космос\, преимущественно — косм
+ осимы. Начинаем с прохождения X4. Выбирать условия и путь можно будет во
+  время трансляций.\n\nИлья Есаулов\, Иван Лоев\, Cheezzy fioletovaya bor
+ oda\, Алексей Ермолаев\n\nTwitch: https://www.twitch.tv/stopgameru\nYouT
+ ube: https://www.youtube.com/@StopgameRuOnline/live\nВеб-календарь: http
+ s://viktor-235.github.io/sched-alert-calendars/stopgame/\nStopGame: http
+ s://stopgame.ru/live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 24/c583x325/PekYCuCSN2F99P60R6qGiQ/kokpit_star_citizen_main.jpg?17954652
+ 16
+END:VEVENT
+BEGIN:VEVENT
 UID:2557@stopgame.sched-alert-bot
 DTSTAMP:20261120T082400Z
 LAST-MODIFIED:20261120T082400Z
