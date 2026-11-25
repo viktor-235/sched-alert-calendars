@@ -2769,9 +2769,9 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2571@stopgame.sched-alert-bot
-DTSTAMP:20261125T114400Z
-LAST-MODIFIED:20261125T114400Z
-SEQUENCE:1
+DTSTAMP:20261125T143100Z
+LAST-MODIFIED:20261125T143100Z
+SEQUENCE:2
 DTSTART;TZID=Europe/Moscow:20261125T180000
 DTEND;TZID=Europe/Moscow:20261125T200000
 SUMMARY:GTA VI\, GTA VI\, GTA VI\, GTA VI\, GTA VI\, GTA VI\, GTA VI... [
@@ -2782,7 +2782,7 @@ DESCRIPTION:Михаил Галкин\, Зулин\, Дмитрий Карнов
  s/stopgame/\nStopGame: https://stopgame.ru/live_schedule
 URL:https://www.twitch.tv/stopgameru
 IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
- 25/c583x325/AS4Yo8g8Yohva2DTCsxSfQ/U0PcYjFv.jpg?1795607011
+ 25/c583x325/AS4Yo8g8Yohva2DTCsxSfQ/U0PcYjFv.jpg?1795617009
 END:VEVENT
 BEGIN:VEVENT
 UID:2557@stopgame.sched-alert-bot
