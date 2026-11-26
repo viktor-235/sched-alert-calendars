@@ -2824,6 +2824,24 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
  ?1795162981
 END:VEVENT
 BEGIN:VEVENT
+UID:2574@stopgame.sched-alert-bot
+DTSTAMP:20261126T105700Z
+LAST-MODIFIED:20261126T105700Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Moscow:20261128T210000
+DTEND;TZID=Europe/Moscow:20261128T230000
+SUMMARY:Индиана. SOMA
+DESCRIPTION:Игра про рыбалку или типа того.\n\nДмитрий Карнов\, Андрей Ма
+ ковеев\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: https://www
+ .youtube.com/@StopgameRuOnline/live\nВеб-календарь: https://viktor-235.g
+ ithub.io/sched-alert-calendars/stopgame/\nStopGame: https://stopgame.ru/
+ live_schedule
+URL:https://www.twitch.tv/stopgameru
+IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
+ 28/c583x325/m4yTPSc1NM4ePF_O4A4Gyg/indiana_soma_main_1795690557.jpg?1795
+ 690615
+END:VEVENT
+BEGIN:VEVENT
 UID:2575@stopgame.sched-alert-bot
 DTSTAMP:20261124T223200Z
 LAST-MODIFIED:20261124T223200Z
