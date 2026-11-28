@@ -2840,11 +2840,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2586@stopgame.sched-alert-bot
-DTSTAMP:20261128T090200Z
-LAST-MODIFIED:20261128T090200Z
-SEQUENCE:3
-DTSTART;TZID=Europe/Moscow:20261128T120000
-DTEND;TZID=Europe/Moscow:20261128T140000
+DTSTAMP:20261128T174200Z
+LAST-MODIFIED:20261128T174200Z
+SEQUENCE:4
+DTSTART;TZID=Europe/Moscow:20261128T120200
+DTEND;TZID=Europe/Moscow:20261128T204200
 SUMMARY:GTA VI Марафон [Финал!!]
 DESCRIPTION:Больше десяти лет ожидания\, но мы дождались! И теперь проход
  им GTA VI каждый день. Каждый день\, по 6 и более часов! Будем играть в 
