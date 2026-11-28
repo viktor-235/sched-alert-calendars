@@ -2823,11 +2823,11 @@ IMAGE;VALUE=URI;DISPLAY=BADGE:https://images.stopgame.ru/streams/2026/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:2573@stopgame.sched-alert-bot
-DTSTAMP:20261127T200000Z
-LAST-MODIFIED:20261127T200000Z
-SEQUENCE:3
+DTSTAMP:20261128T015000Z
+LAST-MODIFIED:20261128T015000Z
+SEQUENCE:4
 DTSTART;TZID=Europe/Moscow:20261127T230000
-DTEND;TZID=Europe/Moscow:20261128T010000
+DTEND;TZID=Europe/Moscow:20261128T045000
 SUMMARY:Карновал квестов + | Пророк и убийца (эфир третий)
 DESCRIPTION:Последняя глава приключений Ас-Саифа. Или нет?..\n\nДмитрий К
  арнов\, VOKSHO4KA\n\nTwitch: https://www.twitch.tv/stopgameru\nYouTube: 
